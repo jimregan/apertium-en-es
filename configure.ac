@@ -4,13 +4,13 @@
 
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-en-es], [0.6], [mginesti@dlsi.ua.es])
-AM_INIT_AUTOMAKE([apertium-en-es], [0.6], no-define)
+AC_INIT([apertium-en-es], [0.7.0], [mginesti@dlsi.ua.es])
+AM_INIT_AUTOMAKE([apertium-en-es], [0.7.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 AC_CONFIG_HEADER([config])
 
-AC_DEFUN(PKG_CHECK_APERTIUM, [
+AC_DEFUN([PKG_CHECK_APERTIUM], [
   APERTIUM_VER=0
   PKG_CHECK_MODULES(APERTIUM, apertium-1.0 >= 1.0.0,
   [
@@ -22,8 +22,20 @@ AC_DEFUN(PKG_CHECK_APERTIUM, [
           APERTIUM_VER=20
       ],
       [
-          PKG_CHECK_MODULES(APERTIUM, apertium-3.0 >= 3.0.0)
-          APERTIUM_VER=30
+          PKG_CHECK_MODULES(APERTIUM, apertium-3.0 >= 3.0.0,
+          [
+              APERTIUM_VER=30
+          ],
+          [
+              PKG_CHECK_MODULES(APERTIUM, apertium-3.1 >= 3.1.0,
+              [
+                  APERTIUM_VER=31
+              ],
+              [
+                  PKG_CHECK_MODULES(APERTIUM, apertium-3.2 >= 3.2.0)
+                  APERTIUM_VER=32
+              ])
+          ])
       ])
   ])
   AC_SUBST(APERTIUM_VER)
@@ -36,7 +48,10 @@ then MODES="";
 else MODES="modes";
 fi
 
+ALTXSL="alt.xsl";
+
 AC_SUBST(MODES)
+AC_SUBST(ALTXSL)
 
   
 AC_OUTPUT([Makefile])

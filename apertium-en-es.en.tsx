@@ -6,7 +6,7 @@
     <tags-item lemma="to" tags="pr"/>
   </def-label> 
   <def-label name="FOR" closed="true">
-    <tags-item lemma="for" tags="pr"/><!--MG. afegit 19-09-06. confon <pr> amb <cnjadv>, tb en altres cases ('en'). Caldria fer algo al respecte o potser amb un text etiquetat ho fa millor. -->
+    <tags-item lemma="for" tags="cnjadv"/><!--MG. afegit 19-09-06. confon <pr> amb <cnjadv>, tb en altres cases ('en'). Caldria fer algo al respecte o potser amb un text etiquetat ho fa millor. -->
   </def-label> 
   <def-label name="THATCNJ" closed="true">
     <tags-item lemma="that" tags="cnjsub"/>
@@ -33,13 +33,13 @@
     <tags-item lemma="do" tags="vblex.past"/>
   </def-label>
 
-
-  <def-label name="VERBS_DISCURS" closed="true">
+<!--
+  <def-label name="VERBS_DISCURS_PP" closed="true">
     <tags-item lemma="say" tags="vblex.pp"/>
     <tags-item lemma="explain" tags="vblex.pp"/>
     <tags-item lemma="add" tags="vblex.pp"/>
     <tags-item lemma="tell" tags="vblex.pp"/>
-  </def-label>
+  </def-label>-->
 
   <def-label name="INTNOM" closed="true">
     <tags-item tags="prn.itg.*"/>
@@ -93,9 +93,13 @@
     <tags-item tags="num.*"/>
     <tags-item tags="num"/>
   </def-label>
+  <def-label name="WEB" closed="true">
+    <tags-item tags="web"/>
+  </def-label>
   <def-label name="NOMSG">
     <tags-item tags="n.sg"/>
     <tags-item tags="n.acr.sg"/>
+    <tags-item tags="n.acr.sp"/>
     <tags-item tags="n.unc.sg"/>
   </def-label>
   <def-label name="NOMPL">
@@ -103,6 +107,7 @@
     <tags-item tags="n.acr.pl"/>
     <tags-item tags="n.unc.pl"/>
   </def-label>
+  
   <def-label name="INTERJ">
     <tags-item tags="ij"/>
   </def-label>
@@ -237,6 +242,9 @@
   <def-label name="RELAN" closed="true">
     <tags-item tags="rel.an.*"/>
   </def-label>
+  <def-label name="RELAA" closed="true">
+    <tags-item tags="rel.aa.*"/>
+  </def-label>
   <def-label name="RELNN" closed="true">
     <tags-item tags="rel.nn.*"/>
   </def-label>
@@ -269,6 +277,14 @@
     <label-sequence>
       <label-item label="PRNALTRES"/>
       <label-item label="NOMPL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PRNALTRES"/>
+      <label-item label="CANNOM"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PRNALTRES"/>
+      <label-item label="WILLNOM"/>
     </label-sequence>
    <label-sequence>
       <label-item label="VHAVEPP"/>
@@ -315,10 +331,10 @@
       <label-item label="PRNSUBJ"/>
       <label-item label="VLEXPP"/>
     </label-sequence> 
-    <label-sequence>
+  <!--  <label-sequence>
       <label-item label="PRNSUBJ"/>
-      <label-item label="VERBS_DISCURS"/>
-    </label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>
+    </label-sequence> -->
     <label-sequence>
       <label-item label="PRNSUBJ"/>
       <label-item label="VSERPP"/>
@@ -343,6 +359,14 @@
     <label-sequence>
       <label-item label="PRNSUBJ"/>
       <label-item label="NOMPL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PRNSUBJ"/>
+      <label-item label="CANNOM"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PRNSUBJ"/>
+      <label-item label="WILLNOM"/>
     </label-sequence>
     <label-sequence>
       <label-item label="PRNSUBJ"/>
@@ -425,10 +449,10 @@
       <label-item label="RELAN"/>
       <label-item label="VHAVEPP"/>      
     </label-sequence>
-    <label-sequence>
+  <!--  <label-sequence>
       <label-item label="RELAN"/>
-      <label-item label="VERBS_DISCURS"/>      
-    </label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>      
+    </label-sequence> -->
     <label-sequence><!--no estic segura que aquesta prohib sigui adequada per a tots els rel 'nn' -->
       <label-item label="RELNN"/>
       <label-item label="VLEXPP"/>    
@@ -445,10 +469,10 @@
       <label-item label="RELNN"/>
       <label-item label="VHAVEPP"/>      
     </label-sequence>
-    <label-sequence>
+ <!--   <label-sequence>
       <label-item label="RELNN"/>
-      <label-item label="VERBS_DISCURS"/>      
-    </label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>      
+    </label-sequence> -->
 
  
 
@@ -474,10 +498,10 @@
       <label-item label="ANTROPONIM"/>
       <label-item label="VLEXPP"/>
     </label-sequence>
-    <label-sequence>
+  <!--  <label-sequence>
       <label-item label="ANTROPONIM"/>
-      <label-item label="VERBS_DISCURS"/>
-    </label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>
+    </label-sequence> -->
     <label-sequence>
       <label-item label="ANTROPONIM"/>
       <label-item label="VSERPP"/>
@@ -490,10 +514,10 @@
       <label-item label="TOPONIM"/>
       <label-item label="VLEXPP"/>
     </label-sequence> 
-    <label-sequence>
+ <!--   <label-sequence>
       <label-item label="TOPONIM"/>
-      <label-item label="VERBS_DISCURS"/>
-    </label-sequence> 
+      <label-item label="VERBS_DISCURS_PP"/>
+    </label-sequence>  -->
     <label-sequence>
       <label-item label="TOPONIM"/>
       <label-item label="VSERPP"/>
@@ -506,10 +530,10 @@
       <label-item label="NPALTRES"/>
       <label-item label="VLEXPP"/>
     </label-sequence>
-    <label-sequence>
+  <!--  <label-sequence>
       <label-item label="NPALTRES"/>
-      <label-item label="VERBS_DISCURS"/>
-    </label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>
+    </label-sequence> -->
     <label-sequence>
       <label-item label="NPALTRES"/>
       <label-item label="VSERPP"/>
@@ -541,6 +565,14 @@
     <label-sequence>
       <label-item label="ADJPOS"/>
       <label-item label="NOMPL"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="ADJPOS"/>
+      <label-item label="CANNOM"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="ADJPOS"/>
+      <label-item label="WILLNOM"/>
     </label-sequence>
     <label-sequence>
       <label-item label="PRNSUBJ"/>
@@ -765,26 +797,38 @@
       <label-item label="NOADV"/>
       <label-item label="NOMPL"/>
     </label-sequence>
-
     <label-sequence>
+      <label-item label="NOADV"/>
+      <label-item label="CANNOM"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="NOADV"/>
+      <label-item label="WILLNOM"/>
+    </label-sequence>
+
+  <!--  <label-sequence>
       <label-item label="VERBS_DISCURS"/>
       <label-item label="NOMPL"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VERBS_DISCURS"/>
       <label-item label="NOMSG"/>
-    </label-sequence>
-    <label-sequence>
+    </label-sequence> -->
+   <!-- <label-sequence>
       <label-item label="CM"/>
-      <label-item label="VERBS_DISCURS"/>
-    </label-sequence>
-    <label-sequence>
+      <label-item label="VERBS_DISCURS_PP"/>
+    </label-sequence> -->
+   <!-- <label-sequence>
       <label-item label="VERBS_DISCURS"/>
       <label-item label="DET"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VERBS_DISCURS"/>
       <label-item label="DETQNT_ORD"/>
+    </label-sequence>-->
+    <label-sequence>
+      <label-item label="PRNSUBJ"/>
+      <label-item label="GEN"/>
     </label-sequence>
 
 
@@ -795,7 +839,7 @@
     <enforce-after label="VHAVEPAST">
       <label-set>
         <label-item label="VLEXPP"/>
-        <label-item label="VERBS_DISCURS"/>
+       <!-- <label-item label="VERBS_DISCURS_PP"/>-->
         <label-item label="VSERPP"/>
 	<label-item label="ADV"/>
 	<label-item label="NOT"/>
@@ -805,7 +849,7 @@
     <enforce-after label="VHAVEINF">
       <label-set>
         <label-item label="VLEXPP"/>
-        <label-item label="VERBS_DISCURS"/>
+      <!--  <label-item label="VERBS_DISCURS_PP"/>-->
         <label-item label="VSERPP"/>
 	<label-item label="ADV"/>
       </label-set>
@@ -813,7 +857,7 @@
      <enforce-after label="VHAVEPRES">
       <label-set>
         <label-item label="VLEXPP"/>
-        <label-item label="VERBS_DISCURS"/>
+    <!--    <label-item label="VERBS_DISCURS_PP"/>-->
         <label-item label="VSERPP"/>
 	<label-item label="ADV"/>
 	<label-item label="NOT"/>
@@ -823,7 +867,7 @@
      <enforce-after label="VHAVE">
       <label-set>
         <label-item label="VLEXPP"/>
-        <label-item label="VERBS_DISCURS"/>
+       <!-- <label-item label="VERBS_DISCURS_PP"/>-->
         <label-item label="VSERPP"/>
 	<label-item label="ADV"/>
 	<label-item label="NOT"/>
@@ -834,8 +878,36 @@
       <label-set>
         <label-item label="NOMSG"/>
         <label-item label="NOMPL"/>
+        <label-item label="CANNOM"/>
+        <label-item label="WILLNOM"/>
 	<label-item label="ADJ"/>
 	<label-item label="DET"/>
+      </label-set>
+    </enforce-after>
+
+     <enforce-after label="GEN">
+      <label-set>
+        <label-item label="NOMSG"/>
+        <label-item label="NOMPL"/>
+        <label-item label="CANNOM"/>
+        <label-item label="WILLNOM"/>
+	<label-item label="ADJ"/>
+	<label-item label="DETQNT_ORD"/>
+	<label-item label="NUM"/>
+	<label-item label="ANTROPONIM"/>
+	<label-item label="TOPONIM"/>
+	<label-item label="NPALTRES"/>
+      </label-set>
+    </enforce-after>
+     <enforce-after label="RELAA">
+      <label-set>
+        <label-item label="NOMSG"/>
+        <label-item label="NOMPL"/>
+        <label-item label="CANNOM"/>
+        <label-item label="WILLNOM"/>
+	<label-item label="ADJ"/>
+	<label-item label="DET"/>
+	<label-item label="DETQNT_ORD"/>
       </label-set>
     </enforce-after>
 
@@ -928,12 +1000,14 @@
 	<label-item label="CM"/>
       </label-set>
     </enforce-after> -->
-
-
- 
-   
+  
 
  </enforce-rules>
+
+
+ <preferences>
+   <prefer tags="n.acr.sg"/>
+ </preferences>
 
 
 </tagger>

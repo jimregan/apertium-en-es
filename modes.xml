@@ -5,7 +5,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -30,6 +30,71 @@
       </program>
     </pipeline>
   </mode>
+  <mode name="es-en_US" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-en-es.es-en.t1x"/>
+        <file name="es-en.t1x.bin"/>
+        <file name="es-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-en-es.es-en.t2x"/>
+        <file name="es-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-en-es.es-en.t3x"/>
+        <file name="es-en.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="es-en_US.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  <!-- sh! this is an Easter egg ;) -->
+  <mode name="en_GB-en_US" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="en-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="en-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc $1">
+        <file name="es-en_US.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  <mode name="en_US-en_GB" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="en-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="en-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc $1">
+        <file name="es-en.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 
 
   <mode name="es-en-latin1">
@@ -37,7 +102,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en-latin1.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -76,7 +141,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
     </pipeline>
@@ -87,7 +152,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -99,7 +164,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -116,7 +181,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -137,7 +202,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -162,7 +227,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -184,6 +249,33 @@
       </program>
     </pipeline>
   </mode>
+  <mode name="es-en_US-generador">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-en-es.es-en.t1x"/>
+        <file name="es-en.t1x.bin"/>
+        <file name="es-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-en-es.es-en.t2x"/>
+        <file name="es-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-en-es.es-en.t3x"/>
+        <file name="es-en.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="es-en_US.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 
   
   <mode name="en-es" install="yes">
@@ -191,10 +283,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -224,7 +320,7 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es-latin1.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -263,7 +359,7 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
     </pipeline>
@@ -274,10 +370,26 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="en-es-genitive">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="en-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="en-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
     </pipeline>
   </mode>
 
@@ -286,10 +398,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -303,10 +419,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -324,10 +444,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -349,10 +473,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -378,7 +506,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -413,7 +541,7 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -449,7 +577,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -488,7 +616,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
     </pipeline>
@@ -499,7 +627,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -511,7 +639,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -528,7 +656,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -549,7 +677,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -574,7 +702,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -604,10 +732,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -643,7 +775,7 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
     </pipeline>
@@ -654,10 +786,26 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="test-en-es-genitive">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="en-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="en-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
     </pipeline>
   </mode>
 
@@ -666,10 +814,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -683,10 +835,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -704,10 +860,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -729,10 +889,14 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-en-es.en-es.genitive.t1x"/>
+        <file name="en-es.genitive.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-en-es.en-es.t1x"/>
         <file name="en-es.t1x.bin"/>
@@ -757,7 +921,7 @@
       <program name="lt-proc">
         <file name="es-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="es-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -792,7 +956,7 @@
       <program name="lt-proc">
         <file name="en-es.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g">
+      <program name="apertium-tagger -g $2">
         <file name="en-es.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -824,5 +988,40 @@
 
   
 -->
+
+  <mode name="es-en-multi" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-en-es.es-en.t1x"/>
+        <file name="es-en.t1x.bin"/>
+        <file name="es-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-en-es.es-en.t2x"/>
+        <file name="es-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-en-es.es-en.t3x"/>
+        <file name="es-en.t3x.bin"/>
+      </program>
+      <program name="apertium-multiple-translations">
+        <file name="foo.bin"/> <!-- Empty transfer -->
+        <file name="es-en.autopoly.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="es-en.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 
 </modes>

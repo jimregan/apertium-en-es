@@ -230,13 +230,6 @@
 
     <e c="priority: 1">
       <p>
-        <l>Reagan</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 1">
-      <p>
         <l>York</l> 
         <r></r> 
       </p>
@@ -1400,13 +1393,6 @@
     <e c="priority: 2">
       <p>
         <l>GATT</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 2">
-      <p>
-        <l>Wright</l> 
         <r></r> 
       </p>
     </e>
@@ -10906,13 +10892,6 @@
     <e c="priority: 11">
       <p>
         <l>overly</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 11">
-      <p>
-        <l>O'Reilly</l> 
         <r></r> 
       </p>
     </e>
@@ -43105,7 +43084,7 @@
 
     <e c="priority: 42">
       <p>
-        <l>bail-#<pr</l> 
+        <l>bail-</l> 
         <r></r> 
       </p>
     </e>
@@ -50749,13 +50728,6 @@
 
     <e c="priority: 49">
       <p>
-        <l>QUEENSLAND</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 49">
-      <p>
         <l>Quay</l> 
         <r></r> 
       </p>
@@ -50840,7 +50812,7 @@
 
     <e c="priority: 49">
       <p>
-        <l>PUROLATOR<PCC</l> 
+        <l>PUROLATOR</l> 
         <r></r> 
       </p>
     </e>
@@ -55719,7 +55691,7 @@
 
     <e c="priority: 54">
       <p>
-        <l>LTD<KML</l> 
+        <l>LTD</l> 
         <r></r> 
       </p>
     </e>
@@ -61844,20 +61816,6 @@
 
     <e c="priority: 59">
       <p>
-        <l>DOVER</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 59">
-      <p>
-        <l>Dover</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 59">
-      <p>
         <l>Dove</l> 
         <r></r> 
       </p>
@@ -61921,20 +61879,6 @@
 
     <e c="priority: 59">
       <p>
-        <l>donors'</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 59">
-      <p>
-        <l>DONEGAL</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 59">
-      <p>
         <l>Donbass</l> 
         <r></r> 
       </p>
@@ -61977,7 +61921,7 @@
 
     <e c="priority: 60">
       <p>
-        <l>DOME<DMP</l> 
+        <l>DOME</l> 
         <r></r> 
       </p>
     </e>
@@ -65792,13 +65736,6 @@
 
     <e c="priority: 63">
       <p>
-        <l>BOEING<BA</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 63">
-      <p>
         <l>bode</l> 
         <r></r> 
       </p>
@@ -66080,13 +66017,6 @@
     <e c="priority: 63">
       <p>
         <l>Bess</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 63">
-      <p>
-        <l>BERYLLIUM</l> 
         <r></r> 
       </p>
     </e>
@@ -69306,7 +69236,7 @@
 
     <e c="priority: 66">
       <p>
-        <l>WRATHER<WCO</l> 
+        <l>WRATHER</l> 
         <r></r> 
       </p>
     </e>
@@ -73821,7 +73751,7 @@
 
     <e c="priority: 71">
       <p>
-        <l>TRW<TRW</l> 
+        <l>TRW</l> 
         <r></r> 
       </p>
     </e>
@@ -76733,7 +76663,7 @@
 
     <e c="priority: 74">
       <p>
-        <l>TAFT<TFB</l> 
+        <l>TAFT</l> 
         <r></r> 
       </p>
     </e>
@@ -77482,7 +77412,7 @@
 
     <e c="priority: 74">
       <p>
-        <l>SUnY<SAYI</l> 
+        <l>SUnY</l> 
         <r></r> 
       </p>
     </e>
@@ -80366,7 +80296,7 @@
 
     <e c="priority: 77">
       <p>
-        <l>S&L</l> 
+        <l>S&amp;L</l> 
         <r></r> 
       </p>
     </e>
@@ -80667,7 +80597,7 @@
 
     <e c="priority: 77">
       <p>
-        <l>singled-#<pr</l> 
+        <l>singled- </l>
         <r></r> 
       </p>
     </e>
@@ -82515,7 +82445,7 @@
 
     <e c="priority: 79">
       <p>
-        <l>screwed-#<pr</l> 
+        <l>screwed-</l> 
         <r></r> 
       </p>
     </e>
@@ -82690,7 +82620,7 @@
 
     <e c="priority: 79">
       <p>
-        <l>SCHLUMBERGER<SLB</l> 
+        <l>SCHLUMBERGER</l> 
         <r></r> 
       </p>
     </e>
@@ -82970,7 +82900,7 @@
 
     <e c="priority: 80">
       <p>
-        <l><Saudi</l> 
+        <l>Saudi</l> 
         <r></r> 
       </p>
     </e>
@@ -87163,13 +87093,6 @@
 
     <e c="priority: 84">
       <p>
-        <l>Reagans'</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 84">
-      <p>
         <l>Reagan-nombrado</l> 
         <r></r> 
       </p>
@@ -90229,7 +90152,7 @@
 
     <e c="priority: 86">
       <p>
-        <l>PLC<RWNTL</l> 
+        <l>PLC</l> 
         <r></r> 
       </p>
     </e>
@@ -90789,7 +90712,7 @@
 
     <e c="priority: 87">
       <p>
-        <l>PHILLIPS<P</l> 
+        <l>PHILLIPS</l> 
         <r></r> 
       </p>
     </e>
@@ -91027,7 +90950,7 @@
 
     <e c="priority: 87">
       <p>
-        <l>PETE<DMP</l> 
+        <l>PETE</l> 
         <r></r> 
       </p>
     </e>
@@ -92217,7 +92140,7 @@
 
     <e c="priority: 88">
       <p>
-        <l>PAINEWEBBER<PWJ</l> 
+        <l>PAINEWEBBER</l> 
         <r></r> 
       </p>
     </e>
@@ -93519,7 +93442,7 @@
 
     <e c="priority: 90">
       <p>
-        <l>O'KEEFE<CKB</l> 
+        <l>O'KEEFE</l> 
         <r></r> 
       </p>
     </e>
@@ -95416,7 +95339,7 @@
 
     <e c="priority: 91">
       <p>
-        <l>NAVISTAR<NAV</l> 
+        <l>NAVISTAR</l> 
         <r></r> 
       </p>
     </e>
@@ -95717,7 +95640,7 @@
 
     <e c="priority: 92">
       <p>
-        <l>NABISCO<RJRA</l> 
+        <l>NABISCO</l> 
         <r></r> 
       </p>
     </e>
@@ -96606,7 +96529,7 @@
 
     <e c="priority: 92">
       <p>
-        <l>MONSANTO<MCT</l> 
+        <l>MONSANTO</l> 
         <r></r> 
       </p>
     </e>
@@ -96935,7 +96858,7 @@
 
     <e c="priority: 93">
       <p>
-        <l>MOBIL<MOB</l> 
+        <l>MOBIL</l> 
         <r></r> 
       </p>
     </e>
@@ -97565,7 +97488,7 @@
 
     <e c="priority: 93">
       <p>
-        <l>MILLS<GIS</l> 
+        <l>MILLS</l> 
         <r></r> 
       </p>
     </e>
@@ -98167,7 +98090,7 @@
 
     <e c="priority: 94">
       <p>
-        <l>METEX<MTX</l> 
+        <l>METEX</l> 
         <r></r> 
       </p>
     </e>
@@ -100407,7 +100330,7 @@
 
     <e c="priority: 96">
       <p>
-        <l>LYPHOMED<LMED</l> 
+        <l>LYPHOMED</l> 
         <r></r> 
       </p>
     </e>
@@ -100463,7 +100386,7 @@
 
     <e c="priority: 96">
       <p>
-        <l>LYNCH<MER</l> 
+        <l>LYNCH</l> 
         <r></r> 
       </p>
     </e>
@@ -100750,14 +100673,14 @@
 
     <e c="priority: 96">
       <p>
-        <l>LTD<LTLPST</l> 
+        <l>LTD</l> 
         <r></r> 
       </p>
     </e>
 
     <e c="priority: 96">
       <p>
-        <l>LTD<FC</l> 
+        <l>LTD</l> 
         <r></r> 
       </p>
     </e>
@@ -101513,7 +101436,7 @@
 
     <e c="priority: 97">
       <p>
-        <l>LIFETIME<LFT</l> 
+        <l>LIFETIME</l> 
         <r></r> 
       </p>
     </e>
@@ -105839,7 +105762,7 @@
 
     <e c="priority: 101">
       <p>
-        <l>INTERGROUP<NII</l> 
+        <l>INTERGROUP</l> 
         <r></r> 
       </p>
     </e>
@@ -106700,7 +106623,7 @@
 
     <e c="priority: 102">
       <p>
-        <l>INC<UPT</l> 
+        <l>INC</l> 
         <r></r> 
       </p>
     </e>
@@ -106721,7 +106644,7 @@
 
     <e c="priority: 102">
       <p>
-        <l>INC<PGULF</l> 
+        <l>INC</l> 
         <r></r> 
       </p>
     </e>
@@ -106742,14 +106665,14 @@
 
     <e c="priority: 102">
       <p>
-        <l>INC<LIGARTH</l> 
+        <l>INC</l> 
         <r></r> 
       </p>
     </e>
 
     <e c="priority: 102">
       <p>
-        <l>INC<INSUA</l> 
+        <l>INC</l> 
         <r></r> 
       </p>
     </e>
@@ -107085,7 +107008,7 @@
 
     <e c="priority: 102">
       <p>
-        <l>ILLINOIS<CIL</l> 
+        <l>ILLINOIS</l> 
         <r></r> 
       </p>
     </e>
@@ -107715,7 +107638,7 @@
 
     <e c="priority: 103">
       <p>
-        <l>HUGHES<HT</l> 
+        <l>HUGHES</l> 
         <r></r> 
       </p>
     </e>
@@ -108079,7 +108002,7 @@
 
     <e c="priority: 103">
       <p>
-        <l><Hong</l> 
+        <l>Hong</l> 
         <r></r> 
       </p>
     </e>
@@ -109206,7 +109129,7 @@
 
     <e c="priority: 104">
       <p>
-        <l>HAUSERMAN<HASR</l> 
+        <l>HAUSERMAN</l> 
         <r></r> 
       </p>
     </e>
@@ -110221,7 +110144,7 @@
 
     <e c="priority: 105">
       <p>
-        <l>GRUMMAN<GQ</l> 
+        <l>GRUMMAN</l> 
         <r></r> 
       </p>
     </e>
@@ -111432,7 +111355,7 @@
 
     <e c="priority: 107">
       <p>
-        <l>GENCORP<GY</l> 
+        <l>GENCORP</l> 
         <r></r> 
       </p>
     </e>
@@ -111460,7 +111383,7 @@
 
     <e c="priority: 107">
       <p>
-        <l>GELCO<GEC</l> 
+        <l>GELCO</l> 
         <r></r> 
       </p>
     </e>
@@ -116409,7 +116332,7 @@
 
     <e c="priority: 111">
       <p>
-        <l>ELECTRIC<GE</l> 
+        <l>ELECTRIC</l> 
         <r></r> 
       </p>
     </e>
@@ -121372,13 +121295,6 @@
 
     <e c="priority: 116">
       <p>
-        <l>Cosby</l> 
-        <r></r> 
-      </p>
-    </e>
-
-    <e c="priority: 116">
-      <p>
         <l>Cos'</l> 
         <r></r> 
       </p>
@@ -121477,7 +121393,7 @@
 
     <e c="priority: 116">
       <p>
-        <l>CORP<DH</l> 
+        <l>CORP</l> 
         <r></r> 
       </p>
     </e>
@@ -127119,7 +127035,7 @@
 
     <e c="priority: 122">
       <p>
-        <l>BROADCASTING<TFB</l> 
+        <l>BROADCASTING</l> 
         <r></r> 
       </p>
     </e>
@@ -128162,7 +128078,7 @@
 
     <e c="priority: 123">
       <p>
-        <l>BLOEDEL<MMBLF</l> 
+        <l>BLOEDEL-MMBLF</l> 
         <r></r> 
       </p>
     </e>
