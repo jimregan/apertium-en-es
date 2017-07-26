@@ -2458,6 +2458,7 @@
     <e> <i>Contardo<s n="np"/><s n="ant"/></i></e>
     <e> <p><l>Koran<s n="np"/><s n="al"/></l><r>Corán<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e r="LR"> <p><l>Quran<s n="np"/><s n="al"/></l><r>Corán<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e r="LR"> <p><l>Qu'ran<s n="np"/><s n="al"/></l><r>Corán<s n="np"/><s n="al"/><s n="m"/></r></p></e>
     <e> <i>Coriolano<s n="np"/><s n="ant"/></i></e>
     <e> <i>Cornelio<s n="np"/><s n="ant"/></i></e>
     <e> <i>Cosme<s n="np"/><s n="ant"/></i></e>
@@ -3106,6 +3107,9 @@
     <e> <p><l>John<b/>the<b/>Baptist<s n="np"/><s n="ant"/></l><r>Juan<b/>el<b/>Bautista<s n="np"/><s n="ant"/></r></p></e>
     <e> <p><l>Ignatius<b/>of<b/>Antioch<s n="np"/><s n="ant"/></l><r>Ignacio<b/>de<b/>Antioquía<s n="np"/><s n="ant"/></r></p></e>
     <e> <p><l>William<b/>Tell<s n="np"/><s n="ant"/></l><r>Guillermo<b/>Tell<s n="np"/><s n="ant"/></r></p></e>
+    <e> <p><l>Ghost<b/>of<b/>Christmas<b/>Past<s n="np"/><s n="ant"/></l><r>Espectro<b/>de<b/>la<b/>Navidad<b/>Pasada<s n="np"/><s n="ant"/></r></p></e>
+    <e> <p><l>Ghost<b/>of<b/>Christmas<b/>Present<s n="np"/><s n="ant"/></l><r>Espectro<b/>de<b/>la<b/>Navidad<b/>Presente<s n="np"/><s n="ant"/></r></p></e>
+    <e> <p><l>Ghost<b/>of<b/>Christmas<b/>Yet<b/>To<b/>Come<s n="np"/><s n="ant"/></l><r>Espectro<b/>de<b/>la<b/>Navidad<b/>venidera<s n="np"/><s n="ant"/></r></p></e>
     <e> <i>Juan<b/>Diego<b/>de<b/>Guadalupe<s n="np"/><s n="ant"/></i></e>
     <e> <i>Juan<b/>María<s n="np"/><s n="ant"/></i></e>
     <e> <i>Juanse<s n="np"/><s n="ant"/></i></e>
@@ -8178,10 +8182,16 @@
     <e r="RL" c="traducció per defecte en masculí, per ara"><p><l>American<s n="n"/></l><r>americano<s n="n"/></r></p></e>
     <e r="LR"><p><l>Japanese-American<s n="n"/></l><r>americano<g><b/>de<b/>origen<b/>japonés</g><s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Japanese-American<s n="n"/></l><r>americano<g><b/>de<b/>origen<b/>japonés</g><s n="n"/></r></p></e>
+    <e><p><l>non-EU<s n="adj"/></l><r>extracomunitario<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>non-EC<s n="adj"/></l><r>extracomunitario<s n="adj"/></r></p></e>
+    <e><p><l>Japanese-American<s n="adj"/></l><r>americano<g><b/>de<b/>origen<b/>japonés</g><s n="adj"/></r></p></e>
+    <e><p><l>Hannukah<s n="n"/></l><r>Janucá<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Chanukah<s n="n"/></l><r>Jánuka<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Aragonese<s n="n"/></l><r>aragonés<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Aragonese<s n="n"/></l><r>aragonés<s n="n"/></r></p></e>
     <e r="LR"><p><l>Mongolian<s n="n"/></l><r>mongol<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Mongolian<s n="n"/></l><r>mongol<s n="n"/></r></p></e>
+    <e r="LR">  <p><l>testament<s n="n"/></l><r>testamento<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>April<s n="n"/></l><r>abril<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>Asian<s n="n"/></l><r>asiático<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Asian<s n="n"/></l><r>asiático<s n="n"/></r></p></e>
@@ -8276,6 +8286,8 @@
     <e>  <p><l>abnormality<s n="n"/></l><r>anormalidad<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>abortion<s n="n"/></l><r>aborto<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>absence<s n="n"/></l><r>ausencia<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>eloquence<s n="n"/></l><r>elocuencia<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>suaviloquence<s n="n"/></l><r>suavilocuencia<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>absenteeism<s n="n"/></l><r>absentismo<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>absolution<s n="n"/></l><r>absolución<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>absolutism<s n="n"/></l><r>absolutismo<s n="n"/><s n="m"/></r></p></e>
@@ -8536,6 +8548,7 @@
     <e>  <p><l>appendix<s n="n"/></l><r>apéndice<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>applause<s n="n"/></l><r>aplauso<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>apple<s n="n"/></l><r>manzana<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>snowman<s n="n"/></l><r>monigote<g><b/>de<b/>nieve</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>appliance<s n="n"/></l><r>electrodoméstico<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>appliance<s n="n"/></l><r>electrodoméstico<s n="n"/></r></p></e>
     <e>  <p><l>applicant<s n="n"/></l><r>solicitante<s n="n"/><s n="mf"/></r></p></e>
@@ -8704,9 +8717,8 @@
     <e r="LR">  <p><l>stocking<s n="n"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>average<s n="n"/></l><r>promedio<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>aversion<s n="n"/></l><r>aversión<s n="n"/><s n="f"/></r></p></e>
-    <e>  <p><l>bird<b/>flu<s n="n"/></l><r>gripe<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL">  <p><l>bird<b/>flu<s n="n"/></l><r>gripe<b/>aviar<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR">  <p><l>avian<b/>flu<s n="n"/></l><r>gripe<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>bird<b/>flu<s n="n"/></l><r>gripe<b/>aviar<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>avian<b/>flu<s n="n"/></l><r>gripe<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
     <e r="LR">  <p><l>avian<b/>influenza<s n="n"/></l><r>gripe<b/>aviaria<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>aviation<s n="n"/></l><r>aviación<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>award<s n="n"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
@@ -9399,6 +9411,7 @@
     <e>  <p><l>colophon<s n="n"/></l><r>colofón<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>colossus<s n="n"/></l><r>coloso<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>colour<s n="n"/></l><r>color<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>tricolour<s n="adj"/></l><r>tricolor<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>column<s n="n"/></l><r>columna<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>columnist<s n="n"/></l><r>columnista<s n="n"/><s n="mf"/></r></p></e>
     <e>  <p><l>combination<s n="n"/></l><r>combinación<s n="n"/><s n="f"/></r></p></e>
@@ -9407,7 +9420,7 @@
     <e slr="comodidad D"><p><l>comfort<s n="n"/></l><r>comodidad<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="consuelo"><p><l>comfort<s n="n"/></l><r>consuelo<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>reassurance<s n="n"/></l><r>tranquilidad<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>peace<s n="n"/></l><r>tranquilidad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tranquility<s n="n"/></l><r>tranquilidad<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>comic<s n="n"/></l><r>cómic<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>comic<s n="n"/></l><r>cómico<s n="n"/></r></p></e>
     <e r="RL"><p><l>comic<s n="n"/></l><r>tebeo<s n="n"/><s n="m"/></r></p></e>
@@ -9618,6 +9631,9 @@
     <e r="LR"><p><l>coordinator<s n="n"/></l><r>coordinador<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>coordinator<s n="n"/></l><r>coordinador<s n="n"/></r></p></e>
     <e>  <p><l>copper<s n="n"/></l><r>cobre<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>copper<s n="adj"/></l><r>cobrizo<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>cupreous<s n="adj"/></l><r>cobrizo<s n="adj"/></r></p></e>
+    <e>  <p><l>trojan<s n="adj"/></l><r>troyano<s n="adj"/></r></p></e>
     <e>  <p><l>copy<s n="n"/></l><r>copia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>copy<s n="n"/></l><r>copia<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>copy<s n="n"/></l><r>ejemplar<s n="n"/><s n="m"/></r></p></e>
@@ -9747,6 +9763,11 @@
     <e>  <p><l>culture<s n="n"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>cumulus<s n="n"/></l><r>cúmulo<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>cunt<s n="n"/></l><r>coño<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>motherfucker<s n="n"/></l><r>puta<b/>madre<s n="n"/><s n="f"/></r></p></e>
+    <e>  <p><l>bitch<s n="n"/></l><r>puta<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR">  <p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL">  <p><l>bastard<s n="n"/></l><r>bastardo<s n="n"/></r></p></e>
+    <e>  <p><l>son<b/>of<b/>a<b/>bitch<s n="n"/></l><r>hijo<g><b/>de<b/>puta</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL" srl="top" c="de un árbol">  <p>  <l>top<s n="n"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
     <e slr="copa" c="Dep." srl="cup"><p><l>cup<s n="n"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
     <e slr="taza D"><p><l>cup<s n="n"/></l><r>taza<s n="n"/><s n="f"/></r></p></e>
@@ -9802,6 +9823,7 @@
     <e>  <p><l>dating<s n="n"/></l><r>datación<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>daughter<s n="n"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>day<s n="n"/></l><r>día<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>Valentine's<b/>day<s n="n"/></l><r>día<g><b/>de<b/>San<b/>Valentín</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>day<s n="n"/></l><r>jornada<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>de-rating<s n="n"/></l><r>desclasificación<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>deactivation<s n="n"/></l><r>desactivación<s n="n"/><s n="f"/></r></p></e>
@@ -9823,6 +9845,7 @@
     <e>  <p><l>decade<s n="n"/></l><r>década<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>decadence<s n="n"/></l><r>decadencia<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>decapitation<s n="n"/></l><r>decapitación<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR">  <p><l>beheading<s n="n"/></l><r>decapitación<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="caries"><p><l>decay<s n="n"/></l><r>caries<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>decay<s n="n"/><s n="ND"/></l><r>caries<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR" slr="decadencia D"><p><l>decay<s n="n"/></l><r>decadencia<s n="n"/><s n="f"/></r></p></e>
@@ -10006,6 +10029,8 @@
     <e r="RL" srl="direction"><p><l>direction<s n="n"/></l><r>sentido<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>director<s n="n"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>director<s n="n"/></l><r>director<s n="n"/></r></p></e>
+    <e r="LR"><p><l>casting<b/>director<s n="n"/></l><r>director<g><b/>de<b/>casting</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>casting<b/>director<s n="n"/></l><r>director<g><b/>de<b/>casting</g><s n="n"/></r></p></e>
     <e r="LR"><p><l>inspector<s n="n"/></l>  <r>inspector<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>inspector<s n="n"/></l><r>inspector<s n="n"/></r></p></e>
     <e>  <p><l>directory<s n="n"/></l><r>directorio<s n="n"/><s n="m"/></r></p></e>
@@ -10124,6 +10149,16 @@
     <e>  <p><l>documentalist<s n="n"/></l><r>documentalista<s n="n"/><s n="mf"/></r></p></e>
     <e>  <p><l>documentary<s n="n"/></l><r>documental<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>documentation<s n="n"/></l><r>documentación<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>miser<s n="n"/></l><r>avaro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>miser<s n="n"/></l><r>avaro<s n="n"/></r></p></e>
+    <e r="LR"><p><l>scrooge<s n="n"/></l><r>avaro<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>villancico<s n="n"/></l><r>villancico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Christmas<b/>carol<s n="n"/></l><r>villancico<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nativity<b/>play<s n="n"/></l><r>auto<g><b/>de<b/>Navidad</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Merry<b/>Christmas<s n="n"/></l><r>Feliz<b/>Navidad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>humbug<s n="n"/><s n="sg"/></l><r>paparrucha<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>humbug<s n="n"/><s n="pl"/></l><r>paparrucha<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>nonsense<s n="n"/><s n="sg"/></l><r>paparrucha<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>dog<s n="n"/></l><r>perro<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>dog<s n="n"/></l><r>perro<s n="n"/></r></p></e>
     <e r="LR"><p><l>sheep<b/>dog<s n="n"/></l><r>perro<b/>pastor<s n="n"/><s n="GD"/></r></p></e>
@@ -10280,6 +10315,7 @@
     <e>  <p><l>effort<s n="n"/></l><r>esfuerzo<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>egalitarianism<s n="n"/></l><r>igualitarismo<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>egg<s n="n"/></l><r>huevo<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>scrambled<b/>egg<s n="n"/></l><r>huevo<b/>revuelto<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>eggplant<s n="n"/></l><r>berenjena<s n="n"/><s n="f"/></r></p></e>
     <e r="LR">  <p><l>aubergine<s n="n"/></l><r>berenjena<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>cauliflower<s n="n"/></l><r>coliflor<s n="n"/><s n="f"/></r></p></e>
@@ -10875,10 +10911,8 @@
     <e r="RL"><p><l>goal<s n="n"/></l><r>portería<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>goat<s n="n"/></l><r>cabra<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>goblin<s n="n"/></l><r>duende<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>god<s n="n"/></l><r>dios<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>god<s n="n"/></l><r>dios<s n="n"/></r></p></e>
-    <e r="LR"><p><l>goddess<s n="n"/></l><r>dios<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>goddess<s n="n"/></l><r>dios<s n="n"/></r></p></e>
+    <e><p><l>god<s n="n"/></l><r>dios<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>goddess<s n="n"/></l><r>dios<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>godfather<s n="n"/></l><r>padrino<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>gold<s n="n"/></l><r>oro<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>good<s n="n"/></l><r>bien<s n="n"/><s n="m"/></r></p></e>
@@ -10903,11 +10937,24 @@
     <e r="LR"><p><l>grammarian<s n="n"/></l><r>gramático<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>grammarian<s n="n"/></l><r>gramático<s n="n"/></r></p></e>
     <e r="LR"><p><l>gramme<s n="n"/></l><r>gramo<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>granddad<s n="n"/></l><r>abuelito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grandpa<s n="n"/></l><r>abuelito<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grandma<s n="n"/></l><r>abuelito<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>grandfather<s n="n"/></l><r>abuelo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>grandfather<s n="n"/><s n="sg"/></l><r>abuelo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>grandparent<s n="n"/></l><r>abuelo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>grandparent<s n="n"/><s n="pl"/></l><r>abuelo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e>  <p><l>grandmother<s n="n"/></l><r>abuelo<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>great-great-grandfather<s n="n"/></l><r>tatarabuelo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>great-great-grandfather<s n="n"/><s n="sg"/></l><r>tatarabuelo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>great-great-grandparent<s n="n"/></l><r>tatarabuelo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>great-great-grandparent<s n="n"/><s n="pl"/></l><r>tatarabuelo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>  <p><l>great-great-grandmother<s n="n"/></l><r>tatarabuelo<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>great-grandfather<s n="n"/></l><r>bisabuelo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>great-grandfather<s n="n"/><s n="sg"/></l><r>bisabuelo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>great-grandparent<s n="n"/></l><r>bisabuelo<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>great-grandparent<s n="n"/><s n="pl"/></l><r>bisabuelo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>  <p><l>great-grandmother<s n="n"/></l><r>bisabuelo<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>grandson<s n="n"/></l><r>nieto<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>grandchild<s n="n"/></l><r>nieto<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>grandson<s n="n"/><s n="sg"/></l><r>nieto<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -10948,6 +10995,8 @@
     <e r="RL"><p><l>guarantee<s n="n"/></l><r>aval<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>guarantee<s n="n"/></l><r>garantía<s n="n"/><s n="f"/></r></p></e>
     <e srl="guard"><p><l>guard<s n="n"/></l><r>guardia<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>guardian<s n="n"/></l><r>guardián<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>guardian<s n="n"/></l><r>guardián<s n="n"/></r></p></e>
     <e r="LR"><p><l>guess<s n="n"/></l><r>suposición<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>guest<s n="n"/></l><r>huésped<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>guest<s n="n"/></l><r>huésped<s n="n"/></r></p></e>
@@ -11641,7 +11690,6 @@
     <e>  <p><l>liquor<s n="n"/></l><r>licor<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>list<s n="n"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>listing<s n="n"/></l><r>listado<s n="n"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>liter<s n="n"/></l><r>litro<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>literacy<s n="n"/></l><r>alfabetización<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>literature<s n="n"/></l><r>literatura<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>lithography<s n="n"/></l><r>litografía<s n="n"/><s n="f"/></r></p></e>
@@ -12088,7 +12136,8 @@
     <e>  <p><l>nitrogen<s n="n"/></l><r>nitrógeno<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>nobility<s n="n"/></l><r>nobleza<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>node<s n="n"/></l><r>nodo<s n="n"/><s n="m"/></r></p></e>
-    <e>  <p><l>sinuatrial<b/>node<s n="n"/></l><r>nodo<g><b/>sinoauricular</g><s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>sinuatrial<b/>node<s n="n"/></l><r>nodo<b/>sinoauricular<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR">  <p><l>sino-auricular<b/>node<s n="n"/></l><r>nodo<b/>sinoauricular<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>noise<s n="n"/></l><r>ruido<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>nomad<s n="n"/></l><r>nómada<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>nomenclature<s n="n"/></l><r>nomenclatura<s n="n"/><s n="f"/></r></p></e>
@@ -12719,6 +12768,8 @@
     <e>  <p><l>primate<s n="n"/></l><r>primate<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>primate<s n="n"/></l><r>primate<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>prime<s n="n"/></l><r>albor<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>coprime<s n="n"/></l><r>coprimo<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>coprime<s n="adj"/></l><r>coprimo<s n="adj"/></r></p></e>
     <e><p><l>prince<s n="n"/></l><r>príncipe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>princess<s n="n"/></l><r>princesa<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>principle<s n="n"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
@@ -13196,6 +13247,7 @@
     <e r="RL"><p><l>roof<s n="n"/></l><r>tejado<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>room<s n="n"/></l><r>habitación<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>room<s n="n"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR">  <p><l>dwelling<s n="n"/></l><r>habitación<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>root<s n="n"/></l><r>raíz<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>rooting<s n="n"/></l><r>arraigo<s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>rope<s n="n"/></l><r>cuerda<s n="n"/><s n="f"/></r></p></e>
@@ -14130,6 +14182,7 @@
     <e>  <p><l>tonne<s n="n"/></l><r>tonelada<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>tool<s n="n"/></l><r>herramienta<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>tooth<s n="n"/></l><r>diente<s n="n"/><s n="m"/></r></p></e>
+    <e>  <p><l>dandelion<s n="n"/></l><r>diente<g><b/>de<b/>león</g><s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>toothache<s n="n"/></l><r>dolor<g><b/>de<b/>muelas</g><s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>stomach<b/>ache<s n="n"/></l><r>dolor<g><b/>de<b/>estómago</g><s n="n"/><s n="m"/></r></p></e>
     <e r="LR">  <p><l>stomach-ache<s n="n"/></l><r>dolor<g><b/>de<b/>estómago</g><s n="n"/><s n="m"/></r></p></e>
@@ -14996,6 +15049,8 @@
     <e>  <p><l>most<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>la<b/>mayoría<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>much<s n="det"/><s n="qnt"/></l><r>mucho<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>many<s n="det"/><s n="qnt"/></l><r>mucho<s n="det"/><s n="qnt"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>a<b/>shitload<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>un<b/>mogollón<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>un<b/>mogollón<b/>de<s n="det"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>a<b/>lot<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mucho<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>a<b/>lot<b/>of<s n="det"/></l><r>mucho<s n="det"/></r></p></e>
     <e r="LR"><p><l>lots<b/>of<s n="det"/><s n="qnt"/><s n="sp"/></l><r>mucho<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -15084,8 +15139,8 @@
     <e r="RL"><p><l>two<b/>hundredth<s n="det"/></l><r>ducentésimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>three<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>tricentésimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>three<b/>hundredth<s n="det"/></l><r>tricentésimo<s n="det"/></r></p></e>
-    <e r="LR"><p><l>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cuadragésimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>four<b/>hundredth<s n="det"/></l><r>cuadragésimo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>four<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>cuadricentésimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>four<b/>hundredth<s n="det"/></l><r>cuadricentésimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>five<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>quingentésimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>five<b/>hundredth<s n="det"/></l><r>quingentésimo<s n="det"/></r></p></e>
     <e r="LR"><p><l>six<b/>hundredth<s n="det"/><s n="ord"/><s n="sp"/></l><r>sexcentésimo<s n="det"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -15259,8 +15314,10 @@
     <e>  <p><l>able<s n="adj"/><s n="sint"/></l><r>capaz<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>abnormal<s n="adj"/></l><r>anormal<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>absent<s n="adj"/></l><r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>quixotic<s n="adj"/></l><r>quijotesco<s n="adj"/></r></p></e>
     <e>  <p><l>absolute<s n="adj"/></l><r>absoluto<s n="adj"/></r></p></e>
     <e>  <p><l>abstract<s n="adj"/></l><r>abstracto<s n="adj"/></r></p></e>
+    <e a="eleka"><p><l>abject<s n="adj"/></l><r>abyecto<s n="adj"/></r></p></e>
     <e>  <p><l>absurd<s n="adj"/></l><r>absurdo<s n="adj"/></r></p></e>
     <e r="RL"><p><l>absurd<s n="adj"/></l><r>disparatado<s n="adj"/></r></p></e>
     <e>  <p><l>abundant<s n="adj"/></l><r>abundante<s n="adj"/><s n="mf"/></r></p></e>
@@ -15334,6 +15391,7 @@
     <e>  <p><l>anthropological<s n="adj"/></l><r>antropológico<s n="adj"/></r></p></e>
     <e r="LR"><p><l>antique<s n="adj"/></l><r>antiguo<s n="adj"/></r></p></e>
     <e>  <p><l>anxious<s n="adj"/></l><r>ansioso<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>eager<s n="adj"/></l><r>ansioso<s n="adj"/></r></p></e>
     <e>  <p><l>apparent<s n="adj"/></l><r>aparente<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>applicable<s n="adj"/></l><r>aplicable<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>apt<s n="adj"/><s n="sint"/></l><r>apto<s n="adj"/></r></p></e>
@@ -15418,6 +15476,7 @@
     <e r="LR"><p><l>bright<s n="adj"/><s n="sint"/></l><r>brillante<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>brilliant<s n="adj"/></l><r>brillante<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>brittle<s n="adj"/><s n="sint"/></l><r>quebradizo<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>crumbly<s n="adj"/></l><r>quebradizo<s n="adj"/></r></p></e>
     <e r="LR"><p><l>broad<s n="adj"/><s n="sint"/></l><r>ancho<s n="adj"/></r></p></e>
     <e>  <p><l>brown<s n="adj"/></l><r>marrón<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>brutal<s n="adj"/></l><r>brutal<s n="adj"/><s n="mf"/></r></p></e>
@@ -15689,6 +15748,19 @@
     <e r="LR"><p><l>efficient<s n="adj"/></l><r>eficaz<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL" a="greenbreen"><p><l>efficient<s n="adj"/></l><r>eficiente<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>egoistic<s n="adj"/></l><r>egoísta<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR">  <p><l>egotistic<s n="adj"/></l><r>egoísta<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>ultrapure<s n="adj"/></l><r>ultrapuro<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>tireful<s n="adj"/></l><r>fatigoso<s n="adj"/></r></p></e>
+    <e>  <p><l>tiring<s n="adj"/></l><r>fatigoso<s n="adj"/></r></p></e>
+    <e>  <p><l>bulbous<s n="adj"/></l><r>bulboso<s n="adj"/></r></p></e>
+    <e>  <p><l>conscientious<s n="adj"/></l><r>concienzudo<s n="adj"/></r></p></e>
+    <e><p><l>areal<s n="adj"/></l><r>areal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>amino<s n="adj"/></l><r>amino<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>conventionalist<s n="adj"/></l><r>convencionalista<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>irascible<s n="adj"/></l><r>irascible<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>feline<s n="adj"/></l><r>felino<s n="adj"/></r></p></e>
+    <e>  <p><l>deafening<s n="adj"/></l><r>estrepitoso<s n="adj"/></r></p></e>
+    <e>  <p><l>damned<s n="adj"/></l><r>maldito<s n="adj"/></r></p></e>
     <e>  <p><l>elastic<s n="adj"/></l><r>elástico<s n="adj"/></r></p></e>
     <e r="LR"><p><l>elder<s n="adj"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>elect<s n="adj"/></l><r>electo<s n="adj"/></r></p></e>
@@ -15792,6 +15864,7 @@
     <e>  <p><l>feasible<s n="adj"/></l><r>factible<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>federal<s n="adj"/></l><r>federal<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>federalistic<s n="adj"/></l><r>federalista<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>antifederalist<s n="adj"/></l><r>antifederalista<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>feeble<s n="adj"/><s n="sint"/></l><r>débil<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>feeble<s n="adj"/><s n="sint"/></l><r>débil<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>feeble<s n="adj"/><s n="sint"/></l><r>débil<s n="adj"/><s n="mf"/></r></p></e>
@@ -15855,14 +15928,14 @@
     <e>  <p><l>frontal<s n="adj"/></l><r>frontal<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>fruitful<s n="adj"/></l><r>fructífero<s n="adj"/></r></p></e>
     <e>  <p><l>fruitless<s n="adj"/></l><r>infructuoso<s n="adj"/></r></p></e>
-    <e>  <p><l>fucking<s n="adj"/></l><r>maldito<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>fucking<s n="adj"/></l><r>maldito<s n="adj"/></r></p></e>
     <e>  <p><l>full<s n="adj"/><s n="sint"/></l><r>lleno<s n="adj"/></r></p></e>
     <e r="RL"><p><l>full<s n="adj"/><s n="sint"/></l><r>pleno<s n="adj"/></r></p></e>
     <e>  <p><l>functional<s n="adj"/></l><r>funcional<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>fundamental<s n="adj"/></l><r>fundamental<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>funny<s n="adj"/><s n="sint"/></l><r>gracioso<s n="adj"/></r></p></e>
     <e r="LR"><p><l>furious<s n="adj"/></l><r>furioso<s n="adj"/></r></p></e>
-    <e>  <p><l>futile<s n="adj"/></l><r>vano<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>futile<s n="adj"/></l><r>vano<s n="adj"/></r></p></e>
     <e>  <p><l>future<s n="adj"/></l><r>futuro<s n="adj"/></r></p></e>
     <e>  <p><l>futuristic<s n="adj"/></l><r>futurista<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>garbled<s n="adj"/></l><r>confuso<s n="adj"/></r></p></e>
@@ -15901,7 +15974,7 @@
     <e>  <p><l>grey<s n="adj"/><s n="sint"/></l><r>gris<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>grim<s n="adj"/><s n="sint"/></l><r>siniestro<s n="adj"/></r></p></e>
     <e>  <p><l>gross<s n="adj"/><s n="sint"/></l><r>bruto<s n="adj"/></r></p></e>
-    <e>  <p><l>groundless<s n="adj"/></l><r>infundado<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>groundless<s n="adj"/></l><r>infundado<s n="adj"/></r></p></e>
     <e>  <p><l>guilty<s n="adj"/><s n="sint"/></l><r>culpable<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>hairy<s n="adj"/><s n="sint"/></l><r>peludo<s n="adj"/></r></p></e>
     <e>  <p><l>half<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
@@ -15999,8 +16072,7 @@
     <e r="LR"><p><l>inadequate<s n="adj"/></l><r>inadecuado<s n="adj"/></r></p></e>
     <e>  <p><l>inadmissible<s n="adj"/></l><r>inadmisible<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>approximate<s n="adj"/></l><r>aproximado<s n="adj"/></r></p></e>
-    <e>  <p><l>inappropriate<s n="adj"/></l><r>inadecuado<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>inappropriate<s n="adj"/></l><r>inapropiado<s n="adj"/></r></p></e>
+    <e><p><l>inappropriate<s n="adj"/></l><r>inapropiado<s n="adj"/></r></p></e>
     <e>  <p><l>incalculable<s n="adj"/></l><r>incalculable<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>incapable<s n="adj"/></l><r>incapaz<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>incendiary<s n="adj"/></l><r>incendiario<s n="adj"/></r></p></e>
@@ -16113,6 +16185,7 @@
     <e>  <p><l>last<s n="adj"/></l><r>último<s n="adj"/></r></p></e>
     <e r="LR"><p><l>lasting<s n="adj"/></l><r>duradero<s n="adj"/></r></p></e>
     <e>  <p><l>late<s n="adj"/><s n="sint"/></l><r>tardío<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>belated<s n="adj"/></l><r>tardío<s n="adj"/></r></p></e>
     <e>  <p><l>latent<s n="adj"/></l><r>latente<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>lateral<s n="adj"/></l><r>lateral<s n="adj"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>latter<s n="adj"/></l><r>último<s n="adj"/></r></p></e>
@@ -16522,6 +16595,7 @@
     <e>  <p><l>preparatory<s n="adj"/></l><r>preparatorio<s n="adj"/></r></p></e>
     <e>  <p><l>present<s n="adj"/></l><r>presente<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>presidential<s n="adj"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>vice-presidential<s n="adj"/></l><r>vicepresidencial<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>presidential<s n="adj"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>presidential<s n="adj"/></l><r>presidencialista<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>prestigious<s n="adj"/></l><r>prestigioso<s n="adj"/></r></p></e>
@@ -16864,6 +16938,7 @@
     <e>  <p><l>theoretical<s n="adj"/></l><r>teórico<s n="adj"/></r></p></e>
     <e>  <p><l>therapeutic<s n="adj"/></l><r>terapéutico<s n="adj"/></r></p></e>
     <e>  <p><l>thermal<s n="adj"/></l><r>térmico<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>aluminothermal<s n="adj"/></l><r>aluminotérmico<s n="adj"/></r></p></e>
     <e>  <p><l>thick<s n="adj"/><s n="sint"/></l><r>grueso<s n="adj"/></r></p></e>
     <e>  <p><l>thin<s n="adj"/><s n="sint"/></l><r>delgado<s n="adj"/></r></p></e>
     <e>  <p><l>lean<s n="adj"/><s n="sint"/></l><r>flaco<s n="adj"/></r></p></e>
@@ -17173,6 +17248,14 @@
     <e r="RL"><p><l>casual<s n="adj"/></l><r>para<b/>andar<b/>por<b/>casa<s n="adj"/></r></p></e>
     <e r="RL"><p><l>low<b/>quality<s n="adj"/></l><r>de<b/>pacotilla<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>low<b/>quality<s n="adj"/></l><r>de<b/>baja<b/>calidad<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR">  <p><l>shoddy<s n="adj"/><s n="sint"/></l><r>de<b/>baja<b/>calidad<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>working-class<s n="adj"/></l><r>de<b/>clase<b/>trabajadora<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>wooden<s n="adj"/></l><r>de<b/>madera<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>fashionable<s n="adj"/></l><r>de<b/>moda<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>upper-class<s n="adj"/></l><r>de<b/>clase<b/>alta<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>in<b/>love<s n="adj"/></l><r>enamorado<s n="adj"/></r></p></e>
+<e><p><l>middle-class<s n="adj"/></l><r>de<b/>clase<b/>mediana<s n="adj"/><s n="mf"/></r></p></e>
+
     <e>  <p><l>naked<s n="adj"/></l><r>en<b/>cueros<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>opposite<s n="adj"/></l><r>opuesto<s n="adj"/></r></p></e>
     <e>  <p><l>elderly<s n="adj"/></l><r>anciano<s n="adj"/></r></p></e>
@@ -17290,6 +17373,7 @@
     <e>  <p><l>abandon<s n="vblex"/></l><r>abandonar<s n="vblex"/></r></p></e>
     <e>  <p><l>legislate<s n="vblex"/></l><r>legislar<s n="vblex"/></r></p></e>
     <e>  <p><l>abbreviate<s n="vblex"/></l><r>abreviar<s n="vblex"/></r></p></e>
+    <e>  <p><l>mutilate<s n="vblex"/></l><r>mutilar<s n="vblex"/></r></p></e>
     <e>  <p><l>abet<s n="vblex"/></l><r>instigar<s n="vblex"/></r></p></e>
     <e>  <p><l>abolish<s n="vblex"/></l><r>abolir<s n="vblex"/></r></p></e>
     <e>  <p><l>abort<s n="vblex"/></l><r>abortar<s n="vblex"/></r></p></e>
@@ -17671,6 +17755,8 @@
     <e r="LR"><p><l>confront<s n="vblex"/></l><r>afrontar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>brave<s n="vblex"/></l><r>afrontar<s n="vblex"/></r></p></e>
     <e>  <p><l>confuse<s n="vblex"/></l><r>confundir<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>confuse<g><b/>the<b/>heck<b/>out<b/>of</g><s n="vblex"/></l><r>confundir<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>confuse<g><b/>the<b/>hell<b/>out<b/>of</g><s n="vblex"/></l><r>confundir<s n="vblex"/></r></p></e>
     <e>  <p><l>connect<s n="vblex"/></l><r>conectar<s n="vblex"/></r></p></e>
     <e>  <p><l>conquer<s n="vblex"/></l><r>conquistar<s n="vblex"/></r></p></e>
     <e>  <p><l>consecrate<s n="vblex"/></l><r>consagrar<s n="vblex"/></r></p></e>
@@ -17703,6 +17789,17 @@
     <e>  <p><l>control<s n="vblex"/></l><r>controlar<s n="vblex"/></r></p></e>
     <e>  <p><l>converge<s n="vblex"/></l><r>converger<s n="vblex"/></r></p></e>
     <e>  <p><l>convert<s n="vblex"/></l><r>convertir<s n="vblex"/></r></p></e>
+    <e>  <p><l>concentrate<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
+    <e>  <p><l>contaminate<s n="vblex"/></l><r>contaminar<s n="vblex"/></r></p></e>
+    <e>  <p><l>immigrate<s n="vblex"/></l><r>inmigrar<s n="vblex"/></r></p></e>
+    <e>  <p><l>notice<s n="vblex"/></l><r>notar<s n="vblex"/></r></p></e>
+    <e>  <p><l>rob<s n="vblex"/></l><r>atracar<s n="vblex"/></r></p></e>
+    <e>  <p><l>distend<s n="vblex"/></l><r>distender<s n="vblex"/></r></p></e>
+    <e>  <p><l>corrupt<s n="vblex"/></l><r>corromper<s n="vblex"/></r></p></e>
+    <e>  <p><l>exacerbate<s n="vblex"/></l><r>exacerbar<s n="vblex"/></r></p></e>
+    <e>  <p><l>tube<s n="vblex"/></l><r>entubar<s n="vblex"/></r></p></e>
+    <e>  <p><l>clutter<s n="vblex"/></l><r>desasear<s n="vblex"/></r></p></e>
+    <e>  <p><l>turn<g><b/>into</g><s n="vblex"/><s n="sep"/></l><r>convertir<g><b/>en</g><s n="vblex"/></r></p></e>
     <e r="LR" slr="transmitir"><p><l>convey<s n="vblex"/></l><r>transmitir<s n="vblex"/></r></p></e>
     <e r="LR" slr="transportar D"><p><l>convey<s n="vblex"/></l><r>transportar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>convict<s n="vblex"/></l><r>condenar<s n="vblex"/></r></p></e>
@@ -18160,6 +18257,9 @@
     <e r="LR"><p><l>grasp<s n="vblex"/></l><r>coger<s n="vblex"/></r></p></e>
     <e>  <p><l>graze<s n="vblex"/></l><r>apacentar<s n="vblex"/></r></p></e>
     <e>  <p><l>greet<s n="vblex"/></l><r>saludar<s n="vblex"/></r></p></e>
+    <e slr="saludar con la cabeza">  <p><l>nod<s n="vblex"/></l><r>saludar<g><b/>con<b/>la<b/>cabeza</g><s n="vblex"/></r></p></e>
+    <e slr="asentir con la cabeza D">  <p><l>nod<s n="vblex"/></l><r>asentir<g><b/>con<b/>la<b/>cabeza</g><s n="vblex"/></r></p></e>
+    <e>  <p><l>assent<s n="vblex"/></l><r>asentir<s n="vblex"/></r></p></e>
     <e slr="crecer D"><p><l>grow<s n="vblex"/></l><r>crecer<s n="vblex"/></r></p></e>
     <e r="LR" slr="cultivar"><p><l>grow<s n="vblex"/></l><r>cultivar<s n="vblex"/></r></p></e>
     <e>  <p><l>guarantee<s n="vblex"/></l><r>garantizar<s n="vblex"/></r></p></e>
@@ -18297,6 +18397,125 @@
     <e>  <p><l>isolate<s n="vblex"/></l><r>aislar<s n="vblex"/></r></p></e>
     <e slr="emitir D" c="dinero"><p><l>issue<s n="vblex"/></l><r>emitir<s n="vblex"/></r></p></e>
     <e r="LR" slr="publicar" c="publicar una revista"><p><l>issue<s n="vblex"/></l><r>publicar<s n="vblex"/></r></p></e>
+    <e>  <p><l>bisect<s n="vblex"/></l><r>bisecar<s n="vblex"/></r></p></e>
+    <e>  <p><l>dissect<s n="vblex"/></l><r>diseccionar<s n="vblex"/></r></p></e>
+    <e>  <p><l>relocate<s n="vblex"/></l><r>reubicar<s n="vblex"/></r></p></e>
+    <e>  <p><l>pacify<s n="vblex"/></l><r>pacificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>solidify<s n="vblex"/></l><r>solidificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>decode<s n="vblex"/></l><r>descodificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>exemplify<s n="vblex"/></l><r>ejemplificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>lubricate<s n="vblex"/></l><r>lubricar<s n="vblex"/></r></p></e>
+    <e>  <p><l>acidify<s n="vblex"/></l><r>acidificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>petrify<s n="vblex"/></l><r>petrificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>gasify<s n="vblex"/></l><r>gasificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>stratify<s n="vblex"/></l><r>estratificar<s n="vblex"/></r></p></e>
+    <e>  <p><l>prevaricate<s n="vblex"/></l><r>prevaricar<s n="vblex"/></r></p></e>
+    <e>  <p><l>authenticate<s n="vblex"/></l><r>autenticar<s n="vblex"/></r></p></e>
+<e>       <p><l>head<g><b/>to</g><s n="vblex"/></l><r>dirigirse<g><b/>a</g><s n="vblex"/><s n="pron"/></r></p></e>
+    <e>       <p><l>pass<g><b/>off<b/>as</g><s n="vblex"/></l><r>hacerse<g><b/>pasar<b/>por</g><s n="vblex"/><s n="pron"/></r></p></e>
+
+<e><p><l>reposition<s n="vblex"/></l><r>recolocar<s n="vblex"/></r></p></e>
+<e><p><l>demarcate<s n="vblex"/></l><r>demarcar<s n="vblex"/></r></p></e>
+<e><p><l>lap<s n="vblex"/></l><r>lapidar<s n="vblex"/></r></p></e>
+<e><p><l>solder<s n="vblex"/></l><r>soldar<s n="vblex"/></r></p></e>
+<e><p><l>philosophise<s n="vblex"/></l><r>filosofar<s n="vblex"/></r></p></e>
+<e><p><l>declutch<s n="vblex"/></l><r>desembragar<s n="vblex"/></r></p></e>
+<e><p><l>snort<s n="vblex"/></l><r>resoplar<s n="vblex"/></r></p></e>
+<e><p><l>dissociate<s n="vblex"/></l><r>disociar<s n="vblex"/></r></p></e>
+<e><p><l>irradiate<s n="vblex"/></l><r>radiar<s n="vblex"/></r></p></e>
+<e><p><l>groove<s n="vblex"/></l><r>estriar<s n="vblex"/></r></p></e>
+<e><p><l>fantasize<s n="vblex"/></l><r>fantasear<s n="vblex"/></r></p></e>
+<e><p><l>blink<s n="vblex"/></l><r>parpadear<s n="vblex"/></r></p></e>
+<e><p><l>flash<s n="vblex"/></l><r>centellear<s n="vblex"/></r></p></e>
+<e><p><l>bubble<s n="vblex"/></l><r>borbotear<s n="vblex"/></r></p></e>
+<e><p><l>shade<s n="vblex"/></l><r>sombrear<s n="vblex"/></r></p></e>
+<e><p><l>discourage<s n="vblex"/></l><r>desalentar<s n="vblex"/></r></p></e>
+<e><p><l>prejudge<s n="vblex"/></l><r>prejuzgar<s n="vblex"/></r></p></e>
+<e><p><l>exhale<s n="vblex"/></l><r>exhalar<s n="vblex"/></r></p></e>
+<e><p><l>decouple<s n="vblex"/></l><r>desacoplar<s n="vblex"/></r></p></e>
+<e><p><l>blur<s n="vblex"/></l><r>empañar<s n="vblex"/></r></p></e>
+<e><p><l>depilate<s n="vblex"/></l><r>depilar<s n="vblex"/></r></p></e>
+<e><p><l>compile<s n="vblex"/></l><r>compilar<s n="vblex"/></r></p></e>
+<e><p><l>rust<s n="vblex"/></l><r>enmohecer<s n="vblex"/></r></p></e>
+<e><p><l>unplug<s n="vblex"/></l><r>desenchufar<s n="vblex"/></r></p></e>
+<e><p><l>unroll<s n="vblex"/></l><r>desenrollar<s n="vblex"/></r></p></e>
+<e><p><l>extrapolate<s n="vblex"/></l><r>extrapolar<s n="vblex"/></r></p></e>
+<e><p><l>tabulate<s n="vblex"/></l><r>tabular<s n="vblex"/></r></p></e>
+<e><p><l>inoculate<s n="vblex"/></l><r>inocular<s n="vblex"/></r></p></e>
+<e><p><l>demodulate<s n="vblex"/></l><r>desmodular<s n="vblex"/></r></p></e>
+<e><p><l>congeal<s n="vblex"/></l><r>coagular<s n="vblex"/></r></p></e>
+<e><p><l>granulate<s n="vblex"/></l><r>granular<s n="vblex"/></r></p></e>
+<e><p><l>declaim<s n="vblex"/></l><r>declamar<s n="vblex"/></r></p></e>
+<e><p><l>embalm<s n="vblex"/></l><r>embalsamar<s n="vblex"/></r></p></e>
+<e><p><l>splice<s n="vblex"/></l><r>empalmar<s n="vblex"/></r></p></e>
+<e><p><l>decimate<s n="vblex"/></l><r>diezmar<s n="vblex"/></r></p></e>
+<e><p><l>gum<s n="vblex"/></l><r>engomar<s n="vblex"/></r></p></e>
+<e><p><l>deform<s n="vblex"/></l><r>deformar<s n="vblex"/></r></p></e>
+<e><p><l>sniff<s n="vblex"/></l><r>husmear<s n="vblex"/></r></p></e>
+<e><p><l>reel<s n="vblex"/></l><r>devanar<s n="vblex"/></r></p></e>
+<e><p><l>decaffeinate<s n="vblex"/></l><r>descafeinar<s n="vblex"/></r></p></e>
+<e><p><l>mesh<s n="vblex"/></l><r>engranar<s n="vblex"/></r></p></e>
+<e><p><l>hydrogenate<s n="vblex"/></l><r>hidrogenar<s n="vblex"/></r></p></e>
+<e><p><l>fine-tune<s n="vblex"/></l><r>afinar<s n="vblex"/></r></p></e>
+<e><p><l>inseminate<s n="vblex"/></l><r>inseminar<s n="vblex"/></r></p></e>
+<e><p><l>flavour<s n="vblex"/></l><r>sazonar<s n="vblex"/></r></p></e>
+<e><p><l>condone<s n="vblex"/></l><r>condonar<s n="vblex"/></r></p></e>
+<e><p><l>interrelate<s n="vblex"/></l><r>interrelacionar<s n="vblex"/></r></p></e>
+<e><p><l>coerce<s n="vblex"/></l><r>coaccionar<s n="vblex"/></r></p></e>
+<e><p><l>interact<s n="vblex"/></l><r>interaccionar<s n="vblex"/></r></p></e>
+<e><p><l>emulsify<s n="vblex"/></l><r>emulsionar<s n="vblex"/></r></p></e>
+<e><p><l>iterate<s n="vblex"/></l><r>iterar<s n="vblex"/></r></p></e>
+<e><p><l>quarter<s n="vblex"/></l><r>acuartelar<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>cripple<s n="vblex"/></l><r>estropear<s n="vblex"/></r></p></e>
+<e><p><l>mill<s n="vblex"/></l><r>fresar<s n="vblex"/></r></p></e>
+<e><p><l>condense<s n="vblex"/></l><r>condensar<s n="vblex"/></r></p></e>
+<e><p><l>glaze<s n="vblex"/></l><r>barnizar<s n="vblex"/></r></p></e>
+<e><p><l>blunt<s n="vblex"/></l><r>embotar<s n="vblex"/></r></p></e>
+<e><p><l>dehydrate<s n="vblex"/></l><r>deshidratar<s n="vblex"/></r></p></e>
+<e><p><l>pad<s n="vblex"/></l><r>acolchar<s n="vblex"/></r></p></e>
+<e><p><l>interconnect<s n="vblex"/></l><r>interconectar<s n="vblex"/></r></p></e>
+<e><p><l>unpack<s n="vblex"/></l><r>desempaquetar<s n="vblex"/></r></p></e>
+<e><p><l>cohabit<s n="vblex"/></l><r>cohabitar<s n="vblex"/></r></p></e>
+<e><p><l>magnetise<s n="vblex"/></l><r>imantar<s n="vblex"/></r></p></e>
+<e><p><l>season<s n="vblex"/></l><r>condimentar<s n="vblex"/></r></p></e>
+<e><p><l>bead<s n="vblex"/></l><r>gotear<s n="vblex"/></r></p></e>
+<e><p><l>knead<s n="vblex"/></l><r>amasar<s n="vblex"/></r></p></e>
+<e><p><l>infest<s n="vblex"/></l><r>infestar<s n="vblex"/></r></p></e>
+<e><p><l>unfit<s n="vblex"/></l><r>desajustar<s n="vblex"/></r></p></e>
+<e><p><l>amputate<s n="vblex"/></l><r>amputar<s n="vblex"/></r></p></e>
+<e><p><l>devaluate<s n="vblex"/></l><r>devaluar<s n="vblex"/></r></p></e>
+<e><p><l>liquefy<s n="vblex"/></l><r>licuar<s n="vblex"/></r></p></e>
+<e><p><l>enervate<s n="vblex"/></l><r>enervar<s n="vblex"/></r></p></e>
+<e><p><l>degrease<s n="vblex"/></l><r>desengrasar<s n="vblex"/></r></p></e>
+<e><p><l>mince<s n="vblex"/></l><r>trinchar<s n="vblex"/></r></p></e>
+<e><p><l>homogenise<s n="vblex"/></l><r>homogeneizar<s n="vblex"/></r></p></e>
+<e><p><l>initialise<s n="vblex"/></l><r>inicializar<s n="vblex"/></r></p></e>
+<e><p><l>metallise<s n="vblex"/></l><r>metalizar<s n="vblex"/></r></p></e>
+<e><p><l>depersonalise<s n="vblex"/></l><r>despersonalizar<s n="vblex"/></r></p></e>
+<e><p><l>moralise<s n="vblex"/></l><r>moralizar<s n="vblex"/></r></p></e>
+<e><p><l>naturalise<s n="vblex"/></l><r>naturalizar<s n="vblex"/></r></p></e>
+<e><p><l>conceptualise<s n="vblex"/></l><r>conceptualizar<s n="vblex"/></r></p></e>
+<e><p><l>desensitise<s n="vblex"/></l><r>insensibilizar<s n="vblex"/></r></p></e>
+<e><p><l>galvanise<s n="vblex"/></l><r>galvanizar<s n="vblex"/></r></p></e>
+<e><p><l>ionise<s n="vblex"/></l><r>ionizar<s n="vblex"/></r></p></e>
+<e><p><l>decolonise<s n="vblex"/></l><r>descolonizar<s n="vblex"/></r></p></e>
+<e><p><l>familiarise<s n="vblex"/></l><r>familiarizar<s n="vblex"/></r></p></e>
+<e><p><l>energise<s n="vblex"/></l><r>electrizar<s n="vblex"/></r></p></e>
+<e><p><l>pasteurise<s n="vblex"/></l><r>pasteurizar<s n="vblex"/></r></p></e>
+<e><p><l>schematise<s n="vblex"/></l><r>esquematizar<s n="vblex"/></r></p></e>
+<e><p><l>democratise<s n="vblex"/></l><r>democratizar<s n="vblex"/></r></p></e>
+<e><p><l>corrode<s n="vblex"/></l><r>corroer<s n="vblex"/></r></p></e>
+<e><p><l>growl<s n="vblex"/></l><r>gruñir<s n="vblex"/></r></p></e>
+<e><p><l>terrify<s n="vblex"/></l><r>aterrar<s n="vblex"/></r></p></e>
+<e><p><l>burnish<s n="vblex"/></l><r>bruñir<s n="vblex"/></r></p></e>
+<e><p><l>decompress<s n="vblex"/></l><r>descomprimir<s n="vblex"/></r></p></e>
+<e><p><l>dissent<s n="vblex"/></l><r>disentir<s n="vblex"/></r></p></e>
+<e><p><l>diverge<s n="vblex"/></l><r>divergir<s n="vblex"/></r></p></e>
+<e><p><l>thicken<s n="vblex"/></l><r>espesar<s n="vblex"/></r></p></e>
+<e><p><l>infer<s n="vblex"/></l><r>inferir<s n="vblex"/></r></p></e>
+<e><p><l>pervert<s n="vblex"/></l><r>pervertir<s n="vblex"/></r></p></e>
+<e><p><l>redeem<s n="vblex"/></l><r>redimir<s n="vblex"/></r></p></e>
+<e><p><l>snap<s n="vblex"/></l><r>chasquear<s n="vblex"/></r></p></e>
     <e>  <p><l>join<s n="vblex"/></l><r>unir<s n="vblex"/></r></p></e>
     <e>  <p><l>joint<s n="vblex"/></l><r>juntar<s n="vblex"/></r></p></e>
     <e>  <p><l>judge<s n="vblex"/></l><r>juzgar<s n="vblex"/></r></p></e>
@@ -18317,6 +18536,8 @@
     <e>  <p><l>kill<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>kill<s n="vblex"/></l><r>victimar<s n="vblex"/></r></p></e>
     <e>  <p><l>kiss<s n="vblex"/></l><r>dar<g><b/>un<b/>beso</g><s n="vblex"/></r></p></e>
+    <e>  <p><l>thank<s n="vblex"/></l><r>dar<g><b/>las<b/>gracias<b/>a</g><s n="vblex"/></r></p></e>
+    <e>  <p><l>welcome<s n="vblex"/></l><r>dar<g><b/>la<b/>bienvenida<b/>a</g><s n="vblex"/></r></p></e>
     <e>  <p><l>knit<s n="vblex"/></l><r>tejer<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>knock<s n="vblex"/></l><r>golpear<s n="vblex"/></r></p></e>
     <e slr="conocer"><p><l>know<s n="vblex"/></l><r>conocer<s n="vblex"/></r></p></e>
@@ -18334,14 +18555,18 @@
     <e r="LR"><p><l>aggregate<s n="vblex"/></l><r>agregar<s n="vblex"/></r></p></e>
     <e r="RL" a="greenbreen"><p><l>add<s n="vblex"/></l><r>agregar<s n="vblex"/></r></p></e>
     <e><p><l>burst<g><b/>into</g><s n="vblex"/></l><r>irrumpir<s n="vblex"/></r></p></e>
+    <e><p><l>agree<g><b/>with</g><s n="vblex"/></l><r>estar<g><b/>de<b/>acuerdo<b/>con</g><s n="vblex"/></r></p></e>
     <e r="RL"><p><l>root<s n="vblex"/></l><r>radicar<s n="vblex"/></r></p></e>
     <e><p><l>rancid<s n="adj"/></l><r>rancio<s n="adj"/></r></p></e>
+    <e><p><l>self-imposed<s n="adj"/></l><r>autoimpuesto<s n="adj"/></r></p></e>
     <e r="RL"><p><l>dark<s n="adj"/><s n="sint"/></l><r>tenebroso<s n="adj"/></r></p></e>
     <e><p><l>tempting<s n="adj"/></l><r>tentador<s n="adj"/></r></p></e>
     <e><p><l>long-windedly<s n="adv"/></l><r>prolijamente<s n="adv"/></r></p></e>
+    <e><p><l>audaciously<s n="adv"/></l><r>audazmente<s n="adv"/></r></p></e>
     <e><p><l>for<b/>many<b/>years<s n="adv"/></l><r>desde<b/>hace<b/>muchos<b/>años<s n="adv"/></r></p></e>
     <e><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>
     <e r="RL"><p><l>expertise<s n="n"/></l><r>experticia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>audacity<s n="n"/></l><r>audacia<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>leak<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
     <e srl="lean"><p><l>lean<s n="vblex"/></l><r>apoyar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>leap<s n="vblex"/></l><r>saltar<s n="vblex"/></r></p></e>
@@ -18381,7 +18606,16 @@
     <e>  <p><l>look<g><b/>for</g><s n="vblex"/></l><r>buscar<s n="vblex"/></r></p></e>
     <e srl="look_like"><p><l>look<g><b/>like</g><s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
     <e srl="look_after"><p><l>look<g><b/>after</g><s n="vblex"/></l><r>vigilar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>watch<g><b/>after</g><s n="vblex"/></l><r>vigilar<s n="vblex"/></r></p></e>
     <e>  <p><l>loom<s n="vblex"/></l><r>amenazar<s n="vblex"/></r></p></e>
+    <e>  <p><l>snap<s n="vblex"/></l><r>chasquear<s n="vblex"/></r></p></e>
+    <e>  <p><l>rebel<s n="vblex"/></l><r>rebelarse<s n="vblex"/><s n="pron"/></r></p></e>
+    <e>  <p><l>retire<s n="vblex"/></l><r>retirarse<s n="vblex"/><s n="pron"/></r></p></e>
+    <e>  <p><l>fade<s n="vblex"/></l><r>apagarse<s n="vblex"/><s n="pron"/></r></p></e>
+    <e>  <p><l>resent<s n="vblex"/></l><r>molestarse<s n="vblex"/><s n="pron"/></r></p></e>
+    <e>  <p><l>creep<s n="vblex"/></l><r>arrastrarse<s n="vblex"/><s n="pron"/></r></p></e>
+    <e>  <p><l>pay<g><b/>attention</g><s n="vblex"/></l><r>parar<g><b/>atención</g><s n="vblex"/></r></p></e>
+    <e>  <p><l>overlook<s n="vblex"/></l><r>pasar<g><b/>por<b/>alto</g><s n="vblex"/></r></p></e>
     <e srl="lose D"><p><l>lose<s n="vblex"/></l><r>perder<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>love<s n="vblex"/></l><r>amar<s n="vblex"/></r></p></e>
     <e slr="encantar D"><p><l>love<s n="vblex"/></l><r>encantar<s n="vblex"/></r></p></e>
@@ -18403,7 +18637,7 @@
     <e slr="marcar D" srl="mark D"><p><l>mark<s n="vblex"/></l><r>marcar<s n="vblex"/></r></p></e>
     <e slr="puntuar"><p><l>mark<s n="vblex"/></l><r>puntuar<s n="vblex"/></r></p></e>
     <e>  <p><l>mask<s n="vblex"/></l><r>enmascarar<s n="vblex"/></r></p></e>
-    <e>  <p><l>mass<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>mass<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
     <e>  <p><l>match<s n="vblex"/></l><r>emparejar<s n="vblex"/></r></p></e>
     <e>  <p><l>materialise<s n="vblex"/></l><r>materializar<s n="vblex"/></r></p></e>
     <e srl="matter D"><p><l>matter<s n="vblex"/></l><r>importar<s n="vblex"/></r></p></e>
@@ -18427,6 +18661,7 @@
     <e slr="echar_de_menos"><p><l>miss<s n="vblex"/></l><r>echar<g><b/>de<b/>menos</g><s n="vblex"/></r></p></e>
     <e>  <p><l>mitigate<s n="vblex"/></l><r>mitigar<s n="vblex"/></r></p></e>
     <e>  <p><l>mix<s n="vblex"/></l><r>mezclar<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>scramble<s n="vblex"/></l><r>mezclar<s n="vblex"/></r></p></e>
     <e>  <p><l>moderate<s n="vblex"/></l><r>moderar<s n="vblex"/></r></p></e>
     <e>  <p><l>modify<s n="vblex"/></l><r>modificar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>monitor<s n="vblex"/></l><r>controlar<s n="vblex"/></r></p></e>
@@ -18545,7 +18780,7 @@
     <e r="LR" slr="señalar D"><p><l>point<s n="vblex"/></l><r>señalar<s n="vblex"/></r></p></e>
     <e>  <p><l>poison<s n="vblex"/></l><r>envenenar<s n="vblex"/></r></p></e>
     <e>  <p><l>poll<s n="vblex"/></l><r>encuestar<s n="vblex"/></r></p></e>
-    <e>  <p><l>pollute<s n="vblex"/></l><r>contaminar<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>pollute<s n="vblex"/></l><r>contaminar<s n="vblex"/></r></p></e>
     <e>  <p><l>pop<s n="vblex"/></l><r>reventar<s n="vblex"/></r></p></e>
     <e>  <p><l>populate<s n="vblex"/></l><r>poblar<s n="vblex"/></r></p></e>
     <e slr="plantear"><p><l>pose<s n="vblex"/></l><r>plantear<s n="vblex"/></r></p></e>
@@ -18620,6 +18855,8 @@
     <e>  <p><l>publish<s n="vblex"/></l><r>publicar<s n="vblex"/></r></p></e>
     <e>  <p><l>pull<s n="vblex"/></l><r>estirar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>pull<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>sacar<s n="vblex"/></r></p></e>
+    <e><p><l>wall<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>amurallar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>wall<g><b/>in</g><s n="vblex"/><s n="sep"/></l><r>amurallar<s n="vblex"/></r></p></e>
     <e>  <p><l>pump<s n="vblex"/></l><r>bombear<s n="vblex"/></r></p></e>
     <e>  <p><l>puncture<s n="vblex"/></l><r>pinchar<s n="vblex"/></r></p></e>
     <e>  <p><l>punish<s n="vblex"/></l><r>castigar<s n="vblex"/></r></p></e>
@@ -18734,6 +18971,8 @@
     <e>  <p><l>rest<s n="vblex"/></l><r>descansar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>restart<s n="vblex"/></l><r>reanudar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>restart<s n="vblex"/></l><r>reemprender<s n="vblex"/></r></p></e>
+    <e><p><l>set<g><b/>fire</g><s n="vblex"/></l><r>prender<g><b/>fuego</g><s n="vblex"/></r></p></e>
+    <e><p><l>set<g><b/>fire<b/>to</g><s n="vblex"/></l><r>prender<g><b/>fuego<b/>a</g><s n="vblex"/></r></p></e>
     <e>  <p><l>restart<s n="vblex"/></l><r>retomar<s n="vblex"/></r></p></e>
     <e>  <p><l>restate<s n="vblex"/></l><r>reafirmar<s n="vblex"/></r></p></e>
     <e>  <p><l>restore<s n="vblex"/></l><r>restaurar<s n="vblex"/></r></p></e>
@@ -18823,7 +19062,7 @@
     <e>  <p><l>send<s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>devolver<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>send<g><b/>in</g><s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
-    <e>  <p><l>sense<s n="vblex"/></l><r>notar<s n="vblex"/></r></p></e>
+    <e r="LR">  <p><l>sense<s n="vblex"/></l><r>notar<s n="vblex"/></r></p></e>
     <e>  <p><l>sensitise<s n="vblex"/></l><r>sensibilizar<s n="vblex"/></r></p></e>
     <e>  <p><l>sentence<s n="vblex"/></l><r>sentenciar<s n="vblex"/></r></p></e>
     <e>  <p><l>separate<s n="vblex"/></l><r>separar<s n="vblex"/></r></p></e>
@@ -18886,6 +19125,8 @@
     <e>  <p><l>soften<s n="vblex"/></l><r>suavizar<s n="vblex"/></r></p></e>
     <e r="LR">  <p><l>smooth<s n="vblex"/></l><r>suavizar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>solicit<s n="vblex"/></l><r>solicitar<s n="vblex"/></r></p></e>
+    <e>  <p><l>revolve<s n="vblex"/></l><r>revolver<s n="vblex"/></r></p></e>
+    <e>  <p><l>scramble<g><b/>eggs</g><s n="vblex"/></l><r>revolver<g><b/>de<b/>huevo</g><s n="vblex"/></r></p></e>
     <e>  <p><l>solve<s n="vblex"/></l><r>solucionar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>solve<s n="vblex"/></l><r>solventar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>sort<s n="vblex"/></l><r>ordenar<s n="vblex"/></r></p></e>
@@ -19218,7 +19459,6 @@
     <e>  <p><l>accidentally<s n="adv"/></l><r>accidentalmente<s n="adv"/></r></p></e>
     <e>  <p><l>actively<s n="adv"/></l><r>activamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>actually<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>actually<s n="adv"/></l><r>en<b/>realidad<s n="adv"/></r></p></e>
     <e r="RL"><p><l>acutely<s n="adv"/></l><r>intensamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>acutely<s n="adv"/></l><r>profundamente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>additionally<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
@@ -19318,6 +19558,8 @@
     <e r="LR"><p><l>behind<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
     <e r="LR"><p><l>below<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
     <e>  <p><l>besides<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
+    <e r="LR">  <p><l>furthermore<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
+    <e r="LR">  <p><l>moreover<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
     <e r="LR"><p><l>best<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
     <e r="LR"><p><l>beyond<s n="adv"/></l><r>más<b/>allá<s n="adv"/></r></p></e>
     <e>  <p><l>beyond<b/>all<b/>doubt<s n="adv"/></l><r>sin<b/>duda<b/>alguna<s n="adv"/></r></p></e>
@@ -19328,7 +19570,7 @@
     <e>  <p><l>bomb-proof<s n="adv"/></l><r>a<b/>prueba<b/>de<b/>bombas<s n="adv"/></r></p></e>
     <e r="LR"><p><l>breezily<s n="adv"/></l><r>alegremente<s n="adv"/></r></p></e>
     <e r="LR"><p><l>briefly<s n="adv"/></l><r>brevemente<s n="adv"/></r></p></e>
-    <e>  <p><l>broadly<s n="adv"/></l><r>en<b/>términos<b/>generales<s n="adv"/></r></p></e>
+    <e r="LR">  <p><l>broadly<s n="adv"/></l><r>en<b/>términos<b/>generales<s n="adv"/></r></p></e>
     <e>  <p><l>brutally<s n="adv"/></l><r>brutalmente<s n="adv"/></r></p></e>
     <e>  <p><l>by<b/>chance<s n="adv"/></l><r>por<b/>casualidad<s n="adv"/></r></p></e>
     <e r="LR"><p><l>by<b/>degrees<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e>
@@ -19740,7 +19982,6 @@
     <e>  <p><l>mysteriously<s n="adv"/></l><r>misteriosamente<s n="adv"/></r></p></e>
     <e>  <p><l>nationally<s n="adv"/></l><r>nacionalmente<s n="adv"/></r></p></e>
     <e>  <p><l>nationwide<s n="adv"/></l><r>por<b/>todo<b/>el<b/>país<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>nationwide<s n="adv"/></l><r>a<b/>escala<b/>nacional<s n="adv"/></r></p></e>
     <e r="LR"><p><l>naturally<s n="adv"/></l><r>naturalmente<s n="adv"/></r></p></e>
     <e>  <p><l>near<s n="adv"/></l><r>cerca<s n="adv"/></r></p></e>
     <e r="LR"><p><l>near<b/>here<s n="adv"/></l><r>cerca<s n="adv"/></r></p></e>
@@ -20586,13 +20827,19 @@
         
 <!-- interjections -->
     <e>  <p><l>good<b/>morning<s n="ij"/></l><r>buenos<b/>días<s n="ij"/></r></p></e>
+    <e>  <p><l>bah<s n="ij"/></l><r>bah<s n="ij"/></r></p></e>
+    <e>  <p><l>bah<b/>humbug<s n="ij"/></l><r>bah<b/>paparruchas<s n="ij"/></r></p></e>
     <e>  <p><l>goodbye<s n="ij"/></l><r>adiós<s n="ij"/></r></p></e>
+    <e r="LR">  <p><l>adios<s n="ij"/></l><r>adiós<s n="ij"/></r></p></e>
     <e>  <p><l>hello<s n="ij"/></l><r>hola<s n="ij"/></r></p></e>
     <e>  <p><l>oh<s n="ij"/></l><r>oh<s n="ij"/></r></p></e>
+    <e r="LR">  <p><l>ok<s n="ij"/></l><r>vale<s n="ij"/></r></p></e>
+    <e>  <p><l>okay<s n="ij"/></l><r>vale<s n="ij"/></r></p></e>
     <e>  <p><l>thank<b/>you<s n="ij"/></l> <r>gracias<s n="ij"/></r></p></e>
     <e r="LR"> <p><l>thanks<s n="ij"/></l> <r>gracias<s n="ij"/></r></p></e>
     <e r="RL"><p><l>well<s n="ij"/></l><r>bueno<s n="ij"/></r></p></e>
     <e r="RL"><p><l>fuck<s n="ij"/></l><r>coño<s n="ij"/></r></p></e>
+    <e><p><l>fuckin'<b/>eh<s n="ij"/></l><r>de<b/>puta<b/>madre<s n="ij"/></r></p></e>
     <e>  <p><l>see<b/>you<b/>later<s n="ij"/></l><r>hasta<b/>luego<s n="ij"/></r></p></e>
     <e>  <p><l>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world<s n="ij"/></l><r>de<b/>todo<b/>hay<b/>en<b/>la<b/>viña<b/>del<b/>Señor<s n="ij"/></r></p></e>
     <e>  <p><l>third<b/>time<b/>lucky<s n="ij"/></l><r>a<b/>la<b/>tercera<b/>va<b/>la<b/>vencida<s n="ij"/></r></p></e>
@@ -20792,6 +21039,17 @@
     <e r="LR"><p><l>World<b/>War<b/>II<s n="np"/><s n="al"/></l><r>Segunda<b/>Guerra<b/>mundial<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e>  <p><l>breadwinner<s n="n"/></l><r>sostén<g><b/>de<b/>la<b/>familia</g><s n="n"/><s n="m"/></r></p></e>
     <e>  <p><l>Jacobite<s n="n"/></l><r>jacobita<s n="n"/><s n="mf"/></r></p></e>
+    <e>  <p><l>jacobite<s n="adj"/></l><r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>lapidarian<s n="adj"/></l><r>lapidario<s n="adj"/></r></p></e>
+    <e>  <p><l>lysosomal<s n="adj"/></l><r>lisosomal<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>unilineal<s n="adj"/></l><r>unilineal<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>ambilineal<s n="adj"/></l><r>ambilineal<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>duolineal<s n="adj"/></l><r>duolineal<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>tetartoidal<s n="adj"/></l><r>tetartoidal<s n="adj"/><s n="mf"/></r></p></e>
+    <e>  <p><l>unguligrade<s n="adj"/></l><r>ungulígrado<s n="adj"/></r></p></e>
+    <e>  <p><l>pyrophilous<s n="adj"/></l><r>pirófilo<s n="adj"/></r></p></e>
+    <e>  <p><l>thermophilous<s n="adj"/></l><r>termófilo<s n="adj"/></r></p></e>
+    <e r="LR">  <p><l>psammophilous<s n="adj"/></l><r>arenícola<s n="adj"/><s n="mf"/></r></p></e>
     <e>  <p><l>solar<b/>cooker<s n="n"/></l><r>cocina<b/>solar<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>stability<s n="n"/></l><r>estabilidad<s n="n"/><s n="f"/></r></p></e>
     <e>  <p><l>stock<b/>exchange<s n="n"/></l><r>bolsa<g><b/>de<b/>valores</g><s n="n"/><s n="f"/></r></p></e>
@@ -21539,6 +21797,7 @@
         <e>  <p>  <l>apathetic<s n="adj"/></l><r>apático<s n="adj"/></r></p></e>
         <e>  <p>  <l>poignant<s n="adj"/></l><r>patético<s n="adj"/></r></p></e>
         <e>  <p>  <l>rocky<s n="adj"/><s n="sint"/></l><r>pedregoso<s n="adj"/></r></p></e>
+        <e>  <p>  <l>windy<s n="adj"/><s n="sint"/></l><r>ventoso<s n="adj"/></r></p></e>
         <e>  <p>  <l>apocope<s n="n"/></l><r>apócope<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>dressing<s n="n"/></l><r>apósito<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>apostrophe<s n="n"/></l><r>apóstrofo<s n="n"/><s n="m"/></r></p></e>
@@ -22136,6 +22395,7 @@
         <e>  <p>  <l>chlorenchyma<s n="n"/></l><r>clorénquima<s n="n"/><s n="m"/></r></p></e>
         <e r="LR">  <p>  <l>climax<s n="n"/></l><r>clímax<s n="n"/><s n="m"/></r></p></e>
         <e r="RL">  <p>  <l>climax<s n="n"/><s n="ND"/></l><r>clímax<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+        <e r="RL">  <p>  <l>climax<s n="n"/></l><r>punto<b/>culminante<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>clinic<s n="n"/></l><r>clínica<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>clipper<s n="n"/></l><r>clíper<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>coercive<s n="adj"/></l><r>coactivo<s n="adj"/></r></p></e>
@@ -22223,7 +22483,7 @@
         <e>  <p>  <l>condominium<s n="n"/></l><r>condominio<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>chondrocite<s n="n"/></l><r>condrocito<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>conductance<s n="n"/></l><r>conductancia<s n="n"/><s n="f"/></r></p></e>
-        <e>  <p>  <l>behaviorism<s n="n"/></l><r>conductismo<s n="n"/><s n="m"/></r></p></e>
+        <e>  <p>  <l>behaviourism<s n="n"/></l><r>conductismo<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>behavioural<s n="adj"/></l><r>conductista<s n="adj"/><s n="mf"/></r></p></e>
         <e>  <p>  <l>connector<s n="n"/></l><r>conector<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>confederal<s n="adj"/></l><r>confederal<s n="adj"/><s n="mf"/></r></p></e>
@@ -22338,6 +22598,8 @@
         <e>  <p>  <l>chrysolite<s n="n"/></l><r>crisolita<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>glassware<s n="n"/></l><r>cristalería<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>crystalline<s n="adj"/></l><r>cristalino<s n="adj"/></r></p></e>
+        <e>  <p>  <l>microcrystalline<s n="adj"/></l><r>microcristalino<s n="adj"/></r></p></e>
+        <e>  <p>  <l>macrocrystalline<s n="adj"/></l><r>macrocristalino<s n="adj"/></r></p></e>
         <e>  <p>  <l>crystallography<s n="n"/></l><r>cristalografía<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>criticism<s n="n"/></l><r>criticismo<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>chromatin<s n="n"/></l><r>cromatina<s n="n"/><s n="f"/></r></p></e>
@@ -22350,6 +22612,9 @@
         <e>  <p>  <l>chromium<s n="n"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>chromosomal<s n="adj"/></l><r>cromosómico<s n="adj"/></r></p></e>
         <e>  <p>  <l>chromatic<s n="adj"/></l><r>cromático<s n="adj"/></r></p></e>
+        <e>  <p>  <l>orthochromatic<s n="adj"/></l><r>ortocromático<s n="adj"/></r></p></e>
+        <e>  <p>  <l>astatic<s n="adj"/></l><r>astático<s n="adj"/></r></p></e>
+        <e>  <p>  <l>archimedean<s n="adj"/></l><r>arquimediano<s n="adj"/></r></p></e>
         <e>  <p>  <l>chromatid<s n="n"/></l><r>cromátida<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>chronograph<s n="n"/></l><r>cronógrafo<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>chronometer<s n="n"/></l><r>cronómetro<s n="n"/><s n="m"/></r></p></e>
@@ -22874,6 +23139,7 @@
         <e>  <p>  <l>encephalopathy<s n="n"/></l><r>encefalopatía<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>encyclopaedic<s n="adj"/></l><r>enciclopédico<s n="adj"/></r></p></e>
         <e>  <p>  <l>enclitic<s n="adj"/></l><r>enclítico<s n="adj"/></r></p></e>
+        <e>  <p>  <l>anaclitic<s n="adj"/></l><r>anaclítico<s n="adj"/></r></p></e>
         <e>  <p>  <l>formwork<s n="n"/></l><r>encofrado<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>shrinkage<s n="n"/></l><r>encogimiento<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>encrypt<s n="vblex"/></l><r>encriptar<s n="vblex"/></r></p></e>
@@ -23457,6 +23723,8 @@
         <e>  <p>  <l>seagull<s n="n"/></l><r>gaviota<s n="n"/><s n="f"/></r></p></e>
         <e r="LR">  <p>  <l>gull<s n="n"/></l><r>gaviota<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>peacock<s n="n"/></l><r>pavo<b/>real<s n="n"/><s n="m"/></r></p></e>
+        <e>  <p>  <l>peahen<s n="n"/></l><r>pavo<b/>real<s n="n"/><s n="f"/></r></p></e>
+        <e r="LR">  <p>  <l>peafowl<s n="n"/></l><r>pavo<b/>real<s n="n"/><s n="GD"/></r></p></e>
         <e>  <p>  <l>falcon<s n="n"/></l><r>halcón<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>mousehole<s n="n"/></l><r>ratonera<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>gaelic<s n="adj"/></l><r>gaélico<s n="adj"/></r></p></e>
@@ -23492,6 +23760,7 @@
         <e>  <p>  <l>geomorphological<s n="adj"/></l><r>geomorfológico<s n="adj"/></r></p></e>
         <e>  <p>  <l>geometrically<s n="adv"/></l><r>geométricamente<s n="adv"/></r></p></e>
         <e>  <p>  <l>geomorphic<s n="adj"/></l><r>geomórfico<s n="adj"/></r></p></e>
+        <e>  <p>  <l>allomorphic<s n="adj"/></l><r>alomórfico<s n="adj"/></r></p></e>
         <e>  <p>  <l>geosynonym<s n="n"/></l><r>geosinónimo<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>geothermal<s n="adj"/></l><r>geotérmico<s n="adj"/></r></p></e>
         <e>  <p>  <l>geranium<s n="n"/></l><r>geranio<s n="n"/><s n="m"/></r></p></e>
@@ -23553,6 +23822,79 @@
         <e>  <p>  <l>graphology<s n="n"/></l><r>grafología<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>grammage<s n="n"/></l><r>gramaje<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>grammatical<s n="adj"/></l><r>gramatical<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>ungrammatical<s n="adj"/></l><r>antigramatical<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>prohibitionist<s n="adj"/></l><r>prohibicionista<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>quadric<s n="adj"/></l><r>cuádrica<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>quartic<s n="adj"/></l><r>cuártica<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>humiferous<s n="adj"/></l><r>humífero<s n="adj"/></r></p></e>
+        <e>  <p>  <l>hydrofugous<s n="adj"/></l><r>hidrófugo<s n="adj"/></r></p></e>
+        <e>  <p>  <l>maladjusted<s n="adj"/></l><r>inadaptado<s n="adj"/></r></p></e>
+        <e>  <p>  <l>malaysian<s n="adj"/></l><r>malasiano<s n="adj"/></r></p></e>
+        <e>  <p>  <l>mozambican<s n="adj"/></l><r>mozambiqueño<s n="adj"/></r></p></e>
+        <e>  <p>  <l>guyanese<s n="adj"/></l><r>guyanés<s n="adj"/></r></p></e>
+        <e>  <p>  <l>kymographic<s n="adj"/></l><r>quimógrafico<s n="adj"/></r></p></e>
+        <e>  <p>  <l>libyan<s n="adj"/></l><r>libio<s n="adj"/></r></p></e>
+        <e>  <p>  <l>omissible<s n="adj"/></l><r>omisible<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>nymphomaniac<s n="adj"/></l><r>ninfómano<s n="adj"/></r></p></e>
+        <e>  <p>  <l>nudist<s n="adj"/></l><r>nudista<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>sleeved<s n="adj"/></l><r>con<b/>mangas<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>descriptionist<s n="adj"/></l><r>descripcionista<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>heterometric<s n="adj"/></l><r>heterométrico<s n="adj"/></r></p></e>
+        <e>  <p>  <l>heteropolar<s n="adj"/></l><r>heteropolar<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>reentrant<s n="adj"/></l><r>reentrante<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>unencumbered<b/>by<s n="pr"/></l><r>sin<b/>el<b/>estorbo<b/>de<s n="pr"/></r></p></e>
+        <e>  <p>  <l>unencumbered<s n="adj"/></l><r>sin<b/>trabas<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>salient<s n="adj"/></l><r>saliente<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>salient<b/>point<s n="n"/></l><r>punto<b/>principale<s n="n"/><s n="m"/></r></p></e>
+        <e>  <p>  <l>casting<b/>vote<s n="n"/></l><r>voto<g><b/>de<b/>calidad</g><s n="n"/><s n="m"/></r></p></e>
+        <e>  <p>  <l>oncoming<b/>tide<s n="n"/></l><r>marea<b/>que<b/>se<b/>acerca<s n="n"/><s n="f"/></r></p></e>
+        <e>  <p>  <l>oncoming<b/>traffic<s n="n"/></l><r>tráfico<g><b/>en<b/>dirección<b/>contraria</g><s n="n"/><s n="m"/></r></p></e>
+        <e>  <p>  <l>malawian<s n="adj"/></l><r>malawiano<s n="adj"/></r></p></e>
+        <e>  <p>  <l>matutinal<s n="adj"/></l><r>matutino<s n="adj"/></r></p></e>
+        <e>  <p>  <l>mauritanian<s n="adj"/></l><r>mauritanio<s n="adj"/></r></p></e>
+        <e>  <p>  <l>kuwaiti<s n="adj"/></l><r>kuwaití<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>guinean<s n="adj"/></l><r>guineano<s n="adj"/></r></p></e>
+        <e>  <p>  <l>guyanese<s n="adj"/></l><r>guyanés<s n="adj"/></r></p></e>
+        <e>  <p>  <l>hawaiian<s n="adj"/></l><r>hawaiiano<s n="adj"/></r></p></e>
+        <e>  <p>  <l>grenadian<s n="adj"/></l><r>granadino<s n="adj"/></r></p></e>
+        <e r="LR">  <p>  <l>granadan<s n="adj"/></l><r>granadino<s n="adj"/></r></p></e>
+        <e>  <p>  <l>pitiful<s n="adj"/></l><r>lastimoso<s n="adj"/></r></p></e>
+        <e>  <p>  <l>omani<s n="adj"/></l><r>omaní<s n="adj"/><s n="mf"/></r></p></e>
+        <e r="LR">  <p>  <l>oncoming<s n="adj"/></l><r>venidero<s n="adj"/></r></p></e>
+        <e>  <p>  <l>guttural<s n="adj"/></l><r>gutural<s n="adj"/><s n="mf"/></r></p></e>
+        <e r="LR">  <p>  <l>preceptorial<s n="adj"/></l><r>preceptoral<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>tutorial<s n="adj"/></l><r>preceptoral<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>pedal<s n="adj"/></l><r>pedial<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>pledgable<s n="adj"/></l><r>pignorable<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>serviceable<s n="adj"/></l><r>servible<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>electromotive<s n="adj"/></l><r>electromotor<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>euryene<s n="adj"/></l><r>eurieno<s n="adj"/></r></p></e>
+    <e><p><l>prograding<s n="adj"/></l><r>progradando<s n="adj"/></r></p></e>
+    <e><p><l>sacrilegious<s n="adj"/></l><r>sacrílego<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>sacrilegist<s n="adj"/></l><r>sacrílego<s n="adj"/></r></p></e>
+    <e><p><l>hermitian<s n="adj"/></l><r>hermitiano<s n="adj"/></r></p></e>
+    <e><p><l>isobathic<s n="adj"/></l><r>isóbatico<s n="adj"/></r></p></e>
+    <e><p><l>pederastic<s n="adj"/></l><r>pederástico<s n="adj"/></r></p></e>
+    <e><p><l>isoseismic<s n="adj"/></l><r>isosísmico<s n="adj"/></r></p></e>
+    <e><p><l>seismic<s n="adj"/></l><r>sísmico<s n="adj"/></r></p></e>
+    <e><p><l>olivary<s n="adj"/></l><r>olivario<s n="adj"/></r></p></e>
+    <e><p><l>orgasmic<s n="adj"/></l><r>orgásmico<s n="adj"/></r></p></e>
+    <e><p><l>orgastic<s n="adj"/></l><r>orgástico<s n="adj"/></r></p></e>
+    <e><p><l>pachic<s n="adj"/></l><r>páchico<s n="adj"/></r></p></e>
+    <e><p><l>phatic<s n="adj"/></l><r>fático<s n="adj"/></r></p></e>
+    <e><p><l>halomorphic<s n="adj"/></l><r>halomórfico<s n="adj"/></r></p></e>
+    <e><p><l>plinthic<s n="adj"/></l><r>plíntico<s n="adj"/></r></p></e>
+    <e><p><l>paronymic<s n="adj"/></l><r>paronímico<s n="adj"/></r></p></e>
+    <e><p><l>semidiurnal<s n="adj"/></l><r>semidiurno<s n="adj"/></r></p></e>
+    <e><p><l>prohibitory<s n="adj"/></l><r>prohibitorio<s n="adj"/></r></p></e>
+    <e><p><l>promissory<s n="adj"/></l><r>promisorio<s n="adj"/></r></p></e>
+    <e><p><l>reversionary<s n="adj"/></l><r>reversionarío<s n="adj"/></r></p></e>
+    <e><p><l>rurban<s n="adj"/></l><r>rurubano<s n="adj"/></r></p></e>
+    <e><p><l>sapric<s n="adj"/></l><r>saprico<s n="adj"/></r></p></e>
+    <e><p><l>sciophilous<s n="adj"/></l><r>esciófilo<s n="adj"/></r></p></e>
+    <e><p><l>sideric<s n="adj"/></l><r>sidérico<s n="adj"/></r></p></e>
+    <e><p><l>sociopathic<s n="adj"/></l><r>sociopático<s n="adj"/></r></p></e>
+    <e><p><l>terric<s n="adj"/></l><r>térico<s n="adj"/></r></p></e>
         <e>  <p>  <l>grammaticalisation<s n="n"/></l><r>gramaticalización<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>gramophone<s n="n"/></l><r>gramófono<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>grenadier<s n="n"/></l><r>granadero<s n="n"/><s n="m"/></r></p></e>
@@ -23937,7 +24279,7 @@
         <e>  <p>  <l>immunosuppression<s n="n"/></l><r>inmunosupresión<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>immunotherapy<s n="n"/></l><r>inmunoterapia<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>innate<s n="adj"/></l><r>innato<s n="adj"/></r></p></e>
-        <e>  <p>  <l>needlessly<s n="adv"/></l><r>innecesariamente<s n="adv"/></r></p></e>
+        <e r="LR">  <p>  <l>needlessly<s n="adv"/></l><r>innecesariamente<s n="adv"/></r></p></e>
         <e r="LR">  <p>  <l>numberless<s n="adj"/></l><r>innumerable<s n="adj"/><s n="mf"/></r></p></e>
         <e>  <p>  <l>innocently<s n="adv"/></l><r>inocentemente<s n="adv"/></r></p></e>
         <e>  <p>  <l>inorganic<s n="adj"/></l><r>inorgánico<s n="adj"/></r></p></e>
@@ -24049,12 +24391,15 @@
         <e>  <p>  <l>isogon<s n="n"/></l><r>isógona<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>isomer<s n="n"/></l><r>isómero<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>isotropic<s n="adj"/></l><r>isótropo<s n="adj"/></r></p></e>
+        <e>  <p>  <l>anisotropic<s n="adj"/></l><r>anisótropo<s n="adj"/></r></p></e>
+        <e>  <p>  <l>morphemic<s n="adj"/></l><r>morfémico<s n="adj"/></r></p></e>
         <e>  <p>  <l>yttrium<s n="n"/></l><r>itrio<s n="n"/><s n="m"/></r></p></e>
         <e r="LR">  <p>  <l>lefthand<s n="adj"/></l><r>izquierdo<s n="adj"/></r></p></e>
         <e>  <p>  <l>ionic<s n="adj"/></l><r>iónico<s n="adj"/></r></p></e>
         <e>  <p>  <l>hyacinth<s n="n"/></l><r>jacinto<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>jacobinism<s n="n"/></l><r>jacobinismo<s n="n"/><s n="m"/></r></p></e>
-        <e>  <p>  <l>jacobiste<s n="adj"/></l><r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+        <e r="LR">  <p>  <l>jacobiste<s n="adj"/></l><r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
+        <e r="LR">  <p>  <l>jacobist<s n="adj"/></l><r>jacobita<s n="adj"/><s n="mf"/></r></p></e>
         <e>  <p>  <l>jade<s n="n"/></l><r>jade<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>jadeite<s n="n"/></l><r>jadeíta<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>jaguar<s n="n"/></l><r>jaguar<s n="n"/><s n="m"/></r></p></e>
@@ -24222,6 +24567,12 @@
         <e>  <p>  <l>mandoline<s n="n"/></l><r>mandolina<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>baboon<s n="n"/></l><r>mandril<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>handy<s n="adj"/><s n="sint"/></l><r>manejable<s n="adj"/><s n="mf"/></r></p></e>
+        <e>  <p>  <l>silty<s n="adj"/><s n="sint"/></l><r>limoso<s n="adj"/></r></p></e>
+        <e>  <p>  <l>sticky<s n="adj"/><s n="sint"/></l><r>pegajoso<s n="adj"/></r></p></e>
+        <e>  <p>  <l>stormy<s n="adj"/><s n="sint"/></l><r>tormentoso<s n="adj"/></r></p></e>
+        <e>  <p>  <l>knightly<s n="adj"/><s n="sint"/></l><r>caballeresco<s n="adj"/></r></p></e>
+        <e>  <p>  <l>welsh<s n="adj"/></l><r>galés<s n="adj"/></r></p></e>
+        <e>  <p>  <l>siamese<s n="adj"/></l><r>siamés<s n="adj"/></r></p></e>
     
 <!-- 	forced 'LR' restriction      defaultLR    -->
     <e r="RL"><p><l>mangrove<s n="n"/></l><r>manglar<s n="n"/><s n="m"/></r></p></e>
@@ -24425,7 +24776,7 @@
         <e>  <p>  <l>monoclinic<s n="adj"/></l><r>monoclínico<s n="adj"/></r></p></e>
         <e>  <p>  <l>monocotyledon<s n="n"/></l><r>monocotiledonia<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>monochrome<s n="adj"/></l><r>monocromo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>unicolored<s n="adj"/></l><r>monocromo<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>unicoloured<s n="adj"/></l><r>monocromo<s n="adj"/></r></p></e>
         <e>  <p>  <l>monochromatic<s n="adj"/></l><r>monocromático<s n="adj"/></r></p></e>
         <e>  <p>  <l>monoculture<s n="n"/></l><r>monocultura<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>monocyclic<s n="adj"/></l><r>monocíclico<s n="adj"/></r></p></e>
@@ -24968,8 +25319,8 @@
         <e>  <p>  <l>rot<s n="n"/></l><r>podredumbre<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>podzolic<s n="adj"/></l><r>podsólico<s n="adj"/></r></p></e>
         <e>  <p>  <l>pogrom<s n="n"/></l><r>pogromo<s n="n"/><s n="m"/></r></p></e>
-        <e>  <p>  <l>poikilothermal<s n="adj"/></l><r>poiquilotermo<s n="adj"/></r></p></e>
-        <e>  <p>  <l>polarizer<s n="n"/></l><r>polarizador<s n="n"/><s n="m"/></r></p></e>
+        <e r="LR">  <p>  <l>poikilothermal<s n="adj"/></l><r>poiquilotermo<s n="adj"/></r></p></e>
+        <e>  <p>  <l>polariser<s n="n"/></l><r>polarizador<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>polarise<s n="vblex"/></l><r>polarizar<s n="vblex"/></r></p></e>
         <e>  <p>  <l>polarography<s n="n"/></l><r>polarografía<s n="n"/><s n="f"/></r></p></e>
         <e>  <p>  <l>polarimeter<s n="n"/></l><r>polarímetro<s n="n"/><s n="m"/></r></p></e>
@@ -25675,6 +26026,7 @@
         <e>  <p>  <l>superfluid<s n="n"/></l><r>superfluido<s n="n"/><s n="m"/></r></p></e>
     <e>  <p>  <l>superfluid<s n="adj"/></l><r>superfluido<s n="adj"/></r></p></e>
     <e>  <p>  <l>fluent<s n="adj"/></l><r>fluido<s n="adj"/></r></p></e>
+    <e r="LR">  <p>  <l>fluid<s n="adj"/></l><r>fluido<s n="adj"/></r></p></e>
         <e>  <p>  <l>superman<s n="n"/></l><r>superhombre<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>supernumerary<s n="n"/></l><r>supernumerario<s n="n"/><s n="m"/></r></p></e>
         <e>  <p>  <l>supervision<s n="n"/></l><r>supervisión<s n="n"/><s n="f"/></r></p></e>
@@ -26365,6 +26717,7 @@
 <e><p><l>guffaw<s n="n"/></l><r>carcajada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>godmother<s n="n"/></l><r>madrina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ire<s n="n"/></l><r>ira<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>wrath<s n="n"/></l><r>ira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anchovy<s n="n"/></l><r>anchoa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>similarity<s n="n"/></l><r>semejanza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>appetite<s n="n"/></l><r>apetito<s n="n"/><s n="m"/></r></p></e>
@@ -26591,6 +26944,7 @@
 <e><p><l>chaplain<s n="n"/></l><r>capellán<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>colonist<s n="n"/></l><r>colonizador<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>colonist<s n="n"/></l><r>colonizador<s n="n"/></r></p></e>
+<e><p><l>colonising<s n="adj"/></l><r>colonizador<s n="adj"/></r></p></e>
 <e r="LR"><p><l>commissioner<s n="n"/></l><r>comisario<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>commissioner<s n="n"/></l><r>comisario<s n="n"/></r></p></e>
 <e r="LR"><p><l>work<b/>centre<s n="n"/></l><r>centro<g><b/>de<b/>trabajo</g><s n="n"/><s n="m"/></r></p></e>
@@ -26777,6 +27131,10 @@
 <e a="greenbreen"><p><l>lazy<s n="adj"/><s n="sint"/></l><r>perezoso<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>angry<s n="adj"/><s n="sint"/></l><r>enojado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>clumsy<s n="adj"/><s n="sint"/></l><r>torpe<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>graceless<s n="adj"/></l><r>torpe<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>fibular<s n="adj"/></l><r>fibular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>genicular<s n="adj"/></l><r>genicular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>isoclinal<s n="adj"/></l><r>isoclinal<s n="adj"/><s n="mf"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>clumsy<s n="adj"/><s n="sint"/></l><r>torpe<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>inconsiderate<s n="adj"/></l><r>desconsiderado<s n="adj"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>thoughtless<s n="adj"/></l><r>desconsiderado<s n="adj"/></r></p></e>
@@ -26859,7 +27217,8 @@
 <e r="LR" a="greenbreen"><p><l>neat<s n="adj"/><s n="sint"/></l><r>ordenado<s n="adj"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>hi<s n="ij"/></l><r>hola<s n="ij"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>shredder<s n="n"/></l><r>trituradora<s n="n"/><s n="f"/></r></p></e>
-<e a="greenbreen"><p><l>wow<s n="ij"/></l><r>ah<s n="ij"/></r></p></e>
+<e a="greenbreen"><p><l>wow<s n="ij"/></l><r>uau<s n="ij"/></r></p></e>
+<e a="greenbreen"><p><l>ah<s n="ij"/></l><r>ah<s n="ij"/></r></p></e>
 <e a="greenbreen"><p><l>cluttered<s n="adj"/></l><r>abarrotado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>airline<s n="n"/></l><r>aerolínea<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>heavy<s n="adj"/><s n="sint"/></l><r>pesado<s n="adj"/></r></p></e>
@@ -26991,7 +27350,8 @@
 <e a="greenbreen"><p><l>Rhode<b/>Island<s n="np"/><s n="loc"/></l><r>Rhode<b/>Island<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>victim<s n="n"/></l><r>damnificado<s n="n"/></r></p></e>
 <e a="greenbreen"><p><l>slide<s n="n"/></l><r>deslizamiento<s n="n"/><s n="m"/></r></p></e>
-<e a="greenbreen"><p><l>landslide<s n="n"/></l><r>deslizamiento<g><b/>de<b/>tierras</g><s n="n"/><s n="m"/></r></p></e>
+<e a="greenbreen" r="RL"><p><l>landslide<s n="n"/></l><r>deslizamiento<g><b/>de<b/>tierras</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>landslide<s n="n"/></l><r>derrumbe<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>in<b/>any<b/>case<s n="adv"/></l><r>de<b/>todas<b/>formas<s n="adv"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>district<s n="n"/></l><r>barriada<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>shantytown<s n="n"/></l><r>villorrio<s n="n"/><s n="m"/></r></p></e>
@@ -27119,8 +27479,8 @@
 <e r="LR" a="greenbreen"><p><l>gypsum<s n="n"/></l><r>yeso<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>lime<s n="n"/></l><r>lima<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>quicksilver<s n="n"/></l><r>azogue<s n="n"/><s n="m"/></r></p></e>
-<e a="greenbreen"><p><l>Frechman<s n="n"/></l><r>galo<s n="n"/><s n="m"/></r></p></e>
-<e a="greenbreen"><p><l>Frechwoman<s n="n"/></l><r>galo<s n="n"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>Frenchman<s n="n"/></l><r>galo<s n="n"/><s n="m"/></r></p></e>
+<e a="greenbreen"><p><l>Frenchwoman<s n="n"/></l><r>galo<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>ash<s n="n"/></l><r>ceniza<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>piracy<s n="n"/></l><r>piratería<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>offender<s n="n"/></l><r>infractor<s n="n"/><s n="GD"/></r></p></e>
@@ -27179,6 +27539,8 @@
 <e r="LR" a="greenbreen"><p><l>regrettably<s n="adv"/></l><r>lamentablemente<s n="adv"/></r></p></e>
 <e a="greenbreen"><p><l>hospitality<s n="n"/></l><r>hospitalidad<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>rude<s n="adj"/><s n="sint"/></l><r>grosero<s n="adj"/></r></p></e>
+<e r="LR"><p><l>impolite<s n="adj"/></l><r>grosero<s n="adj"/></r></p></e>
+<e><p><l>braided<s n="adj"/></l><r>trenzado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>courtesy<s n="n"/></l><r>cortesía<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>deception<s n="n"/></l><r>engaño<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>granary<s n="n"/></l><r>granero<s n="n"/><s n="m"/></r></p></e>
@@ -27491,6 +27853,7 @@
 <e r="RL" a="greenbreen"><p><l>poll<s n="n"/></l><r>sondeo<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>welcome<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>fearful<s n="adj"/></l><r>temeroso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>afraid<s n="adj"/></l><r>temeroso<s n="adj"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>Hispanic<s n="n"/></l><r>hispano<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>Hispanic<s n="n"/></l><r>hispano<s n="n"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>hispanic<s n="adj"/></l><r>hispano<s n="adj"/></r></p></e>
@@ -27581,6 +27944,7 @@
 <e a="greenbreen"><p><l>coral<b/>reef<s n="n"/></l><r>arrecife<g><b/>de<b/>coral</g><s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>frost<s n="n"/></l><r>helada<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>freezing<s n="adj"/></l><r>helado<s n="adj"/></r></p></e>
+<e r="LR"><p><l>frosted<s n="adj"/></l><r>helado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>salmon<s n="n"/></l><r>salmón<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>plateau<s n="n"/></l><r>meseta<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>deciduous<s n="adj"/></l><r>caducifolio<s n="adj"/></r></p></e>
@@ -27599,8 +27963,8 @@
 <e r="RL" a="greenbreen"><p><l>closet<s n="n"/></l><r>guardarropa<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>bastion<s n="n"/></l><r>baluarte<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>ferret<s n="n"/></l><r>hurón<s n="n"/><s n="m"/></r></p></e>
-<e r="LR" a="greenbreen"><p><l>fox<s n="n"/></l><r>zorro<s n="n"/><s n="GD"/></r></p></e>
-<e r="RL" a="greenbreen"><p><l>fox<s n="n"/></l><r>zorro<s n="n"/></r></p></e>
+<e a="greenbreen"><p><l>fox<s n="n"/></l><r>zorro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>vixen<s n="n"/></l><r>zorro<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>mink<s n="n"/></l><r>visón<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>fur<s n="n"/></l><r>pelaje<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>maybe<s n="adv"/></l><r>tal<b/>vez<s n="adv"/></r></p></e>
@@ -27655,7 +28019,7 @@
 <e a="greenbreen"><p><l>sulphur<b/>dioxide<s n="n"/></l><r>dióxido<g><b/>de<b/>azufre</g><s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>carbonaceous<s n="adj"/></l><r>carbónico<s n="adj"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>thickness<s n="n"/></l><r>grueso<s n="n"/><s n="m"/></r></p></e>
-<e a="greenbreen"><p><l>salty<s n="adj"/><s n="sint"/></l><r>salado<s n="adj"/></r></p></e>
+<e a="greenbreen" r="RL"><p><l>salty<s n="adj"/><s n="sint"/></l><r>salado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>conductive<s n="adj"/></l><r>conductor<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>antifreeze<s n="n"/></l><r>anticongelante<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>saturated<s n="adj"/></l><r>saturado<s n="adj"/></r></p></e>
@@ -27733,7 +28097,7 @@
 <e a="greenbreen"><p><l>XML<s n="n"/><s n="acr"/></l><r>XML<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>et<b/>al<s n="n"/><s n="acr"/><s n="sg"/></l><r>et<b/>al<s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></r></p></e>
 <e a="greenbreen"><p><l>W3C<s n="n"/><s n="acr"/></l><r>W3C<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
-<e a="greenbreen"><p><l>optimization<s n="n"/></l><r>optimización<s n="n"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>optimisation<s n="n"/></l><r>optimización<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>fuzzy<b/>logic<s n="n"/></l><r>lógica<b/>difusa<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>syntax<s n="n"/></l><r>sintaxis<s n="n"/><s n="f"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>syntax<s n="n"/><s n="ND"/></l><r>sintaxis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -27792,6 +28156,8 @@
 <e a="greenbreen"><p><l>vertebrate<s n="adj"/></l><r>vertebrado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>vertebrate<s n="n"/></l><r>vertebrado<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>bloodstream<s n="n"/></l><r>torrente<b/>sanguíneo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>blood<b/>vessel<s n="n"/></l><r>vaso<b/>sanguíneo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>blood<b/>group<s n="n"/></l><r>grupo<b/>sanguíneo<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>ATP<s n="n"/><s n="acr"/></l><r>ATP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>adenosine<b/>triphosphate<s n="n"/></l><r>adenosín<b/>trifosfato<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>constituent<s n="n"/></l><r>constituyente<s n="n"/><s n="m"/></r></p></e>
@@ -27878,12 +28244,24 @@
 <e a="greenbreen"><p><l>resonant<s n="adj"/></l><r>resonante<s n="adj"/><s n="mf"/></r></p></e>
 <e a="greenbreen"><p><l>porous<s n="adj"/></l><r>poroso<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>reflexive<s n="adj"/></l><r>reflexivo<s n="adj"/></r></p></e>
+<e><p><l>antireflexive<s n="adj"/></l><r>antireflexivo<s n="adj"/></r></p></e>
+<e><p><l>anthropophagus<s n="adj"/></l><r>antropófago<s n="adj"/></r></p></e>
+<e><p><l>algerian<s n="adj"/></l><r>argelino<s n="adj"/></r></p></e>
+<e><p><l>salty<s n="adj"/><s n="sint"/></l><r>salobre<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>fleshy<s n="adj"/><s n="sint"/></l><r>carnoso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>meaty<s n="adj"/><s n="sint"/></l><r>carnoso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>skew<s n="adj"/><s n="sint"/></l><r>torcido<s n="adj"/></r></p></e>
+<e><p><l>milky<s n="adj"/><s n="sint"/></l><r>lechoso<s n="adj"/></r></p></e>
+<e><p><l>woody<s n="adj"/><s n="sint"/></l><r>leñoso<s n="adj"/></r></p></e>
+<e><p><l>pasty<s n="adj"/><s n="sint"/></l><r>pastoso<s n="adj"/></r></p></e>
+<e><p><l>scaly<s n="adj"/><s n="sint"/></l><r>escamoso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>flaky<s n="adj"/><s n="sint"/></l><r>escamoso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>brackish<s n="adj"/></l><r>salobre<s n="adj"/><s n="mf"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>mass<s n="adj"/></l><r>másico<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>multilayered<s n="adj"/></l><r>multicapa<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 <e a="greenbreen"><p><l>pore<s n="n"/></l><r>poro<s n="n"/><s n="m"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>properly<s n="adv"/></l><r>propiamente<s n="adv"/></r></p></e>
 <e a="greenbreen"><p><l>terrazzo<s n="n"/></l><r>terrazo<s n="n"/><s n="m"/></r></p></e>
-<e r="RL" a="greenbreen"><p><l>certain<s n="adj"/></l><r>determinado<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>Wikipedia<s n="np"/><s n="al"/></l><r>Wikipedia<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>precursor<s n="n"/></l><r>precursor<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>precursor<s n="n"/></l><r>precursor<s n="n"/></r></p></e>
@@ -28144,8 +28522,7 @@
 <e r="RL" a="greenbreen"><p><l>Egyptian<s n="n"/></l><r>egipcio<s n="n"/></r></p></e>
 <e a="greenbreen"><p><l>Middle<b/>Kingdom<s n="np"/><s n="al"/></l><r>Imperio<b/>Medio<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>onwards<s n="adv"/></l><r>en<b/>adelante<s n="adv"/></r></p></e>
-<e r="LR" a="greenbreen"><p><l>English-speaking<s n="adj"/></l><r>de<b/>habla<b/>inglesa<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
-<e r="RL" a="greenbreen"><p><l>English-speaking<s n="adj"/><s n="ND"/></l><r>de<b/>habla<b/>inglesa<s n="adj"/><s n="mf"/></r></p></e>
+<e a="greenbreen"><p><l>English-speaking<s n="adj"/></l><r>de<b/>habla<b/>inglés<s n="adj"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>numeral<s n="n"/></l><r>número<s n="n"/><s n="m"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>Babylonian<s n="n"/></l><r>babilonio<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL" a="greenbreen"><p><l>Babylonian<s n="n"/></l><r>babilonio<s n="n"/></r></p></e>
@@ -28164,7 +28541,7 @@
 <e a="greenbreen"><p><l>self-evident<s n="adj"/></l><r>manifiesto<s n="adj"/></r></p></e>
 <e a="greenbreen"><p><l>incompleteness<s n="n"/></l><r>incompletud<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>undecidable<s n="adj"/></l><r>indecidible<s n="adj"/><s n="mf"/></r></p></e>
-<e a="greenbreen"><p><l>axiomatization<s n="n"/></l><r>axiomatización<s n="n"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>axiomatisation<s n="n"/></l><r>axiomatización<s n="n"/><s n="f"/></r></p></e>
 <e a="greenbreen"><p><l>falsifiable<s n="adj"/></l><r>falsable<s n="adj"/><s n="mf"/></r></p></e>
 <e a="greenbreen"><p><l>empirically<s n="adv"/></l><r>empíricamente<s n="adv"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>viewpoint<s n="n"/></l><r>punto<g><b/>de<b/>vista</g><s n="n"/><s n="m"/></r></p></e>
@@ -28189,7 +28566,7 @@
 <e r="LR" a="greenbreen"><p><l>estimation<s n="n"/></l><r>valoración<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>consequential<s n="adj"/></l><r>consiguiente<s n="adj"/><s n="mf"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>technique<s n="n"/></l><r>técnico<s n="n"/><s n="f"/></r></p></e>
-<e a="greenbreen"><p><l>discretization<s n="n"/></l><r>discretización<s n="n"/><s n="f"/></r></p></e>
+<e a="greenbreen"><p><l>discretisation<s n="n"/></l><r>discretización<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>misconception<s n="n"/></l><r>error<s n="n"/><s n="m"/></r></p></e>
 <e a="greenbreen"><p><l>numerology<s n="n"/></l><r>numerología<s n="n"/><s n="f"/></r></p></e>
 <e r="LR" a="greenbreen"><p><l>contributor<s n="n"/></l><r>colaborador<s n="n"/><s n="GD"/></r></p></e>
@@ -28469,6 +28846,7 @@
 
 
     <e><p><l>Abascal<s n="np"/><s n="cog"/></l><r>Abascal<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Scrooge<s n="np"/><s n="cog"/></l><r>Scrooge<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Almunia<s n="np"/><s n="cog"/></l><r>Almunia<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Abellán<s n="np"/><s n="cog"/></l><r>Abellán<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Acebes<s n="np"/><s n="cog"/></l><r>Acebes<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -29136,6 +29514,981 @@
     <e><p><l>Vergara<s n="np"/><s n="cog"/></l><r>Vergara<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Zidane<s n="np"/><s n="cog"/></l><r>Zidane<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Zurbarán<s n="np"/><s n="cog"/></l><r>Zurbarán<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+
+<e><p><l>ditto<s n="adv"/></l><r>ídem<s n="adv"/></r></p></e>
+<e><p><l>neatly<s n="adv"/></l><r>pulcramente<s n="adv"/></r></p></e>
+<e><p><l>in<b/>more<b/>detail<s n="adv"/></l><r>con<b/>más<b/>detalle<s n="adv"/></r></p></e>
+<e r="LR"><p><l>shortly<b/>afterwards<s n="adv"/></l><r>poco<b/>después<s n="adv"/></r></p></e>
+<e><p><l>as<b/>much<b/>as<s n="adv"/></l><r>tanto<b/>como<s n="adv"/></r></p></e>
+<e r="LR"><p><l>before<b/>everything<b/>else<s n="adv"/></l><r>ante<b/>todo<s n="adv"/></r></p></e>
+<e><p><l>in<b/>return<s n="adv"/></l><r>a<b/>cambio<s n="adv"/></r></p></e>
+<e><p><l>on<b/>an<b/>international<b/>scale<s n="adv"/></l><r>a<b/>escala<b/>internacional<s n="adv"/></r></p></e>
+<e><p><l>on<b/>a<b/>national<b/>scale<s n="adv"/></l><r>a<b/>escala<b/>nacional<s n="adv"/></r></p></e>
+<e><p><l>at<b/>intervals<s n="adv"/></l><r>a<b/>intervalos<s n="adv"/></r></p></e>
+<e><p><l>on<b/>a<b/>tightrope<s n="adv"/></l><r>en<b/>la<b/>cuerda<b/>floja<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>final<b/>stages<s n="adv"/></l><r>en<b/>la<b/>fase<b/>final<s n="adv"/></r></p></e>
+<e><p><l>to<b/>perfection<s n="adv"/></l><r>a<b/>la<b/>perfección<s n="adv"/></r></p></e>
+<e><p><l>at<b/>the<b/>earliest<b/>opportunity<s n="adv"/></l><r>en<b/>la<b/>primera<b/>oportunidad<s n="adv"/></r></p></e>
+<e><p><l>in<b/>sight<s n="adv"/></l><r>a<b/>la<b/>vista<s n="adv"/></r></p></e>
+<e><p><l>at<b/>half-mast<s n="adv"/></l><r>a<b/>media<b/>asta<s n="adv"/></r></p></e>
+<e r="LR"><p><l>at<b/>a<b/>snail's<b/>pace<s n="adv"/></l><r>a<b/>paso<b/>de<b/>tortuga<s n="adv"/></r></p></e>
+<e><p><l>in<b/>midsummer<s n="adv"/></l><r>en<b/>pleno<b/>verano<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>dead<b/>of<b/>winter<s n="adv"/></l><r>en<b/>pleno<b/>invierno<s n="adv"/></r></p></e>
+<e><p><l>at<b/>first<b/>sight<s n="adv"/></l><r>a<b/>primera<b/>vista<s n="adv"/></r></p></e>
+<e><p><l>at<b/>gunpoint<s n="adv"/></l><r>a<b/>punta<b/>de<b/>pistola<s n="adv"/></r></p></e>
+<e><p><l>close<b/>to<b/>tears<s n="adv"/></l><r>a<b/>punto<b/>de<b/>llorar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>tow<s n="adv"/></l><r>a<b/>remolque<s n="adv"/></r></p></e>
+<e><p><l>in<b/>cold<b/>blood<s n="adv"/></l><r>a<b/>sangre<b/>fría<s n="adv"/></r></p></e>
+<e><p><l>on<b/>request<s n="adv"/></l><r>a<b/>petición<s n="adv"/></r></p></e>
+<e><p><l>part<b/>time<s n="adv"/></l><r>a<b/>tiempo<b/>parcial<s n="adv"/></r></p></e>
+<e><p><l>ad<b/>infinitum<s n="adv"/></l><r>ad<b/>infinitum<s n="adv"/></r></p></e>
+<e><p><l>ad-lib<s n="adv"/></l><r>ad-lib<s n="adv"/></r></p></e>
+<e><p><l>ad<b/>nauseam<s n="adv"/></l><r>ad<b/>nauseam<s n="adv"/></r></p></e>
+<e><p><l>at<b/>the<b/>side<s n="adv"/></l><r>al<b/>lado<s n="adv"/></r></p></e>
+<e><p><l>in<b/>good<b/>conscience<s n="adv"/></l><r>con<b/>la<b/>conciencia<b/>tranquila<s n="adv"/></r></p></e>
+<e><p><l>in<b/>seventh<b/>heaven<s n="adv"/></l><r>en<b/>el<b/>séptimo<b/>cielo<s n="adv"/></r></p></e>
+<e><p><l>with<b/>luck<s n="adv"/></l><r>con<b/>suerte<s n="adv"/></r></p></e>
+<e><p><l>in<b/>all<b/>honesty<s n="adv"/></l><r>con<b/>toda<b/>honestidad<s n="adv"/></r></p></e>
+<e><p><l>in<b/>all<b/>fairness<s n="adv"/></l><r>con<b/>toda<b/>justicia<s n="adv"/></r></p></e>
+<e><p><l>with<b/>the<b/>whole<b/>family<s n="adv"/></l><r>con<b/>toda<b/>la<b/>familia<s n="adv"/></r></p></e>
+<e><p><l>with<b/>any<b/>luck<s n="adv"/></l><r>con<b/>un<b/>poco<b/>de<b/>suerte<s n="adv"/></r></p></e>
+<e><p><l>with<b/>a<b/>laugh<s n="adv"/></l><r>con<b/>una<b/>risa<s n="adv"/></r></p></e>
+<e><p><l>with<b/>a<b/>smile<s n="adv"/></l><r>con<b/>una<b/>sonrisa<s n="adv"/></r></p></e>
+<e><p><l>up<b/>and<b/>down<s n="adv"/></l><r>arriba<b/>y<b/>abajo<s n="adv"/></r></p></e>
+<e><p><l>andante<s n="adv"/></l><r>andante<s n="adv"/></r></p></e>
+<e><p><l>andantino<s n="adv"/></l><r>andantino<s n="adv"/></r></p></e>
+<e><p><l>this<b/>afternoon<s n="adv"/></l><r>esta<b/>tarde<s n="adv"/></r></p></e>
+<e><p><l>this<b/>morning<s n="adv"/></l><r>esta<b/>mañana<s n="adv"/></r></p></e>
+<e><p><l>this<b/>noon<s n="adv"/></l><r>este<b/>mediodía<s n="adv"/></r></p></e>
+<e><p><l>this<b/>evening<s n="adv"/></l><r>esta<b/>anochecer<s n="adv"/></r></p></e>
+<e><p><l>here<b/>and<b/>there<s n="adv"/></l><r>aquí<b/>y<b/>allá<s n="adv"/></r></p></e>
+<e><p><l>now<b/>more<b/>than<b/>ever<s n="adv"/></l><r>ahora<b/>más<b/>que<b/>nunca<s n="adv"/></r></p></e>
+<e><p><l>now<b/>or<b/>never<s n="adv"/></l><r>ahora<b/>o<b/>nunca<s n="adv"/></r></p></e>
+<e><p><l>axially<s n="adv"/></l><r>axialmente<s n="adv"/></r></p></e>
+<e><p><l>every<b/>year<s n="adv"/></l><r>cada<b/>año<s n="adv"/></r></p></e>
+<e><p><l>with<b/>each<b/>passing<b/>day<s n="adv"/></l><r>con<b/>cada<b/>día<b/>que<b/>pasa<s n="adv"/></r></p></e>
+<e><p><l>every<b/>night<s n="adv"/></l><r>cada<b/>noche<s n="adv"/></r></p></e>
+<e><p><l>every<b/>second<s n="adv"/></l><r>cada<b/>segundo<s n="adv"/></r></p></e>
+<e><p><l>every<b/>three<b/>months<s n="adv"/></l><r>cada<b/>tres<b/>meses<s n="adv"/></r></p></e>
+<e><p><l>skywards<s n="adv"/></l><r>hacia<b/>el<b/>cielo<s n="adv"/></r></p></e>
+<e><p><l>to<b/>the<b/>end<s n="adv"/></l><r>hasta<b/>el<b/>final<s n="adv"/></r></p></e>
+<e><p><l>rightwards<s n="adv"/></l><r>hacia<b/>la<b/>derecha<s n="adv"/></r></p></e>
+<e><p><l>leftwards<s n="adv"/></l><r>hacia<b/>la<b/>izquierda<s n="adv"/></r></p></e>
+<e><p><l>eastwards<s n="adv"/></l><r>hacia<b/>el<b/>este<s n="adv"/></r></p></e>
+<e><p><l>like<b/>clockwork<s n="adv"/></l><r>como<b/>un<b/>reloj<s n="adv"/></r></p></e>
+<e><p><l>crescendo<s n="adv"/></l><r>crescendo<s n="adv"/></r></p></e>
+<e><p><l>through<b/>word<b/>of<b/>mouth<s n="adv"/></l><r>de<b/>boca<b/>en<b/>boca<s n="adv"/></r></p></e>
+<e><p><l>from<b/>coast<b/>to<b/>coast<s n="adv"/></l><r>de<b/>costa<b/>a<b/>costa<s n="adv"/></r></p></e>
+<e><p><l>in<b/>mourning<s n="adv"/></l><r>de<b/>luto<s n="adv"/></r></p></e>
+<e><p><l>two<b/>by<b/>two<s n="adv"/></l><r>de<b/>dos<b/>en<b/>dos<s n="adv"/></r></p></e>
+<e><p><l>on<b/>call<s n="adv"/></l><r>de<b/>guardia<s n="adv"/></r></p></e>
+<e><p><l>of<b/>the<b/>same<b/>mind<s n="adv"/></l><r>de<b/>la<b/>misma<b/>opinión<s n="adv"/></r></p></e>
+<e><p><l>for<b/>hire<s n="adv"/></l><r>de<b/>alquiler<s n="adv"/></r></p></e>
+<e><p><l>hand<b/>and<b/>foot<s n="adv"/></l><r>de<b/>pies<b/>y<b/>manos<s n="adv"/></r></p></e>
+<e><p><l>little<b/>by<b/>little<s n="adv"/></l><r>poco<b/>a<b/>poco<s n="adv"/></r></p></e>
+<e><p><l>at<b/>first<b/>hand<s n="adv"/></l><r>de<b/>primera<b/>mano<s n="adv"/></r></p></e>
+<e><p><l>of<b/>little<b/>account<s n="adv"/></l><r>de<b/>poca<b/>importancia<s n="adv"/></r></p></e>
+<e><p><l>back<b/>in<b/>circulation<s n="adv"/></l><r>de<b/>nuevo<b/>en<b/>circulación<s n="adv"/></r></p></e>
+<e><p><l>in<b/>such<b/>a<b/>way<s n="adv"/></l><r>de<b/>tal<b/>manera<s n="adv"/></r></p></e>
+<e><p><l>of<b/>all<b/>time<s n="adv"/></l><r>de<b/>todos<b/>los<b/>tiempos<s n="adv"/></r></p></e>
+<e><p><l>on<b/>holiday<s n="adv"/></l><r>de<b/>vacaciones<s n="adv"/></r></p></e>
+<e><p><l>for<b/>real<s n="adv"/></l><r>de<b/>verdad<s n="adv"/></r></p></e>
+<e><p><l>of<b/>the<b/>moment<s n="adv"/></l><r>del<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>nowhere<s n="adv"/></l><r>de<b/>la<b/>nada<s n="adv"/></r></p></e>
+<e><p><l>tomorrow<b/>night<s n="adv"/></l><r>mañana<b/>por<b/>la<b/>noche<s n="adv"/></r></p></e>
+<e><p><l>tomorrow<b/>afternoon<s n="adv"/></l><r>mañana<b/>por<b/>la<b/>tarde<s n="adv"/></r></p></e>
+<e><p><l>tomorrow<b/>morning<s n="adv"/></l><r>mañana<b/>por<b/>la<b/>mañana<s n="adv"/></r></p></e>
+<e r="LR"><p><l>since<b/>then<s n="adv"/></l><r>desde<b/>entonces<s n="adv"/></r></p></e>
+<e><p><l>day<b/>in<b/>day<b/>out<s n="adv"/></l><r>día<b/>a<b/>día<s n="adv"/></r></p></e>
+<e><p><l>day<b/>and<b/>night<s n="adv"/></l><r>día<b/>y<b/>noche<s n="adv"/></r></p></e>
+<e><p><l>twice<b/>a<b/>year<s n="adv"/></l><r>dos<b/>veces<b/>al<b/>año<s n="adv"/></r></p></e>
+<e><p><l>twice<b/>a<b/>day<s n="adv"/></l><r>dos<b/>veces<b/>al<b/>día<s n="adv"/></r></p></e>
+<e><p><l>twice<b/>a<b/>month<s n="adv"/></l><r>dos<b/>veces<b/>al<b/>mes<s n="adv"/></r></p></e>
+<e><p><l>during<b/>the<b/>day<s n="adv"/></l><r>durante<b/>el<b/>día<s n="adv"/></r></p></e>
+<e r="LR"><p><l>at<b/>some<b/>time<s n="adv"/></l><r>en<b/>algún<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>to<b/>a<b/>high<b/>degree<s n="adv"/></l><r>a<b/>un<b/>alto<b/>grado<s n="adv"/></r></p></e>
+<e><p><l>in<b/>other<b/>respects<s n="adv"/></l><r>en<b/>otros<b/>aspectos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>other<b/>words<s n="adv"/></l><r>en<b/>otras<b/>palabras,<s n="adv"/></r></p></e>
+<e><p><l>on<b/>the<b/>high<b/>seas<s n="adv"/></l><r>en<b/>alta<b/>mar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>apposition<s n="adv"/></l><r>en<b/>aposición<s n="adv"/></r></p></e>
+<e><p><l>in<b/>black<b/>and<b/>white<s n="adv"/></l><r>en<b/>blanco<b/>y<b/>negro<s n="adv"/></r></p></e>
+<e><p><l>en<b/>bloc<s n="adv"/></l><r>en<b/>bloque<s n="adv"/></r></p></e>
+<e><p><l>in<b/>blocks<s n="adv"/></l><r>en<b/>bloques<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>rough<s n="adv"/></l><r>en<b/>bruto<s n="adv"/></r></p></e>
+<e><p><l>in<b/>bytes<s n="adv"/></l><r>en<b/>bytes<s n="adv"/></r></p></e>
+<e><p><l>in<b/>no<b/>case<s n="adv"/></l><r>en<b/>ningún<b/>caso<s n="adv"/></r></p></e>
+<e><p><l>under<b/>no<b/>circumstances<s n="adv"/></l><r>en<b/>ninguna<b/>circunstancia<s n="adv"/></r></p></e>
+<e><p><l>in<b/>no<b/>sense<s n="adv"/></l><r>en<b/>ningún<b/>sentido<s n="adv"/></r></p></e>
+<e><p><l>in<b/>case<b/>of<b/>doubt<s n="adv"/></l><r>en<b/>caso<b/>de<b/>duda<s n="adv"/></r></p></e>
+<e><p><l>in<b/>case<b/>of<b/>emergency<s n="adv"/></l><r>en<b/>caso<b/>de<b/>emergencia<s n="adv"/></r></p></e>
+<e><p><l>in<b/>colour<s n="adv"/></l><r>en<b/>color<s n="adv"/></r></p></e>
+<e><p><l>in<b/>comparison<s n="adv"/></l><r>en<b/>comparación<s n="adv"/></r></p></e>
+<e><p><l>in<b/>common<s n="adv"/></l><r>en<b/>común<s n="adv"/></r></p></e>
+<e><p><l>in<b/>concert<s n="adv"/></l><r>en<b/>concierto<s n="adv"/></r></p></e>
+<e><p><l>in<b/>conclusion<s n="adv"/></l><r>en<b/>conclusión<s n="adv"/></r></p></e>
+<e><p><l>under<b/>construction<s n="adv"/></l><r>en<b/>construcción<s n="adv"/></r></p></e>
+<e><p><l>at<b/>variance<s n="adv"/></l><r>en<b/>desacuerdo<s n="adv"/></r></p></e>
+<e><p><l>into<b/>disuse<s n="adv"/></l><r>en<b/>desuso<s n="adv"/></r></p></e>
+<e><p><l>in<b/>detail<s n="adv"/></l><r>en<b/>detalle<s n="adv"/></r></p></e>
+<e><p><l>in<b/>an<b/>easterly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>este<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>northeasterly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>noreste<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>northwesterly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>noroeste<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>northerly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>norte<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>westerly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>oeste<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>southeasterly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>sureste<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>southwesterly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>suroeste<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>southerly<b/>direction<s n="adv"/></l><r>en<b/>dirección<b/>sur<s n="adv"/></r></p></e>
+<e><p><l>on<b/>the<b/>way<s n="adv"/></l><r>en<b/>el<b/>camino<s n="adv"/></r></p></e>
+<e><p><l>at<b/>bottom<s n="adv"/></l><r>en<b/>el<b/>fondo<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>future<s n="adv"/></l><r>en<b/>el<b/>futuro<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>right<b/>place<s n="adv"/></l><r>en<b/>el<b/>lugar<b/>correcto<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>wrong<b/>place<s n="adv"/></l><r>en<b/>el<b/>lugar<b/>equivocado<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>process<s n="adv"/></l><r>en<b/>el<b/>proceso<s n="adv"/></r></p></e>
+<e><p><l>in<b/>essence<s n="adv"/></l><r>en<b/>esencia<s n="adv"/></r></p></e>
+<e><p><l>in<b/>stock<s n="adv"/></l><r>en<b/>stock<s n="adv"/></r></p></e>
+<e><p><l>in<b/>evidence<s n="adv"/></l><r>en<b/>evidencia<s n="adv"/></r></p></e>
+<e><p><l>on<b/>exhibition<s n="adv"/></l><r>en<b/>exposición<s n="adv"/></r></p></e>
+<e><p><l>in<b/>flames<s n="adv"/></l><r>en<b/>llamas<s n="adv"/></r></p></e>
+<e><p><l>in<b/>bloom<s n="adv"/></l><r>en<b/>flor<s n="adv"/></r></p></e>
+<e><p><l>in<b/>shape<s n="adv"/></l><r>en<b/>forma<s n="adv"/></r></p></e>
+<e><p><l>at<b/>stake<s n="adv"/></l><r>en<b/>juego<s n="adv"/></r></p></e>
+<e><p><l>on<b/>the<b/>same<b/>line<s n="adv"/></l><r>en<b/>la<b/>misma<b/>línea<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>weeks<b/>to<b/>come<s n="adv"/></l><r>en<b/>las<b/>próximas<b/>semanas<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>straight<b/>line<s n="adv"/></l><r>en<b/>línea<b/>recta<s n="adv"/></r></p></e>
+<e><p><l>on<b/>line<s n="adv"/></l><r>en<b/>línea<s n="adv"/></r></p></e>
+<e><p><l>in<b/>upper<b/>case<s n="adv"/></l><r>en<b/>mayúsculas<s n="adv"/></r></p></e>
+<e><p><l>in<b/>lower<b/>case<s n="adv"/></l><r>en<b/>minúsculas<s n="adv"/></r></p></e>
+<e><p><l>in<b/>many<b/>respects<s n="adv"/></l><r>en<b/>muchos<b/>aspectos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>bold<s n="adv"/></l><r>en<b/>negrita<s n="adv"/></r></p></e>
+<e><p><l>in<b/>octets<s n="adv"/></l><r>en<b/>octetos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>parallel<s n="adv"/></l><r>en<b/>paralelo<s n="adv"/></r></p></e>
+<e><p><l>in<b/>peace<s n="adv"/></l><r>en<b/>paz<s n="adv"/></r></p></e>
+<e><p><l>in<b/>mint<b/>condition<s n="adv"/></l><r>en<b/>perfecto<b/>estado<s n="adv"/></r></p></e>
+<e><p><l>in<b/>danger<s n="adv"/></l><r>en<b/>peligro<s n="adv"/></r></p></e>
+<e><p><l>in<b/>person<s n="adv"/></l><r>en<b/>persona<s n="adv"/></r></p></e>
+<e><p><l>on<b/>the<b/>warpath<s n="adv"/></l><r>en<b/>pie<b/>de<b/>guerra<s n="adv"/></r></p></e>
+<e><p><l>in<b/>few<b/>words<s n="adv"/></l><r>en<b/>pocas<b/>palabras<s n="adv"/></r></p></e>
+<e><p><l>in<b/>principle<s n="adv"/></l><r>en<b/>principio<s n="adv"/></r></p></e>
+<e><p><l>in<b/>public<s n="adv"/></l><r>en<b/>público<s n="adv"/></r></p></e>
+<e><p><l>anytime<s n="adv"/></l><r>en<b/>cualquier<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>within<b/>a<b/>matter<b/>of<b/>minutes<s n="adv"/></l><r>en<b/>cuestión<b/>de<b/>minutos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>question<s n="adv"/></l><r>en<b/>cuestión<s n="adv"/></r></p></e>
+<e><p><l>in<b/>reality<s n="adv"/></l><r>en<b/>realidad<s n="adv"/></r></p></e>
+<e><p><l>in<b/>reply<s n="adv"/></l><r>en<b/>respuesta<s n="adv"/></r></p></e>
+<e><p><l>in<b/>ruins<s n="adv"/></l><r>en<b/>ruinas<s n="adv"/></r></p></e>
+<e r="LR"><p><l>in<b/>the<b/>second<b/>place<s n="adv"/></l><r>en<b/>segundo<b/>lugar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>series<s n="adv"/></l><r>en<b/>serie<s n="adv"/></r></p></e>
+<e><p><l>in<b/>seventh<b/>place<s n="adv"/></l><r>en<b/>séptimo<b/>lugar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>sixth<b/>place<s n="adv"/></l><r>en<b/>sexto<b/>lugar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>high<b/>season<s n="adv"/></l><r>en<b/>temporada<b/>alta<s n="adv"/></r></p></e>
+<e><p><l>in<b/>low<b/>season<s n="adv"/></l><r>en<b/>temporada<b/>baja<s n="adv"/></r></p></e>
+<e><p><l>in<b/>general<b/>terms<s n="adv"/></l><r>en<b/>términos<b/>generales<s n="adv"/></r></p></e>
+<e><p><l>at<b/>all<b/>times<s n="adv"/></l><r>en<b/>todo<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>in<b/>every<b/>aspect<s n="adv"/></l><r>en<b/>todos<b/>los<b/>aspectos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>every<b/>respect<s n="adv"/></l><r>en<b/>todos<b/>los<b/>respetos<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>last<b/>resort<s n="adv"/></l><r>en<b/>última<b/>instancia<s n="adv"/></r></p></e>
+<e><p><l>in<b/>dire<b/>straits<s n="adv"/></l><r>en<b/>una<b/>situación<b/>desesperada<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>distant<b/>future<s n="adv"/></l><r>en<b/>un<b/>futuro<b/>lejano<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>flash<s n="adv"/></l><r>en<b/>un<b/>instante<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>minute<s n="adv"/></l><r>en<b/>un<b/>minuto<s n="adv"/></r></p></e>
+<e><p><l>in<b/>a<b/>second<s n="adv"/></l><r>en<b/>un<b/>segundo<s n="adv"/></r></p></e>
+<e><p><l>in<b/>the<b/>near<b/>future<s n="adv"/></l><r>en<b/>un<b/>futuro<b/>próximo<s n="adv"/></r></p></e>
+<e><p><l>into<b/>use<s n="adv"/></l><r>en<b/>uso<s n="adv"/></r></p></e>
+<e><p><l>in<b/>truth<s n="adv"/></l><r>en<b/>verdad<s n="adv"/></r></p></e>
+<e><p><l>in<b/>force<s n="adv"/></l><r>en<b/>vigor<s n="adv"/></r></p></e>
+<e><p><l>that<b/>is<b/>to<b/>say<s n="adv"/></l><r>es<b/>decir<s n="adv"/></r></p></e>
+<e><p><l>ex<b/>abrupto<s n="adv"/></l><r>ex<b/>abrupto<s n="adv"/></r></p></e>
+<e><p><l>ex<b/>aequo<s n="adv"/></l><r>ex<b/>aequo<s n="adv"/></r></p></e>
+<e><p><l>ex<b/>cathedra<s n="adv"/></l><r>ex<b/>cátedra<s n="adv"/></r></p></e>
+<e><p><l>to<b/>some<b/>extent<s n="adv"/></l><r>hasta<b/>cierto<b/>punto<s n="adv"/></r></p></e>
+<e><p><l>until<b/>then<s n="adv"/></l><r>hasta<b/>entonces<s n="adv"/></r></p></e>
+<e><p><l>even<b/>now<s n="adv"/></l><r>incluso<b/>ahora<s n="adv"/></r></p></e>
+<e><p><l>until<b/>then<s n="adv"/></l><r>hasta<b/>entonces<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>context<s n="adv"/></l><r>fuera<b/>de<b/>contexto<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>control<s n="adv"/></l><r>fuera<b/>de<b/>control<s n="adv"/></r></p></e>
+<e><p><l>off<b/>line<s n="adv"/></l><r>fuera<b/>de<b/>línea<s n="adv"/></r></p></e>
+<e><p><l>off<b/>duty<s n="adv"/></l><r>fuera<b/>de<b/>servicio<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>season<s n="adv"/></l><r>fuera<b/>de<b/>temporada<s n="adv"/></r></p></e>
+<e><p><l>off<b/>campus<s n="adv"/></l><r>fuera<b/>del<b/>campus<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>harm's<b/>way<s n="adv"/></l><r>fuera<b/>de<b/>peligro<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>use<s n="adv"/></l><r>fuera<b/>de<b/>uso<s n="adv"/></r></p></e>
+<e><p><l>fortissimo<s n="adv"/></l><r>fortissimo<s n="adv"/></r></p></e>
+<e><p><l>grosso<b/>modo<s n="adv"/></l><r>grosso<b/>modo<s n="adv"/></r></p></e>
+<e><p><l>yet<b/>still<s n="adv"/></l><r>y<b/>aún<b/>así<s n="adv"/></r></p></e>
+<e><p><l>and<b/>vice<b/>versa<s n="adv"/></l><r>y<b/>viceversa<s n="adv"/></r></p></e>
+<e><p><l>in<b/>extremis<s n="adv"/></l><r>in<b/>extremis<s n="adv"/></r></p></e>
+<e><p><l>in<b/>situ<s n="adv"/></l><r>in<b/>situ<s n="adv"/></r></p></e>
+<e><p><l>inter<b/>alia<s n="adv"/></l><r>inter<b/>alia<s n="adv"/></r></p></e>
+<e><p><l>just<b/>in<b/>time<s n="adv"/></l><r>justo<b/>a<b/>tiempo<s n="adv"/></r></p></e>
+<e><p><l>right<b/>at<b/>the<b/>end<s n="adv"/></l><r>justo<b/>al<b/>final<s n="adv"/></r></p></e>
+<e><p><l>the<b/>other<b/>week<s n="adv"/></l><r>la<b/>otra<b/>semana<s n="adv"/></r></p></e>
+<e><p><l>the<b/>other<b/>afternoon<s n="adv"/></l><r>la<b/>otra<b/>tarde<s n="adv"/></r></p></e>
+<e><p><l>the<b/>other<b/>day<s n="adv"/></l><r>el<b/>otro<b/>día<s n="adv"/></r></p></e>
+<e><p><l>the<b/>other<b/>morning<s n="adv"/></l><r>la<b/>otra<b/>mañana<s n="adv"/></r></p></e>
+<e><p><l>the<b/>other<b/>evening<s n="adv"/></l><r>el<b/>otro<b/>anochecer<s n="adv"/></r></p></e>
+<e><p><l>largo<s n="adv"/></l><r>largo<s n="adv"/></r></p></e>
+<e><p><l>too<b/>late<s n="adv"/></l><r>demasiado<b/>tarde<s n="adv"/></r></p></e>
+<e><p><l>too<b/>close<b/>up<s n="adv"/></l><r>demasiado<b/>cerca<s n="adv"/></r></p></e>
+<e><p><l>word<b/>for<b/>word<s n="adv"/></l><r>palabra<b/>por<b/>palabra<s n="adv"/></r></p></e>
+<e><p><l>or<b/>vice<b/>versa<s n="adv"/></l><r>o<b/>viceversa<s n="adv"/></r></p></e>
+<e><p><l>by<b/>the<b/>way<s n="adv"/></l><r>por<b/>cierto<s n="adv"/></r></p></e>
+<e><p><l>to<b/>start<b/>with<s n="adv"/></l><r>para<b/>empezar<s n="adv"/></r></p></e>
+<e><p><l>in<b/>contrast<s n="adv"/></l><r>en<b/>contraste<s n="adv"/></r></p></e>
+<e><p><l>by<b/>definition<s n="adv"/></l><r>por<b/>definición<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>spite<s n="adv"/></l><r>por<b/>despecho<s n="adv"/></r></p></e>
+<e><p><l>above<b/>all<b/>else<s n="adv"/></l><r>por<b/>encima<b/>de<b/>todo<s n="adv"/></r></p></e>
+<e><p><l>by<b/>analogy<s n="adv"/></l><r>por<b/>analogía<s n="adv"/></r></p></e>
+<e><p><l>on<b/>my<b/>part<s n="adv"/></l><r>por<b/>mi<b/>parte<s n="adv"/></r></p></e>
+<e><p><l>on<b/>our<b/>part<s n="adv"/></l><r>por<b/>nuestra<b/>parte<s n="adv"/></r></p></e>
+<e><p><l>by<b/>a<b/>majority<s n="adv"/></l><r>por<b/>mayoría<s n="adv"/></r></p></e>
+<e><p><l>by<b/>sea<s n="adv"/></l><r>por<b/>mar<s n="adv"/></r></p></e>
+<e><p><l>by<b/>piece<s n="adv"/></l><r>por<b/>pieza<s n="adv"/></r></p></e>
+<e><p><l>by<b/>popular<b/>request<s n="adv"/></l><r>por<b/>petición<b/>popular<s n="adv"/></r></p></e>
+<e><p><l>for<b/>reasons<b/>of<b/>principle<s n="adv"/></l><r>por<b/>razones<b/>de<b/>principio<s n="adv"/></r></p></e>
+<e><p><l>for<b/>medical<b/>reasons<s n="adv"/></l><r>por<b/>razones<b/>médicas<s n="adv"/></r></p></e>
+<e><p><l>for<b/>reasons<b/>of<b/>health<s n="adv"/></l><r>por<b/>razones<b/>de<b/>salud<s n="adv"/></r></p></e>
+<e><p><l>for<b/>nothing<s n="adv"/></l><r>para<b/>nada<s n="adv"/></r></p></e>
+<e><p><l>to<b/>be<b/>exact<s n="adv"/></l><r>para<b/>ser<b/>exactos<s n="adv"/></r></p></e>
+<e><p><l>to<b/>be<b/>frank<s n="adv"/></l><r>para<b/>ser<b/>francos<s n="adv"/></r></p></e>
+<e><p><l>to<b/>be<b/>fair<s n="adv"/></l><r>para<b/>ser<b/>justos<s n="adv"/></r></p></e>
+<e><p><l>all<b/>over<b/>town<s n="adv"/></l><r>por<b/>toda<b/>la<b/>ciudad<s n="adv"/></r></p></e>
+<e><p><l>for<b/>the<b/>last<b/>time<s n="adv"/></l><r>por<b/>última<b/>vez<s n="adv"/></r></p></e>
+<e r="RL"><p><l>for<b/>the<b/>last<b/>time<s n="adv"/></l><r>por<b/>última<b/>golpe<s n="adv"/></r></p></e>
+<e><p><l>for<b/>once<s n="adv"/></l><r>por<b/>una<b/>vez<s n="adv"/></r></p></e>
+<e><p><l>by<b/>a<b/>stroke<b/>of<b/>good<b/>luck<s n="adv"/></l><r>por<b/>un<b/>golpe<b/>de<b/>suerte<s n="adv"/></r></p></e>
+<e><p><l>for<b/>one<b/>moment<s n="adv"/></l><r>por<b/>un<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>but<b/>at<b/>the<b/>same<b/>time<s n="adv"/></l><r>pero<b/>al<b/>mismo<b/>tiempo<s n="adv"/></r></p></e>
+<e><p><l>pizzicato<s n="adv"/></l><r>pizzicato<s n="adv"/></r></p></e>
+<e><p><l>first<b/>and<b/>last<s n="adv"/></l><r>primera<b/>y<b/>última<s n="adv"/></r></p></e>
+<e><p><l>pro<b/>tempore<s n="adv"/></l><r>pro<b/>tempore<s n="adv"/></r></p></e>
+<e><p><l>presto<s n="adv"/></l><r>presto<s n="adv"/></r></p></e>
+<e><p><l>any<b/>day<b/>now<s n="adv"/></l><r>cualquier<b/>día<s n="adv"/></r></p></e>
+<e><p><l>how<b/>long<s n="adv"/></l><r>cuánto<b/>tiempo<s n="adv"/></r></p></e>
+<e><p><l>hardly<b/>ever<s n="adv"/></l><r>casi<b/>nunca<s n="adv"/></r></p></e>
+<e><p><l>scherzando<s n="adv"/></l><r>scherzando<s n="adv"/></r></p></e>
+<e><p><l>without<b/>fail<s n="adv"/></l><r>sin<b/>falta<s n="adv"/></r></p></e>
+<e><p><l>out<b/>of<b/>breath<s n="adv"/></l><r>sin<b/>aliento<s n="adv"/></r></p></e>
+<e><p><l>with<b/>no<b/>conditions<s n="adv"/></l><r>sin<b/>condiciones<s n="adv"/></r></p></e>
+<e><p><l>without<b/>dispute<s n="adv"/></l><r>sin<b/>discutir<s n="adv"/></r></p></e>
+<e><p><l>with<b/>no<b/>interferences<s n="adv"/></l><r>sin<b/>interferencias<s n="adv"/></r></p></e>
+<e><p><l>without<b/>reservation<s n="adv"/></l><r>sin<b/>reservas<s n="adv"/></r></p></e>
+<e r="LR"><p><l>without<b/>rhyme<b/>or<b/>reason<s n="adv"/></l><r>sin<b/>ton<b/>ni<b/>son<s n="adv"/></r></p></e>
+<e><p><l>week<b/>by<b/>week<s n="adv"/></l><r>semana<b/>a<b/>semana<s n="adv"/></r></p></e>
+<e><p><l>if<b/>necessary<s n="adv"/></l><r>si<b/>es<b/>necesario<s n="adv"/></r></p></e>
+<e><p><l>if<b/>possible<s n="adv"/></l><r>si<b/>es<b/>posible<s n="adv"/></r></p></e>
+<e><p><l>sic<s n="adv"/></l><r>sic<s n="adv"/></r></p></e>
+<e><p><l>sine<b/>die<s n="adv"/></l><r>sine<b/>die<s n="adv"/></r></p></e>
+<e><p><l>under<b/>duress<s n="adv"/></l><r>bajo<b/>coacción<s n="adv"/></r></p></e>
+<e><p><l>under<b/>contract<s n="adv"/></l><r>bajo<b/>contrato<s n="adv"/></r></p></e>
+<e><p><l>under<b/>control<s n="adv"/></l><r>bajo<b/>control<s n="adv"/></r></p></e>
+<e><p><l>under<b/>the<b/>same<b/>roof<s n="adv"/></l><r>bajo<b/>el<b/>mismo<b/>techo<s n="adv"/></r></p></e>
+<e><p><l>under<b/>oath<s n="adv"/></l><r>bajo<b/>juramento<s n="adv"/></r></p></e>
+<e><p><l>under<b/>the<b/>influence<s n="adv"/></l><r>bajo<b/>la<b/>influencia<s n="adv"/></r></p></e>
+<e><p><l>under<b/>licence<s n="adv"/></l><r>bajo<b/>licencia<s n="adv"/></r></p></e>
+<e><p><l>under<b/>suspicion<s n="adv"/></l><r>bajo<b/>sospecha<s n="adv"/></r></p></e>
+<e><p><l>sotto<b/>voce<s n="adv"/></l><r>sotto<b/>voce<s n="adv"/></r></p></e>
+<e><p><l>such<b/>and<b/>such<s n="adv"/></l><r>tal<b/>y<b/>tal<s n="adv"/></r></p></e>
+<e><p><l>as<b/>soon<b/>as<b/>possible<s n="adv"/></l><r>tan<b/>pronto<b/>como<b/>sea<b/>posible<s n="adv"/></r></p></e>
+<e><p><l>so<b/>little<s n="adv"/></l><r>tan<b/>poco<s n="adv"/></r></p></e>
+<e><p><l>as<b/>much<b/>as<b/>possible<s n="adv"/></l><r>tanto<b/>como<b/>sea<b/>posible<s n="adv"/></r></p></e>
+<e><p><l>late<b/>at<b/>night<s n="adv"/></l><r>tarde<b/>en<b/>la<b/>noche<s n="adv"/></r></p></e>
+<e><p><l>sooner<b/>or<b/>later<s n="adv"/></l><r>tarde<b/>o<b/>temprano<s n="adv"/></r></p></e>
+<e><p><l>all<b/>night<s n="adv"/></l><r>toda<b/>la<b/>noche<s n="adv"/></r></p></e>
+<e><p><l>all<b/>autumn<s n="adv"/></l><r>todo<b/>el<b/>otoño<s n="adv"/></r></p></e>
+<e><p><l>all<b/>day<s n="adv"/></l><r>todo<b/>el<b/>día<s n="adv"/></r></p></e>
+<e><p><l>thrice<s n="adv"/></l><r>tres<b/>veces<s n="adv"/></r></p></e>
+<e><p><l>a<b/>good<b/>while<s n="adv"/></l><r>un<b/>buen<b/>rato<s n="adv"/></r></p></e>
+<e><p><l>a<b/>while<s n="adv"/></l><r>un<b/>rato<s n="adv"/></r></p></e>
+<e><p><l>once<b/>a<b/>week<s n="adv"/></l><r>una<b/>vez<b/>a<b/>la<b/>semana<s n="adv"/></r></p></e>
+<e><p><l>once<b/>a<b/>year<s n="adv"/></l><r>una<b/>vez<b/>al<b/>año<s n="adv"/></r></p></e>
+<e><p><l>once<b/>a<b/>day<s n="adv"/></l><r>una<b/>vez<b/>al<b/>día<s n="adv"/></r></p></e>
+<e><p><l>once<b/>a<b/>month<s n="adv"/></l><r>una<b/>vez<b/>al<b/>mes<s n="adv"/></r></p></e>
+<e><p><l>once<b/>again<s n="adv"/></l><r>una<b/>vez<b/>más<s n="adv"/></r></p></e>
+<e><p><l>only<b/>once<s n="adv"/></l><r>sólo<b/>una<b/>vez<s n="adv"/></r></p></e>
+<e><p><l>a<b/>moment<s n="adv"/></l><r>un<b/>momento<s n="adv"/></r></p></e>
+<e><p><l>one<b/>by<b/>one<s n="adv"/></l><r>uno<b/>por<b/>uno<s n="adv"/></r></p></e>
+<e><p><l>less<b/>than<b/>ever<s n="adv"/></l><r>menos<b/>que<b/>nunca<s n="adv"/></r></p></e>
+<e><p><l>month<b/>by<b/>month<s n="adv"/></l><r>mes<b/>a<b/>mes<s n="adv"/></r></p></e>
+<e><p><l>further<b/>up<s n="adv"/></l><r>más<b/>arriba<s n="adv"/></r></p></e>
+<e><p><l>further<b/>down<s n="adv"/></l><r>más<b/>abajo<s n="adv"/></r></p></e>
+<e><p><l>further<b/>back<s n="adv"/></l><r>más<b/>atrás<s n="adv"/></r></p></e>
+<e><p><l>more<b/>and<b/>more<s n="adv"/></l><r>más<b/>y<b/>más<s n="adv"/></r></p></e>
+<e><p><l>more<b/>or<b/>less<s n="adv"/></l><r>más<b/>o<b/>menos<s n="adv"/></r></p></e>
+<e><p><l>more<b/>than<b/>ever<s n="adv"/></l><r>más<b/>que<b/>nunca<s n="adv"/></r></p></e>
+<e><p><l>way<b/>down<b/>below<s n="adv"/></l><r>muy<b/>abajo<s n="adv"/></r></p></e>
+<e><p><l>very<b/>soon<s n="adv"/></l><r>muy<b/>pronto<s n="adv"/></r></p></e>
+<e><p><l>many<b/>times<s n="adv"/></l><r>muchas<b/>veces<s n="adv"/></r></p></e>
+<e><p><l>night<b/>and<b/>day<s n="adv"/></l><r>noche<b/>y<b/>día<s n="adv"/></r></p></e>
+<e><p><l>lo<b/>and<b/>behold<s n="adv"/></l><r>he<b/>aquí<s n="adv"/></r></p></e>
+<e><p><l>on<b/>environmental<b/>grounds<s n="adv"/></l><r>por<b/>motivos<b/>medioambientales<s n="adv"/></r></p></e>
+<e><p><l>on<b/>economic<b/>grounds<s n="adv"/></l><r>por<b/>motivos<b/>económicos<s n="adv"/></r></p></e>
+<e><p><l>weather<b/>permitting<s n="adv"/></l><r>si<b/>el<b/>tiempo<b/>lo<b/>permite<s n="adv"/></r></p></e>
+<e><p><l>all<b/>expenses<b/>paid<s n="adv"/></l><r>con<b/>todos<b/>los<b/>gastos<b/>pagados<s n="adv"/></r></p></e>
+<e><p><l>in<b/>effect<s n="adv"/></l><r>en<b/>efecto<s n="adv"/></r></p></e>
+<e><p><l>without<b/>prior<b/>notice<s n="adv"/></l><r>sin<b/>previo<b/>aviso<s n="adv"/></r></p></e>
+<e><p><l>for<b/>this<b/>reason<s n="adv"/></l><r>por<b/>esta<b/>razón<s n="adv"/></r></p></e>
+<e><p><l>as<b/>far<b/>as<b/>I<b/>know<s n="adv"/></l><r>por<b/>lo<b/>que<b/>yo<b/>sé<s n="adv"/></r></p></e>
+<e><p><l>unnecessarily<s n="adv"/></l><r>innecesariamente<s n="adv"/></r></p></e>
+<e><p><l>hysterically<s n="adv"/></l><r>histéricamente<s n="adv"/></r></p></e>
+<e><p><l>unashamedly<s n="adv"/></l><r>desvergonzadamente<s n="adv"/></r></p></e>
+<e><p><l>differently<s n="adv"/></l><r>de<b/>manera<b/>diferente<s n="adv"/></r></p></e>
+<e><p><l>casually<s n="adv"/></l><r>casualmente<s n="adv"/></r></p></e>
+<e><p><l>wearily<s n="adv"/></l><r>cansadamente<s n="adv"/></r></p></e>
+<e><p><l>imaginatively<s n="adv"/></l><r>imaginativamente<s n="adv"/></r></p></e>
+<e><p><l>impossibly<s n="adv"/></l><r>imposiblemente<s n="adv"/></r></p></e>
+<e><p><l>uneasily<s n="adv"/></l><r>inquieto<s n="adv"/></r></p></e>
+<e><p><l>lazily<s n="adv"/></l><r>perezosamente<s n="adv"/></r></p></e>
+<e><p><l>abominably<s n="adv"/></l><r>abominablemente<s n="adv"/></r></p></e>
+<e><p><l>politely<s n="adv"/></l><r>cortésmente<s n="adv"/></r></p></e>
+<e><p><l>fluently<s n="adv"/></l><r>con<b/>fluidez<s n="adv"/></r></p></e>
+<e><p><l>impatiently<s n="adv"/></l><r>con<b/>impaciencia<s n="adv"/></r></p></e>
+<e><p><l>indifferently<s n="adv"/></l><r>con<b/>indiferencia<s n="adv"/></r></p></e>
+<e><p><l>gladly<s n="adv"/></l><r>con<b/>mucho<b/>gusto<s n="adv"/></r></p></e>
+<e><p><l>sarcastically<s n="adv"/></l><r>con<b/>sarcasmo<s n="adv"/></r></p></e>
+<e><p><l>wisely<s n="adv"/></l><r>sabiamente<s n="adv"/></r></p></e>
+<e><p><l>tenderly<s n="adv"/></l><r>con<b/>ternura<s n="adv"/></r></p></e>
+<e><p><l>bravely<s n="adv"/></l><r>con<b/>valentía<s n="adv"/></r></p></e>
+<e><p><l>ninety-nine<b/>times<b/>out<b/>of<b/>a<b/>hundred<s n="adv"/></l><r>noventa<b/>y<b/>nueve<b/>veces<b/>de<b/>cada<b/>cien<s n="adv"/></r></p></e>
+<e><p><l>nota<b/>bene<s n="adv"/></l><r>nota<b/>bene<s n="adv"/></r></p></e>
+<e><p><l>only<b/>then<s n="adv"/></l><r>sólo<b/>entonces<s n="adv"/></r></p></e>
+<e><p><l>randomly<s n="adv"/></l><r>aleatoriamente<s n="adv"/></r></p></e>
+<e><p><l>calmly<s n="adv"/></l><r>con<b/>calma<s n="adv"/></r></p></e>
+<e r="RL"><p><l>wearily<s n="adv"/></l><r>con<b/>cansancio<s n="adv"/></r></p></e>
+<e><p><l>nine<b/>times<b/>out<b/>of<b/>ten<s n="adv"/></l><r>de<b/>nueve<b/>veces<b/>de<b/>cada<b/>diez<s n="adv"/></r></p></e>
+<e><p><l>non-functionally<s n="adv"/></l><r>no<b/>funcionalmente<s n="adv"/></r></p></e>
+<e><p><l>much<b/>ado<b/>about<b/>nothing<s n="adv"/></l><r>mucho<b/>ruido<b/>por<b/>nada<s n="adv"/></r></p></e>
+<e><p><l>most<b/>deeply<s n="adv"/></l><r>muy<b/>profundamente<s n="adv"/></r></p></e>
+<e><p><l>once<b/>again<s n="adv"/></l><r>una<b/>vez<b/>más<s n="adv"/></r></p></e>
+<e r="RL"><p><l>once<b/>again<s n="adv"/></l><r>un<b/>golpe<b/>más<s n="adv"/></r></p></e>
+<e><p><l>rule-based<s n="adj"/></l><r>basado<g><b/>en<b/>regles</g><s n="adj"/></r></p></e>
+<e><p><l>abandoned<s n="adj"/></l><r>abandonado<s n="adj"/></r></p></e>
+<e><p><l>adventitious<s n="adj"/></l><r>adventicio<s n="adj"/></r></p></e>
+<e><p><l>aggravating<s n="adj"/></l><r>agravante<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>agreed<s n="adj"/></l><r>acordado<s n="adj"/></r></p></e>
+<e r="LR"><p><l>alkaline<s n="adj"/></l><r>alcalino<s n="adj"/></r></p></e>
+<e><p><l>allopatric<s n="adj"/></l><r>alopátrico<s n="adj"/></r></p></e>
+<e><p><l>aluminous<s n="adj"/></l><r>aluminoso<s n="adj"/></r></p></e>
+<e><p><l>amortizable<s n="adj"/></l><r>amortizable<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>anaphoric<s n="adj"/></l><r>anafórico<s n="adj"/></r></p></e>
+<e><p><l>angolan<s n="adj"/></l><r>angoleño<s n="adj"/></r></p></e>
+<e><p><l>annular<s n="adj"/></l><r>anular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>armed<s n="adj"/></l><r>armado<s n="adj"/></r></p></e>
+<e><p><l>armored<s n="adj"/></l><r>blindado<s n="adj"/></r></p></e>
+<e><p><l>articular<s n="adj"/></l><r>articular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>aseptic<s n="adj"/></l><r>aséptico<s n="adj"/></r></p></e>
+<e><p><l>asleep<s n="adj"/></l><r>dormido<s n="adj"/></r></p></e>
+<e><p><l>asynchronous<s n="adj"/></l><r>asíncrono<s n="adj"/></r></p></e>
+<e><p><l>auricular<s n="adj"/></l><r>auricular<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>avid<s n="adj"/><s n="sint"/></l><r>ávido<s n="adj"/></r></p></e>
+<e><p><l>barefoot<s n="adj"/></l><r>descalzo<s n="adj"/></r></p></e>
+<e><p><l>faroese<s n="adj"/></l><r>faroés<s n="adj"/></r></p></e>
+<e r="LR"><p><l>zoophilous<s n="adj"/></l><r>zoofilo<s n="adj"/></r></p></e>
+<e><p><l>zoophilic<s n="adj"/></l><r>zoofilo<s n="adj"/></r></p></e>
+<e><p><l>sphagnic<s n="adj"/></l><r>esfagnico<s n="adj"/></r></p></e>
+<e><p><l>unintelligent<s n="adj"/></l><r>poco<b/>inteligente<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>beige<s n="adj"/></l><r>beige<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>benevolent<s n="adj"/></l><r>benévolo<s n="adj"/></r></p></e>
+<e><p><l>benign<s n="adj"/></l><r>benigno<s n="adj"/></r></p></e>
+<e><p><l>bevel-edged<s n="adj"/></l><r>biselado<s n="adj"/></r></p></e>
+<e><p><l>biped<s n="adj"/></l><r>bípedo<s n="adj"/></r></p></e>
+<e><p><l>blasphemous<s n="adj"/></l><r>blasfemo<s n="adj"/></r></p></e>
+<e><p><l>bloated<s n="adj"/></l><r>hinchado<s n="adj"/></r></p></e>
+<e><p><l>blunt<s n="adj"/><s n="sint"/></l><r>romo<s n="adj"/></r></p></e>
+<e><p><l>boolean<s n="adj"/></l><r>booleano<s n="adj"/></r></p></e>
+<e><p><l>borelian<s n="adj"/></l><r>boreliano<s n="adj"/></r></p></e>
+<e><p><l>bounded<s n="adj"/></l><r>acotado<s n="adj"/></r></p></e>
+<e><p><l>burned<s n="adj"/></l><r>quemado<s n="adj"/></r></p></e>
+<e><p><l>calcareous<s n="adj"/></l><r>calcáreo<s n="adj"/></r></p></e>
+<e><p><l>cavernous<s n="adj"/></l><r>cavernoso<s n="adj"/></r></p></e>
+<e><p><l>celebrated<s n="adj"/></l><r>celebrado<s n="adj"/></r></p></e>
+<e><p><l>celtic<s n="adj"/></l><r>celta<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>samoan<s n="adj"/></l><r>samoano<s n="adj"/></r></p></e>
+<e r="LR"><p><l>axis<s n="adj"/></l><r>axial<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>centrifugal<s n="adj"/></l><r>centrífugo<s n="adj"/></r></p></e>
+<e><p><l>child-bearing<s n="adj"/></l><r>fecundo<s n="adj"/></r></p></e>
+<e><p><l>ciliated<s n="adj"/></l><r>ciliado<s n="adj"/></r></p></e>
+<e><p><l>civilizing<s n="adj"/></l><r>civilizador<s n="adj"/></r></p></e>
+<e><p><l>clear-cut<s n="adj"/></l><r>definido<s n="adj"/></r></p></e>
+<e><p><l>coarse<s n="adj"/><s n="sint"/></l><r>tosco<s n="adj"/></r></p></e>
+<e><p><l>colourless<s n="adj"/></l><r>incoloro<s n="adj"/></r></p></e>
+<e><p><l>committed<s n="adj"/></l><r>comprometido<s n="adj"/></r></p></e>
+<e><p><l>concertante<s n="adj"/></l><r>concertando<s n="adj"/></r></p></e>
+<e><p><l>concerted<s n="adj"/></l><r>concertado<s n="adj"/></r></p></e>
+<e><p><l>concise<s n="adj"/></l><r>conciso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>conformal<s n="adj"/></l><r>conforme<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>crimson<s n="adj"/></l><r>carmesí<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>bhutanese<s n="adj"/></l><r>butanés<s n="adj"/></r></p></e>
+<e><p><l>bulletproof<s n="adj"/></l><r>antibalas<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>constrained<s n="adj"/></l><r>cohibido<s n="adj"/></r></p></e>
+<e><p><l>contracting<s n="adj"/></l><r>contratando<s n="adj"/></r></p></e>
+<e><p><l>converted<s n="adj"/></l><r>convertido<s n="adj"/></r></p></e>
+<e><p><l>coronary<s n="adj"/></l><r>coronario<s n="adj"/></r></p></e>
+<e><p><l>courageous<s n="adj"/></l><r>brioso<s n="adj"/></r></p></e>
+<e><p><l>creole<s n="adj"/></l><r>criollo<s n="adj"/></r></p></e>
+<e><p><l>crooked<s n="adj"/></l><r>cuervo<s n="adj"/></r></p></e>
+<e><p><l>cultured<s n="adj"/></l><r>cultivado<s n="adj"/></r></p></e>
+<e r="LR"><p><l>cumbersome<s n="adj"/></l><r>pesado<s n="adj"/></r></p></e>
+<e><p><l>curvilinear<s n="adj"/></l><r>curvilíneo<s n="adj"/></r></p></e>
+<e><p><l>defeated<s n="adj"/></l><r>vencido<s n="adj"/></r></p></e>
+<e><p><l>derivative<s n="adj"/></l><r>derivado<s n="adj"/></r></p></e>
+<e><p><l>determinate<s n="adj"/></l><r>determinado<s n="adj"/></r></p></e>
+<e><p><l>diminishing<s n="adj"/></l><r>menguando<s n="adj"/></r></p></e>
+<e><p><l>dipteral<s n="adj"/></l><r>díptero<s n="adj"/></r></p></e>
+<e><p><l>disciplined<s n="adj"/></l><r>disciplinado<s n="adj"/></r></p></e>
+<e><p><l>disconcerting<s n="adj"/></l><r>desconcertando<s n="adj"/></r></p></e>
+<e><p><l>disproportionate<s n="adj"/></l><r>desproporcionado<s n="adj"/></r></p></e>
+<e><p><l>distinguished<s n="adj"/></l><r>señalado<s n="adj"/></r></p></e>
+<e><p><l>dominican<s n="adj"/></l><r>dominicano<s n="adj"/></r></p></e>
+<e><p><l>drunk<s n="adj"/></l><r>bebido<s n="adj"/></r></p></e>
+<e><p><l>ebullient<s n="adj"/></l><r>exaltado<s n="adj"/></r></p></e>
+<e><p><l>ecuadorian<s n="adj"/></l><r>ecuatoriano<s n="adj"/></r></p></e>
+<e><p><l>egalitarian<s n="adj"/></l><r>igualitario<s n="adj"/></r></p></e>
+<e><p><l>enclosed<s n="adj"/></l><r>cerrado<s n="adj"/></r></p></e>
+<e><p><l>equilateral<s n="adj"/></l><r>equilátero<s n="adj"/></r></p></e>
+<e><p><l>ethereal<s n="adj"/></l><r>etéreo<s n="adj"/></r></p></e>
+<e><p><l>exposed<s n="adj"/></l><r>expuesto<s n="adj"/></r></p></e>
+<e><p><l>faithless<s n="adj"/></l><r>descreído<s n="adj"/></r></p></e>
+<e><p><l>fibrous<s n="adj"/></l><r>fibroso<s n="adj"/></r></p></e>
+<e><p><l>fimbriated<s n="adj"/></l><r>perfilado<s n="adj"/></r></p></e>
+<e><p><l>flowery<s n="adj"/></l><r>florecido<s n="adj"/></r></p></e>
+<e><p><l>fractional<s n="adj"/></l><r>fraccionario<s n="adj"/></r></p></e>
+<e><p><l>francoist<s n="adj"/></l><r>franquista<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>anti-francoist<s n="adj"/></l><r>antifranquista<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fuzzy<s n="adj"/></l><r>borroso<s n="adj"/></r></p></e>
+<e><p><l>gaussian<s n="adj"/></l><r>gaussiano<s n="adj"/></r></p></e>
+<e><p><l>gifted<s n="adj"/></l><r>dotado<s n="adj"/></r></p></e>
+<e><p><l>gipsy<s n="adj"/></l><r>gitano<s n="adj"/></r></p></e>
+<e><p><l>golden<s n="adj"/></l><r>dorado<s n="adj"/></r></p></e>
+<e><p><l>grateful<s n="adj"/></l><r>agradecido<s n="adj"/></r></p></e>
+<e><p><l>greenish<s n="adj"/></l><r>verdoso<s n="adj"/></r></p></e>
+<e><p><l>grooved<s n="adj"/></l><r>estriado<s n="adj"/></r></p></e>
+<e><p><l>hanged<s n="adj"/></l><r>colgado<s n="adj"/></r></p></e>
+<e><p><l>hapless<s n="adj"/></l><r>desventurado<s n="adj"/></r></p></e>
+<e><p><l>harmonious<s n="adj"/></l><r>armonioso<s n="adj"/></r></p></e>
+<e><p><l>hasty<s n="adj"/><s n="sint"/></l><r>apresurado<s n="adj"/></r></p></e>
+<e><p><l>hasty<s n="adj"/><s n="sint"/><s n="sup"/></l><r>apresurado<s n="adj"/><s n="sup"/></r></p></e>
+<e r="LR"><p><l>hasty<s n="adj"/><s n="sint"/><s n="comp"/></l><r>apresurado<s n="adj"/><s n="sup"/></r></p></e>
+<e><p><l>heterosexual<s n="adj"/></l><r>heterosexual<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>ignominious<s n="adj"/></l><r>ignominioso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>impassioned<s n="adj"/></l><r>apasionado<s n="adj"/></r></p></e>
+<e><p><l>impure<s n="adj"/><s n="sint"/></l><r>impuro<s n="adj"/></r></p></e>
+<e><p><l>inaccurate<s n="adj"/></l><r>inexacto<s n="adj"/></r></p></e>
+<e><p><l>included<s n="adj"/></l><r>incluido<s n="adj"/></r></p></e>
+<e><p><l>inconvenient<s n="adj"/></l><r>inconveniente<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>industrious<s n="adj"/></l><r>trabajador<s n="adj"/></r></p></e>
+<e><p><l>inspired<b/>by<s n="adj"/></l><r>inspirado<g><b/>en</g><s n="adj"/></r></p></e>
+<e><p><l>inspired<s n="adj"/></l><r>inspirado<s n="adj"/></r></p></e>
+<e><p><l>championing<s n="adj"/></l><r>abanderado<s n="adj"/></r></p></e>
+<e r="RL"><p><l>remaining<s n="adj"/></l><r>permaneciendo<s n="adj"/></r></p></e>
+<e><p><l>carrier<s n="adj"/></l><r>cargador<s n="adj"/></r></p></e>
+<e><p><l>installed<s n="adj"/></l><r>instalado<s n="adj"/></r></p></e>
+<e><p><l>insulting<s n="adj"/></l><r>insultando<s n="adj"/></r></p></e>
+<e><p><l>insurgent<s n="adj"/></l><r>insurgente<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>interlocutory<s n="adj"/></l><r>interlocutorio<s n="adj"/></r></p></e>
+<e><p><l>intravenous<s n="adj"/></l><r>intravenoso<s n="adj"/></r></p></e>
+<e><p><l>intricate<s n="adj"/></l><r>intrincado<s n="adj"/></r></p></e>
+<e><p><l>iranian<s n="adj"/></l><r>iraní<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>iraqi<s n="adj"/></l><r>iraquí<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>isosceles<s n="adj"/></l><r>isósceles<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>jurisprudential<s n="adj"/></l><r>jurisprudencial<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>known<s n="adj"/></l><r>sabido<s n="adj"/></r></p></e>
+<e><p><l>lacking<s n="adj"/></l><r>falto<s n="adj"/></r></p></e>
+<e><p><l>lame<s n="adj"/></l><r>cojo<s n="adj"/></r></p></e>
+<e><p><l>laplacian<s n="adj"/></l><r>laplaciano<s n="adj"/></r></p></e>
+<e><p><l>libertarian<s n="adj"/></l><r>libertario<s n="adj"/></r></p></e>
+<e><p><l>litigious<s n="adj"/></l><r>litigioso<s n="adj"/></r></p></e>
+<e><p><l>loaded<s n="adj"/></l><r>cargado<s n="adj"/></r></p></e>
+<e><p><l>lossy<s n="adj"/></l><r>disipado<s n="adj"/></r></p></e>
+<e r="LR"><p><l>lovable<s n="adj"/></l><r>encantador<s n="adj"/></r></p></e>
+<e><p><l>male<b/>chauvinistic<s n="adj"/></l><r>machista<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>marbled<s n="adj"/></l><r>jaspeado<s n="adj"/></r></p></e>
+<e><p><l>married<s n="adj"/></l><r>casado<s n="adj"/></r></p></e>
+<e><p><l>migrant<s n="adj"/></l><r>emigrante<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>missing<s n="adj"/></l><r>desaparecido<s n="adj"/></r></p></e>
+<e><p><l>mock<s n="adj"/><s n="sint"/></l><r>simulado<s n="adj"/></r></p></e>
+<e><p><l>mongrel<s n="adj"/></l><r>mestizo<s n="adj"/></r></p></e>
+<e><p><l>napierian<s n="adj"/></l><r>neperiano<s n="adj"/></r></p></e>
+<e><p><l>nomadic<s n="adj"/></l><r>nómada<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>obtrusive<s n="adj"/></l><r>inoportuno<s n="adj"/></r></p></e>
+<e><p><l>octal<s n="adj"/></l><r>octal<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>odourless<s n="adj"/></l><r>inodoro<s n="adj"/></r></p></e>
+<e><p><l>onerous<s n="adj"/></l><r>oneroso<s n="adj"/></r></p></e>
+<e><p><l>pecuniary<s n="adj"/></l><r>pecuniario<s n="adj"/></r></p></e>
+<e><p><l>philippine<s n="adj"/></l><r>filipino<s n="adj"/></r></p></e>
+<e><p><l>phytosanitary<s n="adj"/></l><r>fitosanitario<s n="adj"/></r></p></e>
+<e><p><l>placed<s n="adj"/></l><r>colocado<s n="adj"/></r></p></e>
+<e><p><l>plateresque<s n="adj"/></l><r>plateresco<s n="adj"/></r></p></e>
+<e><p><l>pleonastic<s n="adj"/></l><r>pleonástico<s n="adj"/></r></p></e>
+<e><p><l>polite<s n="adj"/></l><r>educado<s n="adj"/></r></p></e>
+<e><p><l>polygamous<s n="adj"/></l><r>polígamo<s n="adj"/></r></p></e>
+<e><p><l>presumptuous<s n="adj"/></l><r>presuntuoso<s n="adj"/></r></p></e>
+<e><p><l>pretentious<s n="adj"/></l><r>pretencioso<s n="adj"/></r></p></e>
+<e><p><l>proportionate<s n="adj"/></l><r>proporcionado<s n="adj"/></r></p></e>
+<e><p><l>punctilious<s n="adj"/></l><r>meticuloso<s n="adj"/></r></p></e>
+<e><p><l>quaternary<s n="adj"/></l><r>cuaternario<s n="adj"/></r></p></e>
+<e><p><l>quoted<s n="adj"/></l><r>citado<s n="adj"/></r></p></e>
+<e><p><l>rectilinear<s n="adj"/></l><r>rectilíneo<s n="adj"/></r></p></e>
+<e><p><l>redundant<s n="adj"/></l><r>redundando<s n="adj"/></r></p></e>
+<e><p><l>reformist<s n="adj"/></l><r>reformista<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>equidirectional<s n="adj"/></l><r>equidireccional<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>refractory<s n="adj"/></l><r>refractario<s n="adj"/></r></p></e>
+<e><p><l>fireproof<s n="adj"/></l><r>ignífugo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>fire-resistant<s n="adj"/></l><r>ignífugo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>five-fold<s n="adj"/></l><r>por<b/>cinqo<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fivefold<s n="adj"/></l><r>por<b/>cinqo<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>Freudian<b/>slip<s n="n"/></l><r>lapsus<b/>freudiano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>freudian<s n="adj"/></l><r>freudiano<s n="adj"/></r></p></e>
+<e><p><l>sexless<s n="adj"/></l><r>sin<b/>sexo<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>soundless<s n="adj"/></l><r>sin<b/>sonido<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>unnoticed<s n="adj"/></l><r>inadvertido<s n="adj"/></r></p></e>
+<e><p><l>quintic<s n="adj"/></l><r>quintico<s n="adj"/></r></p></e>
+<e><p><l>absolutive<s n="adj"/></l><r>absolutivo<s n="adj"/></r></p></e>
+<e><p><l>abusive<s n="adj"/></l><r>abusivo<s n="adj"/></r></p></e>
+<e r="RL"><p><l>anisotropic<s n="adj"/></l><r>anisotrópico<s n="adj"/></r></p></e>
+<e><p><l>antiparallel<s n="adj"/></l><r>antiparalelo<s n="adj"/></r></p></e>
+<e><p><l>astatic<s n="adj"/></l><r>astático<s n="adj"/></r></p></e>
+<e><p><l>asyndetic<s n="adj"/></l><r>asindético<s n="adj"/></r></p></e>
+<e><p><l>autodynamic<s n="adj"/></l><r>autodinámico<s n="adj"/></r></p></e>
+<e><p><l>barycentric<s n="adj"/></l><r>baricéntrico<s n="adj"/></r></p></e>
+<e><p><l>bigamous<s n="adj"/></l><r>bígamo<s n="adj"/></r></p></e>
+<e><p><l>brownish<s n="adj"/></l><r>pardusco<s n="adj"/></r></p></e>
+<e><p><l>categorematic<s n="adj"/></l><r>categoremático<s n="adj"/></r></p></e>
+<e><p><l>cautious<s n="adj"/></l><r>cauteloso<s n="adj"/></r></p></e>
+<e><p><l>consanguine<s n="adj"/></l><r>consanguíneo<s n="adj"/></r></p></e>
+<e><p><l>contributory<s n="adj"/></l><r>contributivo<s n="adj"/></r></p></e>
+<e><p><l>cryptocrystalline<s n="adj"/></l><r>criptocristalino<s n="adj"/></r></p></e>
+<e><p><l>disyllabic<s n="adj"/></l><r>bisílabo<s n="adj"/></r></p></e>
+<e><p><l>ectodynamomorphic<s n="adj"/></l><r>ectodinamógeno<s n="adj"/></r></p></e>
+<e><p><l>emphyteutic<s n="adj"/></l><r>enfitéutico<s n="adj"/></r></p></e>
+<e><p><l>endodynamogenic<s n="adj"/></l><r>endodinamógeno<s n="adj"/></r></p></e>
+<e><p><l>endolymphatic<s n="adj"/></l><r>endolinfático<s n="adj"/></r></p></e>
+<e><p><l>epenthetic<s n="adj"/></l><r>epentético<s n="adj"/></r></p></e>
+<e><p><l>epistemic<s n="adj"/></l><r>epistémico<s n="adj"/></r></p></e>
+<e><p><l>eritrean<s n="adj"/></l><r>eritreano<s n="adj"/></r></p></e>
+<e><p><l>estonian<s n="adj"/></l><r>estoniano<s n="adj"/></r></p></e>
+<e><p><l>eutectic<s n="adj"/></l><r>eutéctico<s n="adj"/></r></p></e>
+<e><p><l>exculpatory<s n="adj"/></l><r>exculpatorio<s n="adj"/></r></p></e>
+<e><p><l>factitious<s n="adj"/></l><r>facticio<s n="adj"/></r></p></e>
+<e><p><l>febrifuge<s n="adj"/></l><r>febrífugo<s n="adj"/></r></p></e>
+<e><p><l>ferrous<s n="adj"/></l><r>ferroso<s n="adj"/></r></p></e>
+<e><p><l>fetid<s n="adj"/></l><r>fétido<s n="adj"/></r></p></e>
+<e><p><l>feudatory<s n="adj"/></l><r>feudatario<s n="adj"/></r></p></e>
+<e><p><l>fibric<s n="adj"/></l><r>fíbrico<s n="adj"/></r></p></e>
+<e><p><l>fibroblastic<s n="adj"/></l><r>fibroblástico<s n="adj"/></r></p></e>
+<e><p><l>fiduciary<s n="adj"/></l><r>fiduciario<s n="adj"/></r></p></e>
+<e><p><l>flaccid<s n="adj"/></l><r>flácido<s n="adj"/></r></p></e>
+<e><p><l>flexographic<s n="adj"/></l><r>flexográfico<s n="adj"/></r></p></e>
+<e><p><l>fragiaquic<s n="adj"/></l><r>fragiácuico<s n="adj"/></r></p></e>
+<e><p><l>fragic<s n="adj"/></l><r>frágico<s n="adj"/></r></p></e>
+<e><p><l>gamopetalous<s n="adj"/></l><r>gamopétalo<s n="adj"/></r></p></e>
+<e><p><l>gelatinous<s n="adj"/></l><r>gelatinoso<s n="adj"/></r></p></e>
+<e><p><l>geostrophic<s n="adj"/></l><r>geostrófico<s n="adj"/></r></p></e>
+<e><p><l>gordian<s n="adj"/></l><r>gordiano<s n="adj"/></r></p></e>
+<e><p><l>heedless<s n="adj"/></l><r>desatento<s n="adj"/></r></p></e>
+<e><p><l>hepatogastric<s n="adj"/></l><r>hepatogástrico<s n="adj"/></r></p></e>
+<e><p><l>horned<s n="adj"/></l><r>cornudo<s n="adj"/></r></p></e>
+<e><p><l>hydrophilic<s n="adj"/></l><r>hidrofílico<s n="adj"/></r></p></e>
+<e><p><l>idiographic<s n="adj"/></l><r>ideográfico<s n="adj"/></r></p></e>
+<e><p><l>immature<s n="adj"/></l><r>inmaduro<s n="adj"/></r></p></e>
+<e><p><l>impetuous<s n="adj"/></l><r>impetuoso<s n="adj"/></r></p></e>
+<e><p><l>incestuous<s n="adj"/></l><r>incestuoso<s n="adj"/></r></p></e>
+<e><p><l>inept<s n="adj"/></l><r>inepto<s n="adj"/></r></p></e>
+<e><p><l>insidious<s n="adj"/></l><r>insidioso<s n="adj"/></r></p></e>
+<e><p><l>jacobian<s n="adj"/></l><r>jacobiano<s n="adj"/></r></p></e>
+<e><p><l>kafkaesque<s n="adj"/></l><r>kafkiano<s n="adj"/></r></p></e>
+<e><p><l>libidinous<s n="adj"/></l><r>libidinoso<s n="adj"/></r></p></e>
+<e><p><l>longnosed<s n="adj"/></l><r>narigudo<s n="adj"/></r></p></e>
+<e><p><l>mahometan<s n="adj"/></l><r>mahometano<s n="adj"/></r></p></e>
+<e><p><l>melodious<s n="adj"/></l><r>melodioso<s n="adj"/></r></p></e>
+<e><p><l>melodramatic<s n="adj"/></l><r>melodramático<s n="adj"/></r></p></e>
+<e><p><l>monegasque<s n="adj"/></l><r>monegasco<s n="adj"/></r></p></e>
+<e><p><l>monitory<s n="adj"/></l><r>monitoreo<s n="adj"/></r></p></e>
+<e><p><l>monogamist<s n="adj"/></l><r>monógamo<s n="adj"/></r></p></e>
+<e><p><l>multicentric<s n="adj"/></l><r>multicéntrico<s n="adj"/></r></p></e>
+<e><p><l>nacreous<s n="adj"/></l><r>nacarado<s n="adj"/></r></p></e>
+<e><p><l>novelesque<s n="adj"/></l><r>novelesco<s n="adj"/></r></p></e>
+<e><p><l>ominous<s n="adj"/></l><r>ominoso<s n="adj"/></r></p></e>
+<e><p><l>omnivorous<s n="adj"/></l><r>omnívoro<s n="adj"/></r></p></e>
+<e><p><l>onomasiological<s n="adj"/></l><r>onomasiológico<s n="adj"/></r></p></e>
+<e><p><l>orthic<s n="adj"/></l><r>órtico<s n="adj"/></r></p></e>
+<e><p><l>overdetermined<s n="adj"/></l><r>sobredeterminado<s n="adj"/></r></p></e>
+<e><p><l>overlapped<s n="adj"/></l><r>superpuesto<s n="adj"/></r></p></e>
+<e><p><l>palmate<s n="adj"/></l><r>palmeado<s n="adj"/></r></p></e>
+<e><p><l>peripteral<s n="adj"/></l><r>períptero<s n="adj"/></r></p></e>
+<e r="LR"><p><l>phantasmic<s n="adj"/></l><r>fantástico<s n="adj"/></r></p></e>
+<e><p><l>polycrystalline<s n="adj"/></l><r>policristalino<s n="adj"/></r></p></e>
+<e r="LR"><p><l>polygenetic<s n="adj"/></l><r>poligénico<s n="adj"/></r></p></e>
+<e><p><l>pseudoprime<s n="adj"/></l><r>pseudoprimo<s n="adj"/></r></p></e>
+<e><p><l>purposeful<s n="adj"/></l><r>resoluto<s n="adj"/></r></p></e>
+<e><p><l>purposeless<s n="adj"/></l><r>irresoluto<s n="adj"/></r></p></e>
+<e><p><l>quinary<s n="adj"/></l><r>quinario<s n="adj"/></r></p></e>
+<e><p><l>resinous<s n="adj"/></l><r>resinoso<s n="adj"/></r></p></e>
+<e><p><l>rheostatic<s n="adj"/></l><r>reostático<s n="adj"/></r></p></e>
+<e><p><l>seditious<s n="adj"/></l><r>sedicioso<s n="adj"/></r></p></e>
+<e><p><l>semiclosed<s n="adj"/></l><r>semicerrado<s n="adj"/></r></p></e>
+<e><p><l>silicious<s n="adj"/></l><r>silicio<s n="adj"/></r></p></e>
+<e r="LR"><p><l>sparse<s n="adj"/></l><r>escaso<s n="adj"/></r></p></e>
+<e><p><l>spectrographic<s n="adj"/></l><r>espectrográfico<s n="adj"/></r></p></e>
+<e><p><l>spongy<s n="adj"/></l><r>esponjoso<s n="adj"/></r></p></e>
+<e><p><l>steeled<s n="adj"/></l><r>acerado<s n="adj"/></r></p></e>
+<e><p><l>subalpine<s n="adj"/></l><r>subalpino<s n="adj"/></r></p></e>
+<e><p><l>superheterodyne<s n="adj"/></l><r>superheterodino<s n="adj"/></r></p></e>
+<e><p><l>supraorbital<s n="adj"/></l><r>supraorbitario<s n="adj"/></r></p></e>
+<e><p><l>supraspinous<s n="adj"/></l><r>supraespinoso<s n="adj"/></r></p></e>
+<e><p><l>syntagmatic<s n="adj"/></l><r>sintagmático<s n="adj"/></r></p></e>
+<e><p><l>ternary<s n="adj"/></l><r>ternario<s n="adj"/></r></p></e>
+<e><p><l>thoughtful<s n="adj"/></l><r>pensativo<s n="adj"/></r></p></e>
+<e><p><l>threaded<s n="adj"/></l><r>roscado<s n="adj"/></r></p></e>
+<e><p><l>tortuous<s n="adj"/></l><r>tortuoso<s n="adj"/></r></p></e>
+<e><p><l>variegated<s n="adj"/></l><r>abigarrado<s n="adj"/></r></p></e>
+<e><p><l>venous<s n="adj"/></l><r>venoso<s n="adj"/></r></p></e>
+<e><p><l>verbose<s n="adj"/></l><r>verboso<s n="adj"/></r></p></e>
+<e><p><l>vitelline<s n="adj"/></l><r>vitelino<s n="adj"/></r></p></e>
+<e><p><l>vulcanian<s n="adj"/></l><r>vulcano<s n="adj"/></r></p></e>
+<e><p><l>wasteful<s n="adj"/></l><r>despilfarro<s n="adj"/></r></p></e>
+<e><p><l>whitish<s n="adj"/></l><r>blanquecino<s n="adj"/></r></p></e>
+<e><p><l>xerographic<s n="adj"/></l><r>xerográfico<s n="adj"/></r></p></e>
+<e r="LR"><p><l>zealous<s n="adj"/></l><r>celoso<s n="adj"/></r></p></e>
+<e><p><l>reptilian<s n="adj"/></l><r>reptil<s n="adj"/></r></p></e>
+<e><p><l>hungry<s n="adj"/><s n="sint"/></l><r>famélico<s n="adj"/></r></p></e>
+<e><p><l>lewd<s n="adj"/><s n="sint"/></l><r>lascivo<s n="adj"/></r></p></e>
+<e><p><l>starry<s n="adj"/><s n="sint"/></l><r>estrellado<s n="adj"/></r></p></e>
+<e><p><l>hazy<s n="adj"/><s n="sint"/></l><r>brumoso<s n="adj"/></r></p></e>
+<e><p><l>glassy<s n="adj"/><s n="sint"/></l><r>vidrioso<s n="adj"/></r></p></e>
+<e><p><l>peaty<s n="adj"/><s n="sint"/></l><r>turboso<s n="adj"/></r></p></e>
+<e><p><l>rescissory<s n="adj"/></l><r>rescisorio<s n="adj"/></r></p></e>
+<e><p><l>resolutory<s n="adj"/></l><r>resolutorio<s n="adj"/></r></p></e>
+<e><p><l>retarded<s n="adj"/></l><r>retrasado<s n="adj"/></r></p></e>
+<e><p><l>returnable<s n="adj"/></l><r>reintegrable<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>risky<s n="adj"/><s n="sint"/></l><r>arriesgado<s n="adj"/></r></p></e>
+<e><p><l>riveting<s n="adj"/></l><r>ribeteado<s n="adj"/></r></p></e>
+<e><p><l>ruled<s n="adj"/></l><r>reglado<s n="adj"/></r></p></e>
+<e><p><l>sacral<s n="adj"/></l><r>sacro<s n="adj"/></r></p></e>
+<e><p><l>scalar<s n="adj"/></l><r>escalar<s n="adj"/></r></p></e>
+<e><p><l>scalene<s n="adj"/></l><r>escaleno<s n="adj"/></r></p></e>
+<e><p><l>scornful<s n="adj"/></l><r>despreciativo<s n="adj"/></r></p></e>
+<e><p><l>sedentary<s n="adj"/></l><r>sedentario<s n="adj"/></r></p></e>
+<e><p><l>semi-detached<s n="adj"/></l><r>adosado<s n="adj"/></r></p></e>
+<e r="LR"><p><l>sensible<s n="adj"/></l><r>sensato<s n="adj"/></r></p></e>
+<e><p><l>serbian<s n="adj"/></l><r>serbio<s n="adj"/></r></p></e>
+<e><p><l>shapeless<s n="adj"/></l><r>deformo<s n="adj"/></r></p></e>
+<e><p><l>shrewd<s n="adj"/><s n="sint"/></l><r>perspicaz<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>sliding<s n="adj"/></l><r>corredero<s n="adj"/></r></p></e>
+<e><p><l>sophisticated<s n="adj"/></l><r>sofisticado<s n="adj"/></r></p></e>
+<e><p><l>spineless<s n="adj"/></l><r>invertebrado<s n="adj"/></r></p></e>
+<e><p><l>spotless<s n="adj"/></l><r>inmaculado<s n="adj"/></r></p></e>
+<e><p><l>stray<s n="adj"/></l><r>perdido<s n="adj"/></r></p></e>
+<e><p><l>streaky<s n="adj"/><s n="sint"/></l><r>tachado<s n="adj"/></r></p></e>
+<e><p><l>stressed<s n="adj"/></l><r>acentuado<s n="adj"/></r></p></e>
+<e><p><l>stressful<s n="adj"/></l><r>estresando<s n="adj"/></r></p></e>
+<e><p><l>submissive<s n="adj"/></l><r>sumiso<s n="adj"/></r></p></e>
+<e><p><l>subordinative<s n="adj"/></l><r>subordinando<s n="adj"/></r></p></e>
+<e><p><l>succinct<s n="adj"/></l><r>sucinto<s n="adj"/></r></p></e>
+<e r="LR"><p><l>superconductive<s n="adj"/></l><r>superconductor<s n="adj"/></r></p></e>
+<e><p><l>supervisory<s n="adj"/></l><r>supervisor<s n="adj"/></r></p></e>
+<e><p><l>supported<s n="adj"/></l><r>soportado<s n="adj"/></r></p></e>
+<e><p><l>tabloid<s n="adj"/></l><r>tabloide<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>tasteless<s n="adj"/></l><r>insípido<s n="adj"/></r></p></e>
+<e><p><l>teenage<s n="adj"/></l><r>adolescente<s n="adj"/><s n="mf"/></r></p></e>
+<e><p><l>tertiary<s n="adj"/></l><r>terciario<s n="adj"/></r></p></e>
+<e><p><l>thankless<s n="adj"/></l><r>ingrato<s n="adj"/></r></p></e>
+<e><p><l>tight<s n="adj"/><s n="sint"/></l><r>estanco<s n="adj"/></r></p></e>
+<e><p><l>toothed<s n="adj"/></l><r>dentado<s n="adj"/></r></p></e>
+<e><p><l>tractive<s n="adj"/></l><r>tractor<s n="adj"/></r></p></e>
+<e><p><l>transmissive<s n="adj"/></l><r>transmisor<s n="adj"/></r></p></e>
+<e><p><l>treacherous<s n="adj"/></l><r>traidor<s n="adj"/></r></p></e>
+<e><p><l>trembling<s n="adj"/></l><r>tembloroso<s n="adj"/></r></p></e>
+<e><p><l>unconnected<s n="adj"/></l><r>inconexo<s n="adj"/></r></p></e>
+<e><p><l>uncultured<s n="adj"/></l><r>iletrado<s n="adj"/></r></p></e>
+<e><p><l>undisciplined<s n="adj"/></l><r>indisciplinado<s n="adj"/></r></p></e>
+<e><p><l>unforeseen<s n="adj"/></l><r>imprevisto<s n="adj"/></r></p></e>
+<e><p><l>unsuspecting<s n="adj"/></l><r>confiado<s n="adj"/></r></p></e>
+<e><p><l>unwilling<s n="adj"/></l><r>poco<b/>dispuesto<s n="adj"/></r></p></e>
+<e><p><l>unfounded<s n="adj"/></l><r>infundado<s n="adj"/></r></p></e>
+<e><p><l>upset<s n="adj"/></l><r>trastornado<s n="adj"/></r></p></e>
+<e><p><l>vicarious<s n="adj"/></l><r>vicario<s n="adj"/></r></p></e>
+<e><p><l>vivid<s n="adj"/></l><r>vívido<s n="adj"/></r></p></e>
+<e><p><l>wary<s n="adj"/><s n="sint"/></l><r>cauto<s n="adj"/></r></p></e>
+<e><p><l>widespread<s n="adj"/></l><r>extendido<s n="adj"/></r></p></e>
+<e><p><l>wilful<s n="adj"/></l><r>obstinado<s n="adj"/></r></p></e>
+<e><p><l>willing<s n="adj"/></l><r>dispuesto<s n="adj"/></r></p></e>
+<e><p><l>worshipper<s n="adj"/></l><r>devoto<s n="adj"/></r></p></e>
+<e><p><l>pointed<s n="adj"/></l><r>apuntado<s n="adj"/></r></p></e>
+<e><p><l>acerbity<s n="n"/></l><r>acerbidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>acuity<s n="n"/></l><r>acuidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>affability<s n="n"/></l><r>afabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>agility<s n="n"/></l><r>agilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>alacrity<s n="n"/></l><r>alacridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>amenity<s n="n"/></l><r>amenidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>animality<s n="n"/></l><r>animalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>artificiality<s n="n"/></l><r>artificiosidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>austerity<s n="n"/></l><r>austeridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>authenticity<s n="n"/></l><r>autenticidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>benignity<s n="n"/></l><r>benignidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bestiality<s n="n"/></l><r>bestialidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>carnality<s n="n"/></l><r>carnalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>chastity<s n="n"/></l><r>castidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>catholicity<s n="n"/></l><r>catolicidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>celerity<s n="n"/></l><r>celeridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>civility<s n="n"/></l><r>civilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>combustibility<s n="n"/></l><r>combustibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>commensurability<s n="n"/></l><r>conmensurabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>communicability<s n="n"/></l><r>comunicabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>concavity<s n="n"/></l><r>concavidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>confraternity<s n="n"/></l><r>confraternidad<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>communicability<s n="n"/></l><r>conmunicabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>corruptibility<s n="n"/></l><r>corruptibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>convexity<s n="n"/></l><r>convexidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>corporeality<s n="n"/></l><r>corporalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>corruptibility<s n="n"/></l><r>corruptibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>credulity<s n="n"/></l><r>credulidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>declivity<s n="n"/></l><r>declividad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>deity<s n="n"/></l><r>deidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>docility<s n="n"/></l><r>docilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>duplicity<s n="n"/></l><r>duplicidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>elasticity<s n="n"/></l><r>elasticidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>familiarity<s n="n"/></l><r>familiaridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fatuity<s n="n"/></l><r>fatuidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ferocity<s n="n"/></l><r>ferocidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>festivity<s n="n"/></l><r>festividad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fragility<s n="n"/></l><r>fragilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>frugality<s n="n"/></l><r>frugalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>garrulity<s n="n"/></l><r>garrulidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>hilarity<s n="n"/></l><r>hilaridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>immobility<s n="n"/></l><r>inmovilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>importunity<s n="n"/></l><r>importunidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>accountability<s n="n"/></l><r>imputabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>incorruptibility<s n="n"/></l><r>incorruptibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>incredulity<s n="n"/></l><r>incredulidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>indignity<s n="n"/></l><r>indignidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>indivisibility<s n="n"/></l><r>indivisibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>infecundity<s n="n"/></l><r>infecundidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>inhospitality<s n="n"/></l><r>inhospitalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>inhumanity<s n="n"/></l><r>inhumanidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>jocundity<s n="n"/></l><r>jocundidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>laxity<s n="n"/></l><r>laxidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>leniency<s n="n"/></l><r>lenidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>magnanimity<s n="n"/></l><r>magnanimidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>malignancy<s n="n"/></l><r>malignidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>mediocrity<s n="n"/></l><r>mediocridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>modality<s n="n"/></l><r>modalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>modernity<s n="n"/></l><r>modernidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>mutability<s n="n"/></l><r>mutabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>nativity<s n="n"/></l><r>natividad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>obscenity<s n="n"/></l><r>obscenidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>obscurity<s n="n"/></l><r>obscuridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>paternity<s n="n"/></l><r>paternidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>perpetuity<s n="n"/></l><r>perpetuidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>principality<s n="n"/></l><r>principalidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>probity<s n="n"/></l><r>probidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>proclivity<s n="n"/></l><r>proclividad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>pugnacity<s n="n"/></l><r>pugnacidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rapacity<s n="n"/></l><r>rapacidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>refrangibility<s n="n"/></l><r>refrangibilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rotundity<s n="n"/></l><r>rotundidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rusticity<s n="n"/></l><r>rusticidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>solemnity<s n="n"/></l><r>solemnidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>sublimity<s n="n"/></l><r>sublimidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>taciturnity<s n="n"/></l><r>taciturnidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>temerity<s n="n"/></l><r>temeridad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>tenacity<s n="n"/></l><r>tenacidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>transmutability<s n="n"/></l><r>transmutabilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>triplicity<s n="n"/></l><r>triplicidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>urbanity<s n="n"/></l><r>urbanidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>virginity<s n="n"/></l><r>virginidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>volubility<s n="n"/></l><r>volubilidad<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>voracity<s n="n"/></l><r>voracidad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cartilaginous<s n="adj"/></l><r>cartilaginoso<s n="adj"/></r></p></e>
+    <e><p><l>cavalier<s n="adj"/></l><r>caballero<s n="adj"/></r></p></e>
+    <e><p><l>characterologic<s n="adj"/></l><r>caracterológico<s n="adj"/></r></p></e>
+    <e><p><l>chlorotic<s n="adj"/></l><r>clorótico<s n="adj"/></r></p></e>
+    <e><p><l>coprophagous<s n="adj"/></l><r>coprófago<s n="adj"/></r></p></e>
+    <e><p><l>calcicolous<s n="adj"/></l><r>calcícolo<s n="adj"/></r></p></e>
+    <e><p><l>congenital<s n="adj"/></l><r>congénito<s n="adj"/></r></p></e>
+    <e><p><l>contrapositive<s n="adj"/></l><r>contrapositivo<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>declaratory<s n="adj"/></l><r>declarativo<s n="adj"/></r></p></e>
+    <e><p><l>decorous<s n="adj"/></l><r>decoroso<s n="adj"/></r></p></e>
+    <e><p><l>denigratory<s n="adj"/></l><r>denigratorio<s n="adj"/></r></p></e>
+    <e><p><l>assertoric<s n="adj"/></l><r>asertórico<s n="adj"/></r></p></e>
+    <e><p><l>anemophilous<s n="adj"/></l><r>anemófilo<s n="adj"/></r></p></e>
+    <e><p><l>antimicrobic<s n="adj"/></l><r>antimicrobiano<s n="adj"/></r></p></e>
+    <e><p><l>autotrophic<s n="adj"/></l><r>autótrofo<s n="adj"/></r></p></e>
+    <e><p><l>basophile<s n="adj"/></l><r>basófilo<s n="adj"/></r></p></e>
+    <e><p><l>acquisitive<s n="adj"/></l><r>adquisitivo<s n="adj"/></r></p></e>
+    <e><p><l>aluminothermic<s n="adj"/></l><r>aluminotérmico<s n="adj"/></r></p></e>
+    <e><p><l>dilatory<s n="adj"/></l><r>dilatorio<s n="adj"/></r></p></e>
+    <e><p><l>diploic<s n="adj"/></l><r>diploico<s n="adj"/></r></p></e>
+    <e><p><l>disadvantaged<s n="adj"/></l><r>desfavorecido<s n="adj"/></r></p></e>
+    <e><p><l>disjoint<s n="adj"/></l><r>disjunto<s n="adj"/></r></p></e>
+    <e><p><l>halophilic<s n="adj"/></l><r>halófilo<s n="adj"/></r></p></e>
+    <e><p><l>haplic<s n="adj"/></l><r>háplico<s n="adj"/></r></p></e>
+    <e><p><l>homomorphic<s n="adj"/></l><r>homomórfico<s n="adj"/></r></p></e>
+    <e><p><l>homothetic<s n="adj"/></l><r>homotético<s n="adj"/></r></p></e>
+    <e><p><l>homotopic<s n="adj"/></l><r>homotópico<s n="adj"/></r></p></e>
+    <e><p><l>hydromorphic<s n="adj"/></l><r>hidromórfico<s n="adj"/></r></p></e>
+    <e><p><l>hygrophilous<s n="adj"/></l><r>higrófilo<s n="adj"/></r></p></e>
+    <e><p><l>hypostyle<s n="adj"/></l><r>hipóstilo<s n="adj"/></r></p></e>
+    <e><p><l>hypotactic<s n="adj"/></l><r>hipotáctico<s n="adj"/></r></p></e>
+    <e><p><l>idiomorphic<s n="adj"/></l><r>idiomorfo<s n="adj"/></r></p></e>
+    <e><p><l>innominate<s n="adj"/></l><r>innominado<s n="adj"/></r></p></e>
+    <e><p><l>interosseous<s n="adj"/></l><r>interóseo<s n="adj"/></r></p></e>
+    <e><p><l>isochronal<s n="adj"/></l><r>isócronal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>desinential<s n="adj"/></l><r>desinencial<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>diastyle<s n="adj"/></l><r>diástilo<s n="adj"/></r></p></e>
+    <e><p><l>deverbative<s n="adj"/></l><r>deverbativo<s n="adj"/></r></p></e>
+    <e><p><l>dasymetric<s n="adj"/></l><r>dasimétrico<s n="adj"/></r></p></e>
+    <e><p><l>delimitable<s n="adj"/></l><r>delimitable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>arenicolous<s n="adj"/></l><r>arenícola<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>argotic<s n="adj"/></l><r>argótico<s n="adj"/></r></p></e>
+    <e><p><l>paronymic<s n="adj"/></l><r>paronímico<s n="adj"/></r></p></e>
+    <e><p><l>platykurtic<s n="adj"/></l><r>platicúrtico<s n="adj"/></r></p></e>
+    <e><p><l>polleniferous<s n="adj"/></l><r>polinífero<s n="adj"/></r></p></e>
+    <e><p><l>isochronous<s n="adj"/></l><r>isócrono<s n="adj"/></r></p></e>
+    <e><p><l>payable<s n="adj"/></l><r>pagable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>nomothetical<s n="adj"/></l><r>nomotético<s n="adj"/></r></p></e>
+    <e><p><l>calcifugal<s n="adj"/></l><r>calcifugo<s n="adj"/></r></p></e>
+    <e><p><l>coplanar<s n="adj"/></l><r>coplanar<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>thermoelectronic<s n="adj"/></l><r>termoelectrónico<s n="adj"/></r></p></e>
+    <e><p><l>ugandan<s n="adj"/></l><r>ugandano<s n="adj"/></r></p></e>
+    <e><p><l>petroferric<s n="adj"/></l><r>petroférrico<s n="adj"/></r></p></e>
+    <e><p><l>phonostylistic<s n="adj"/></l><r>fonoestilístico<s n="adj"/></r></p></e>
+    <e><p><l>commensurable<s n="adj"/></l><r>conmensurable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>conoidal<s n="adj"/></l><r>conoidale<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>contactable<s n="adj"/></l><r>localizable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>deferential<s n="adj"/></l><r>deferente<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>depreciable<s n="adj"/></l><r>amortizable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>discountable<s n="adj"/></l><r>descontable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>displayable<s n="adj"/></l><r>visualizable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>incommutable<s n="adj"/></l><r>inconmutable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>vain<s n="adj"/></l><r>vano<s n="adj"/></r></p></e>
+    <e><p><l>wagnerian<s n="adj"/></l><r>wagneriano<s n="adj"/></r></p></e>
+    <e><p><l>uninhabited<s n="adj"/></l><r>deshabitado<s n="adj"/></r></p></e>
+    <e><p><l>xerophilous<s n="adj"/></l><r>xerófilo<s n="adj"/></r></p></e>
+    <e><p><l>homomorphic<s n="adj"/></l><r>homomórfico<s n="adj"/></r></p></e>
+    <e><p><l>toxigenic<s n="adj"/></l><r>toxigénico<s n="adj"/></r></p></e>
+    <e><p><l>testamentary<s n="adj"/></l><r>testamentario<s n="adj"/></r></p></e>
+    <e><p><l>tetartohedral<s n="adj"/></l><r>tetartoédrico<s n="adj"/></r></p></e>
+    <e><p><l>shamanistic<s n="adj"/></l><r>chamánico<s n="adj"/></r></p></e>
+    <e><p><l>semasiological<s n="adj"/></l><r>semasiológico<s n="adj"/></r></p></e>
+    <e><p><l>surreptitious<s n="adj"/></l><r>subrepticio<s n="adj"/></r></p></e>
+    <e><p><l>syllogistic<s n="adj"/></l><r>silogístico<s n="adj"/></r></p></e>
+    <e><p><l>sympatric<s n="adj"/></l><r>simpátrico<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>synergetic<s n="adj"/></l><r>sinérgico<s n="adj"/></r></p></e>
+    <e><p><l>triadic<s n="adj"/></l><r>triádico<s n="adj"/></r></p></e>
+    <e><p><l>sclerophyllous<s n="adj"/></l><r>esclerófilo<s n="adj"/></r></p></e>
+    <e><p><l>segmentary<s n="adj"/></l><r>segmentario<s n="adj"/></r></p></e>
+    <e><p><l>psychofarmacological<s n="adj"/></l><r>psicofarmacológico<s n="adj"/></r></p></e>
+    <e><p><l>farmacological<s n="adj"/></l><r>farmacológico<s n="adj"/></r></p></e>
+    <e><p><l>psychosomatic<s n="adj"/></l><r>psicosomático<s n="adj"/></r></p></e>
+    <e><p><l>psychotechnical<s n="adj"/></l><r>psicotécnico<s n="adj"/></r></p></e>
+    <e><p><l>somatopsychic<s n="adj"/></l><r>somatopsíquico<s n="adj"/></r></p></e>
+    <e><p><l>spartan<s n="adj"/></l><r>espartano<s n="adj"/></r></p></e>
+    <e><p><l>sumptuary<s n="adj"/></l><r>suntuario<s n="adj"/></r></p></e>
+    <e><p><l>tautophonic<s n="adj"/></l><r>tautofónico<s n="adj"/></r></p></e>
+    <e><p><l>tautosyllabic<s n="adj"/></l><r>tautosilábico<s n="adj"/></r></p></e>
+    <e><p><l>unanchored<s n="adj"/></l><r>sin<b/>apoyo<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>uninsurable<s n="adj"/></l><r>no<b/>asegurable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unipotent<s n="adj"/></l><r>unipotente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>univariant<s n="adj"/></l><r>univariante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>thermosetting<s n="adj"/></l><r>termoendurecible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>self-lubricating<s n="adj"/></l><r>autolubricante<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sunless<s n="adj"/></l><r>sin<b/>sol<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>toothless<s n="adj"/></l><r>sin<b/>dientes<s n="adj"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>trailing<s n="adj"/></l><r>final<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>scrollable<s n="adj"/></l><r>desplazable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>self-centering<s n="adj"/></l><r>autocentrado<s n="adj"/></r></p></e>
+    <e><p><l>subscapular<s n="adj"/></l><r>subescapular<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>suffixal<s n="adj"/></l><r>sufijal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>summable<s n="adj"/></l><r>sumable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>technoenvironmental<s n="adj"/></l><r>tecnoambientale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>specifiable<s n="adj"/></l><r>especificable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>sphenoidal<s n="adj"/></l><r>esfenoidal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>two-phase<s n="adj"/></l><r>en<b/>dos<b/>fases<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unchanged<s n="adj"/></l><r>sin<b/>cambios<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>heterosyllabic<s n="adj"/></l><r>heterosilábico<s n="adj"/></r></p></e>
+    <e><p><l>interparadigmatic<s n="adj"/></l><r>interparadigmático<s n="adj"/></r></p></e>
+    <e><p><l>membranous<s n="adj"/></l><r>membranoso<s n="adj"/></r></p></e>
+    <e><p><l>metacarpial<s n="adj"/></l><r>metacarpiano<s n="adj"/></r></p></e>
+    <e><p><l>metacentric<s n="adj"/></l><r>metacéntrico<s n="adj"/></r></p></e>
+    <e><p><l>morphometric<s n="adj"/></l><r>morfométrico<s n="adj"/></r></p></e>
+    <e><p><l>necrophagous<s n="adj"/></l><r>necrófago<s n="adj"/></r></p></e>
+    <e><p><l>neologistical<s n="adj"/></l><r>neológico<s n="adj"/></r></p></e>
+    <e><p><l>amitotic<s n="adj"/></l><r>amitótico<s n="adj"/></r></p></e>
+    <e><p><l>amorphous<s n="adj"/></l><r>amorfo<s n="adj"/></r></p></e>
+    <e><p><l>apterous<s n="adj"/></l><r>áptero<s n="adj"/></r></p></e>
+    <e><p><l>atomistic<s n="adj"/></l><r>atomístico<s n="adj"/></r></p></e>
+    <e><p><l>bituminous<s n="adj"/></l><r>bituminoso<s n="adj"/></r></p></e>
+    <e><p><l>bluish<s n="adj"/></l><r>azulado<s n="adj"/></r></p></e>
+    <e><p><l>heliophilic<s n="adj"/></l><r>heliofílico<s n="adj"/></r></p></e>
+    <e><p><l>isoclinic<s n="adj"/></l><r>isoclínico<s n="adj"/></r></p></e>
+    <e><p><l>isogonic<s n="adj"/></l><r>isogónico<s n="adj"/></r></p></e>
+    <e><p><l>lactiferous<s n="adj"/></l><r>lactífero<s n="adj"/></r></p></e>
+    <e><p><l>lexematic<s n="adj"/></l><r>lexemático<s n="adj"/></r></p></e>
+    <e><p><l>liberian<s n="adj"/></l><r>liberiano<s n="adj"/></r></p></e>
+    <e><p><l>leptokurtic<s n="adj"/></l><r>leptocúrtico<s n="adj"/></r></p></e>
+    <e><p><l>leonine<s n="adj"/></l><r>leonino<s n="adj"/></r></p></e>
+    <e><p><l>monadic<s n="adj"/></l><r>monádico<s n="adj"/></r></p></e>
+    <e><p><l>unsuitable<s n="adj"/></l><r>inadecuado<s n="adj"/></r></p></e>
+    <e><p><l>siberian<s n="adj"/></l><r>siberiano<s n="adj"/></r></p></e>
+    <e><p><l>stenometopic<s n="adj"/></l><r>stenometópico<s n="adj"/></r></p></e>
+    <e><p><l>strombolian<s n="adj"/></l><r>estromboliano<s n="adj"/></r></p></e>
+    <e><p><l>saxicolous<s n="adj"/></l><r>saxícolo<s n="adj"/></r></p></e>
+    <e><p><l>saprophagous<s n="adj"/></l><r>saprófago<s n="adj"/></r></p></e>
+    <e><p><l>rhodic<s n="adj"/></l><r>ródico<s n="adj"/></r></p></e>
+    <e><p><l>rogatory<s n="adj"/></l><r>rogatorio<s n="adj"/></r></p></e>
+    <e><p><l>rhapsodic<s n="adj"/></l><r>rapsódico<s n="adj"/></r></p></e>
+    <e><p><l>protogenic<s n="adj"/></l><r>protogénico<s n="adj"/></r></p></e>
+    <e><p><l>pretonic<s n="adj"/></l><r>pretónico<s n="adj"/></r></p></e>
+    <e><p><l>pre-formulated<s n="adj"/></l><r>preformulado<s n="adj"/></r></p></e>
+    <e><p><l>prothetic<s n="adj"/></l><r>protésico<s n="adj"/></r></p></e>
+    <e><p><l>plutocratic<s n="adj"/></l><r>plutocrático<s n="adj"/></r></p></e>
+    <e><p><l>plutonic<s n="adj"/></l><r>plutónico<s n="adj"/></r></p></e>
+    <e><p><l>plenipotentiary<s n="adj"/></l><r>plenipotenciario<s n="adj"/></r></p></e>
+    <e><p><l>plebiscitary<s n="adj"/></l><r>plebiscitario<s n="adj"/></r></p></e>
+    <e><p><l>phytophagous<s n="adj"/></l><r>fitófago<s n="adj"/></r></p></e>
+    <e><p><l>paralinguistic<s n="adj"/></l><r>paralingüístico<s n="adj"/></r></p></e>
+    <e><p><l>palatographic<s n="adj"/></l><r>palatográfico<s n="adj"/></r></p></e>
+    <e><p><l>orthognathic<s n="adj"/></l><r>ortognático<s n="adj"/></r></p></e>
+    <e><p><l>oligotrophic<s n="adj"/></l><r>oligotrófico<s n="adj"/></r></p></e>
+    <e><p><l>obstructive<s n="adj"/></l><r>obstructivo<s n="adj"/></r></p></e>
+    <e><p><l>morphometric<s n="adj"/></l><r>morfométrico<s n="adj"/></r></p></e>
+    <e><p><l>subclavian<s n="adj"/></l><r>subclavio<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>parasitical<s n="adj"/></l><r>parasitario<s n="adj"/></r></p></e>
+    <e><p><l>poikilothermic<s n="adj"/></l><r>poiquilotermo<s n="adj"/></r></p></e>
+    <e><p><l>photoelectrochemical<s n="adj"/></l><r>fotoelectroquímico<s n="adj"/></r></p></e>
+    <e><p><l>neurophysical<s n="adj"/></l><r>neurofísico<s n="adj"/></r></p></e>
+    <e><p><l>neutrophile<s n="adj"/></l><r>neutrófilo<s n="adj"/></r></p></e>
+    <e><p><l>nitrophilous<s n="adj"/></l><r>nitrófilo<s n="adj"/></r></p></e>
+    <e><p><l>metopic<s n="adj"/></l><r>metópico<s n="adj"/></r></p></e>
+    <e><p><l>mesophilous<s n="adj"/></l><r>mesófilo<s n="adj"/></r></p></e>
+    <e><p><l>meromorphic<s n="adj"/></l><r>meromorfo<s n="adj"/></r></p></e>
+    <e><p><l>choropletic<s n="adj"/></l><r>coropletico<s n="adj"/></r></p></e>
+    <e><p><l>dystrophic<s n="adj"/></l><r>distrófico<s n="adj"/></r></p></e>
+    <e><p><l>inconvertible<s n="adj"/></l><r>inconvertible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>inculpable<s n="adj"/></l><r>inculpable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>indeterminable<s n="adj"/></l><r>indeterminable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>monostable<s n="adj"/></l><r>monoestable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>navigable<s n="adj"/></l><r>navegable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>attachable<s n="adj"/></l><r>embargable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>birefringent<s n="adj"/></l><r>birrefringente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>educable<s n="adj"/></l><r>educable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>equipollent<s n="adj"/></l><r>equipolente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>expandable<s n="adj"/></l><r>ampliable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>prescriptible<s n="adj"/></l><r>prescriptible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>producible<s n="adj"/></l><r>producible<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>periclinal<s n="adj"/></l><r>periclinale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>permutable<s n="adj"/></l><r>permutable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>remanent<s n="adj"/></l><r>remanente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>paraphernal<s n="adj"/></l><r>parafernale<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>monopolistic<s n="adj"/></l><r>monopolizador<s n="adj"/></r></p></e>
+    <e><p><l>bathyal<s n="adj"/></l><r>batial<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>distributional<s n="adj"/></l><r>distribucional<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>acrosomal<s n="adj"/></l><r>acrosomal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>mammillary<s n="adj"/></l><r>mamilar<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>prefixal<s n="adj"/></l><r>prefijal<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>trirectangular<s n="adj"/></l><r>trirectangular<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>unimodular<s n="adj"/></l><r>unimodular<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>mongolian<s n="adj"/></l><r>mongol<s n="adj"/></r></p></e>
   </section>
 
   <section  id="regexp" type="standard">
